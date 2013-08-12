@@ -39,29 +39,29 @@ When I count to three, you will wake up. Okay?<$04><$30><$05>
 //［宏治］：あっ‥‥りょ、涼子先生‥‥。
 ［Kouji］：Ah... Doct... Doctor Ryouko...
 //［涼子］：ずいぶんと長い間、ボーっとしていたけど、大丈夫？
-［Ryouko］：You’ve been spacing out for quite a long time. You all right ?
+［Ryouko］：You've been spacing out for quite a long time. You all right ?
 //［宏治］：えっ？　えぇ‥‥何だか、今日見た夢を思い出していまして‥‥。
 ［Kouji］：Er? Er... I just remembered the dream I saw today...
 //［涼子］：夢？　ここのところ、毎日見るという、例の‥‥？
-［Ryouko］：A dream? You mean the one you’ve seen every day lately, this one?
+［Ryouko］：A dream? You mean the one you've seen every day lately, this one?
 //［宏治］：そうなんですよ、うなされています。
 ［Kouji］：As you said, it was the same nightmare.
 //そうだった‥‥僕は、ここのところ毎日あの夢を見る‥‥あの言い様のない、緊張の不安をあおり立てる、恐い恐い夢だった。
-That was true... Lately, I’ve been seeing the same dream every day. An indescribable truely scary dream that was really shaking me up.
+That was true... Lately, I've been seeing the same dream every day. An indescribable truely scary dream that was really shaking me up.
 //目の前の女性‥‥涼子は、短い髪を後ろにかき上げると、いくぶん厳しい顔を僕に向けた。
 The woman before me, Ryouko... While pushing back her short hair, she turned a somewhat harsh look at me.
 //［涼子］：とりあえず催眠治療は、このくらいにしておきましょう。
-［Ryouko］：Anyway, let’s stop now the hypnotherapy.
+［Ryouko］：Anyway, let's stop now the hypnotherapy.
 //［宏治］：えっ‥‥？　もう終わりですか。
 ［Kouji］：What...? Is it already finished?
 //［涼子］：終わりではないわ。今日は、その夢のことも聞かせて頂戴。
-［Ryouko］：No, that’s not. But today, you’ll also tell me about your dream.
+［Ryouko］：No, that's not. But today, you'll also tell me about your dream.
 //［宏治］：ゆ、夢のことも‥‥ですか？
 ［Kouji］：My... my dream?
 //［涼子］：フフ、恥ずかしがるような夢、なのかしら？
 ［Ryouko］：Fufu, are you embarassed ? Is it that kind of dream?
 //［宏治］：まさか‥‥‥。
-［Kouji］：Don’t make fun of me...
+［Kouji］：Don't make fun of me...
 //［涼子］：私は医者よ。話しても、大丈夫。
 ［Ryouko］：I am a physician. You can tell me.
 //［宏治］：はい‥‥‥‥。
@@ -85,11 +85,11 @@ This place...?
 //‥‥‥‥‥‥。
 ‥‥‥‥‥‥。
 //どうも、頭がボーっとしている‥‥‥‥。
-I’m feeling quite dizzy...
+I'm feeling quite dizzy...
 //まるで、頭の中を誰かにいじられていたようだ‥‥。
-It’s as if someone has been messing with my head...
+It's as if someone has been messing with my head...
 //妙な夢をみたが‥‥‥‥。
-I’ve seen a strange dream...
+I've seen a strange dream...
 //夢か‥‥‥‥。
 A dream...?
 //0010
@@ -103,7 +103,7 @@ But my awareness is somewhat dimmed...
 //いや、意識というか‥‥‥‥。
 Is it my awareness? No...
 //どうも覚えがないな‥‥。
-I don’t remember anything...
+I don't remember anything...
 //なぜ私は、ここに居なくてはならないんだろうか‥‥？
 Why should I be here in the first place...?
 //ここはどうやら、ベッドの上だ。しかも病室らしい‥‥。
@@ -129,13 +129,13 @@ I started removing one by one the round suckers. I wiped off from my skin the wh
 //ようやく全部の吸盤を引き剥がすと、ベッドから身を起し、次に行動すべきことを思案してみた。
 After I finally finished removing all the suckers, I rose up and started thinking about what I should do next.
 //　◆ ここにいても時間の無駄だ。部屋を出てみよう。
-Remaining here is a waste of time. I’m getting out of this room.
+　◆ Remaining here is a waste of time. I'm getting out of this room.
 //　◆ ナースを呼ぶことは出来ないだろうか‥‥。
-Maybe I can call a nurse...
+　◆ Maybe I can call a nurse...
 //　◆ まずは部屋の中を色々と調べてからだ。
-First, I should investigate the inside of the room.
+　◆ First, I should investigate the inside of the room.
 //ここにいても時間の無駄だ。部屋を出てみよう。
-Remaining here is a waste of time. I’m getting out of this room.
+Remaining here is a waste of time. I'm getting out of this room.
 //そう自分に言い聞かせると、私はベッドから立ち上がった。
 While persuading me it was the right thing, I stood up from the bed.
 //ヒンヤリとした感触が、足の裏から伝わってくる。私は軽く身震いをしてしまった。
@@ -149,23 +149,23 @@ I could feel the cold floor from the base of my feet. I shivered slightly.
 //幸い、この部屋は個室のようだった。私はしばし、生まれたままの姿で、唖然と立ち尽くしていた。
 Fortunately, this seemed to be an individual room. I remained standing as bare as a newborn for a short while, dumbfounded.
 //（たちの悪い冗談だな‥‥。）
-(That’s a poor joke...)
+(That's a poor joke...)
 //軽い笑みをもらすと、私は当面の問題を解決しにかかった。
 Letting out a wry smile, I decided to focus on the matter now at stake.
 //しかし、あたりを探してみても、私の衣服が見つかる気配はないようだ。
 But, no matter how much I searched the room, there was no sign of my clothes. 
 //（しょうがない、これで応急処置とするか‥‥。）
-(Can’t be helped, I’ll have to take emergency measures...)
+(Can't be helped, I'll have to take emergency measures...)
 //私は手近のシーツを身体に巻き付けてみた。
 I took the bed sheet and wrapped it up around me.
 //少々動きにくかったが、もつれるほどではない。第一、素っ裸な姿を誰かに見られるよりは、ましだろう。
-It was a little hard to move, but that wasn’t that bad. It was always better than being seen completely naked by someone.
+It was a little hard to move, but that wasn't that bad. It was always better than being seen completely naked by someone.
 //（誰かに‥‥‥？）
 (By someone...?)
 //（誰かって‥‥いったい誰なんだ‥‥？）
 (Someone... Who could that possibly be...?)
 //（まぁいいさ‥‥。）
-(Well, it’s not the time to be thinking that...)
+(Well, it's not the time to be thinking that...)
 //ここにいると、際限なく悪い方向へと想像してしまうようだった。
 I had the feeling that if I remained here, I would just keep thinking in the wrong direction.
 //今は想像よりも行動のときだろう‥‥。
@@ -187,9 +187,9 @@ Maybe I can call a nurse...
 //私はベッド脇にあるはずのブザースイッチを捜してみた。
 I started to grope around looking for the switch that should be by the bedside.
 //（どうしたことだ‥‥。）
-(That’s strange...)
+(That's strange...)
 //（ブザースイッチが、無いじゃないか‥‥。）
-(There doesn’t seem to be any switch...)
+(There doesn't seem to be any switch...)
 //私はベッドを丹念に調べてみた。
 I started examining thoroughly my bed.
 //ほどよい柔らかさの枕と、真っ白なシーツ‥‥いかにも寝心地がよさそうなベッドだった。
@@ -197,9 +197,9 @@ With these fluffy pillows and pure white sheets, it was really a bed in which on
 //しかし寝心地の良さそうなベッドの脇に、ブザースイッチは見あたらなかった。
 Yet, beside that seemingly comfortable bed, the buzzer switch was nowhere to be found.
 //（どうやら、こうしていても、しょうがないな‥‥。）
-(It seems it’s useless to keep going looking...)
+(It seems it's useless to keep going looking...)
 //ブザーが無い、ということはナースを呼べないということだ‥‥。
-If there is no switch, then I can’t call a nurse...
+If there is no switch, then I can't call a nurse...
 //この、当たり前の結論に到達するまで、私は数秒ほど要してしまった。
 It took me several second to reach that obvious conclusion.
 //どうやら、かなり思考能力が低下しているらしい。
@@ -217,9 +217,9 @@ Glancing all around the room, I suddenly told me?:
 //何故か私は、ここが病院か、あるいはどこかの医療センターであると信じて疑わなかった。
 Why was it that I took for granted that this place was a hospital or any other kind of healing facility ?
 //それがどういった根拠をもとにしていたのか、自分でもわからない。
-I couldn’t even guess on what basis I thought that.
+I couldn't even guess on what basis I thought that.
 //（部屋の外へ出れば、何かわかるかもしれない‥‥。）
-(If I leave the room, maybe I’ll find some sort of explanation...)
+(If I leave the room, maybe I'll find some sort of explanation...)
 //無論この期待にも、何の根拠もなかったのだが、何故かそうした方が良い気がする。
 Of course, this thought had no basis either, why was I feeling like leaving would be better?
 //ふと、床に目を落としてみる。
@@ -227,7 +227,7 @@ Suddenly, I took a glance at the floor.
 //暗い青色のタイル張りの床は、私に１つ身震いをさせた。おまけに、床にはスリッパ１つ置いてはいない。
 The cold dark blue floor made be shiver a little. No sleepers were to be found on the floor.
 //（まいったな‥‥‥‥。）
-(I’m beaten...)
+(I'm beaten...)
 //室温は決して低くはなかったが、ひんやりとした床に足を付けると、体温が急速に低下していくのがわかる。
 The room was certainly not cold but, I could feel the coldness permeates from the base of my feet to my entire body.
 //ドアのところまで、ゆっくりと歩いていく。ペタッペタッという音が、室内によく響く。
@@ -235,7 +235,7 @@ While slowly walking towards the door, I could hear my footsteps resounding thro
 //病院にしては、ややそぐわないドアだった。重く厚い。
 For a hospital, this kind of door was odd. It was both heavy and thick.
 //（誰か人がいるといいのだが‥‥‥‥。）
-(I hope there’s  someone here...)
+(I hope there's  someone here...)
 //私は、あわい期待を胸に、重い足取りで部屋を後にした‥‥。
 Then, with faint hope in my heart, I left the room with heavy steps...
 //まずは部屋の中を色々と調べてからだ。
@@ -255,7 +255,7 @@ I then looked at the left side. /*Blue flowers with transparent petals were quie
 //（見たこともない花だが‥‥‥‥。）
 (Never seen that kind of flower before...)
 //もっとも、私が知っている花の種類など、たかが知れている。私の知らない範疇の花なのだろう。
-/*Moreover, it wasn’t important whether this flower was an unknown species to me, as its shape was one I’ve never seen before.
+/*Moreover, it wasn't important whether this flower was an unknown species to me, as its shape was one I've never seen before.
 //さらに左に視線を動かすと、比較的小さな机と、その上に申し訳なさそうに乗っているディスプレイが目に入ってきた。
 As I look further to the left, I saw a relatively small desk with on its top a /*simple monitor.
 //（コンピュータ‥‥何かの端末だろうか？）
@@ -273,7 +273,7 @@ Beep, beep...
 //どうやら、光センサを内蔵していたらしい‥‥私が端末の前に立ったので、それを感知したのかも知れない。
 It seemed light sensors were built-in because it reacted when I stood in front of the terminal.
 //（この文字列は、いったい何の意味があるんだろうか‥‥。）
-(What’s the meaning behind that character string...?)
+(What's the meaning behind that character string...?)
 //アルファベットのようだが‥‥いや、違う。これは‥‥‥‥。
 (It looked like another tongue... No, this was...)
 //私がふと思い浮かんだ単語を認識しようとしたとき、ドアの外で何か物音がした。
@@ -281,9 +281,9 @@ While trying to understand the meaning behind this word, a sort of sound came fr
 //コトッ‥‥コトッ‥‥。
 /*Keck…Keck…
 //（何だ‥‥‥‥？）
-(What’s...?)
+(What's...?)
 //微かだが、音がしたようだ。いや、ドアの外ではない。ドアが音を立てたのだ。
-(It’s faint, but I heard it. It’s not from the beyond the door, the door made the noise itself.)
+(It's faint, but I heard it. It's not from the beyond the door, the door made the noise itself.)
 //（誰か‥‥いるのか‥‥？）
 (Is there... someone..?)
 //その想いは、私に期待と不安を抱かせた。誰かいるのか‥‥‥？
@@ -303,7 +303,7 @@ While scrutinizing the surroundings, I walked my way through the narrow corridor
 //外に出た途端、少しムッとした暖気に襲われた。
 The moment I left the room, I felt a light warmth assaulting me.
 //（暑いな‥‥‥‥。）
-(It’s hot...)
+(It's hot...)
 //室内では、どうやら冷房が効いていたらしい。
 It seemed the air conditioning was working in the room.
 //いや、室外に暖房が効いているのかもしれないが‥‥。
@@ -313,13 +313,13 @@ No... Maybe it was the heating that was working outside the room.
 //気温とは対照的に、冷え冷えとした廊下が、私の目の前にあった。
 Contrasting with the actual temperature, a fearsome, chilly corridor was expending before my eyes.
 //申し訳なさそうに端に置いてある観葉植物が、いくぶん私の心を安心させるが、どうも現実感に欠ける所だった。
-/*Although the decorative plants set apologeticly against the walls were somewhat cheering the atmosphere, this place didn’t look real.
+/*Although the decorative plants set apologeticly against the walls were somewhat cheering the atmosphere, this place didn't look real.
 //往来の廊下という雰囲気はあるものの、人は１人としていない。
 /*I felt this corridor should be teaming with passers-by, but no one was to be seen.
 //目の前に見える廊下、ドア、椅子そして観葉植物と‥‥。
 Be it doors, chairs or decorative plants...
 //確かに私の目の前にあるし、触ることもできる。だがこうも現実感を欠くのはいったい何故だろうか‥‥‥‥。
-Without any doubt, there were right in front of my eyes and I could even touch them. Yet, why did they feel like there weren’t real...?
+Without any doubt, there were right in front of my eyes and I could even touch them. Yet, why did they feel like there weren't real...?
 //しかし、この音はいったいなんだろうか‥‥。
 Yet, what was that noise...?
 //キーンという耳障りな音が、さっきから、どこからともなく聞こえてくる。
@@ -335,37 +335,37 @@ I first thought I was suffering from tinnitus, but it seemed I was really hearin
 //廊下の向こう側から音が聞こえてきた。それは段々と近づいてくる‥‥。
 I could hear a sound getting gradually closer and closer from the other side of the corridor...
 //どうやら、誰かの足音のようだ‥‥‥‥。
-I sounded like someone’s footsteps...
+It sounded like someone's footsteps...
 //　◆ この場にとどまって、あの足音の正体を確かめてやる。
-
+　◆ I'll remain here to uncover who's walking up there.
 //　◆ 手近なドアに、隠れた方がいいかも知れない。
-
+　◆ Maybe it'd be better if I hide behind that nearby door.
 //s0301
 
 //s0201
 
 //（暑い‥‥‥‥。）
-
+(Hot...)
 //（やけに無機質なところ‥‥‥‥。）
-
+(A horrifyingly humanless place...)
 //誰かの足音のよう‥‥‥‥。
-
+Seems like someone's footsteps...
 //s0401
 
 //この場にとどまって、あの足音の正体を確かめてやる。
-
+I'll remain here to uncover who's walking up there.
 //そう威勢良く決めたものの、妙に緊張してしまう。恥ずかしいことに、自分の心音が耳まで届いてきそうだった。
-
+After making this bold decision, strangely, I started becoming nervous. I could even hear my loud heartbeats reaching my ears. What a shame...
 //（靴底が、床を踏む音だろうか‥‥？）
-
+(Without doubt, this is the the sound of shoes tapping the floor...)
 //どうやらそれが一番近い解答と思えた。底の堅い、ブーツか何かをはいているのかも知れない。
-
+This was the most considerate answer. Probably some hard-soled boots.
 //コッ‥‥コッ‥‥‥‥‥‥。
-
+Tap...Tap...
 //不意に音が止まる。どうしたというんだ‥‥‥‥。
-
+Suddenly, the sound stopped. Just what was up there...?
 //［女性の声］：あっ‥‥‥‥。
-
+［Woman's voice］:Ah...
 //不意に後ろから声がした。心臓が、口から飛び出しそうになるのを辛うじて押さえる。
 
 //ra_bast

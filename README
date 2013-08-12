@@ -1,2 +1,16 @@
 script
 ======
+
+In the translation, I use the following code :
+
+ - When a line starts with '/*', it means I am not satisfied with
+ the translation I used and that is needs rephrasing.
+ 
+ 
+ The file 'translation-notes.rtf' serves as a notepad for me.
+ 
+ The file 'title_screen_tracy's_melancholy_jap.BMP' shows the title screen of the last ending.
+ I don't know how this is stored in the game but, this will have to be translated
+ as :
+	肉奴隷			Sex slave
+	トレイシーの憂鬱	Tracy's melancholy
