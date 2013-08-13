@@ -1,0 +1,36 @@
+The following texts can be found in the Lady's room (after you've cleared the game).
+
+LADY’S　ROOM
+
+　◆ 先に進む
+　◆ 最後尾に進む
+　◆ メニューに戻る
+
+　◆ 前に進む
+
+　◆ 最初の絵に戻る
+
+
+Some text as well in the MUSIC MODE :
+～　ミュージックモード　～
+
+And the tracks'names :
+
+	Desert Storm
+	XENON
+	Ranfa	-> I'm willing to change it to "Lanfa"
+	蝶		-> Butterfly
+	<< QUADRA >>
+	Ending II
+	Synaps	-> Maybe "Synapses" would be better ?
+	Ago
+	Trust
+	Silence
+	Encoder
+	Emergency
+	Moon
+	Dream
+	Towering past
+	7th
+	Mood
+	
