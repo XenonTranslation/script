@@ -2,27 +2,27 @@ The following texts can be found in the Lady's room (after you've cleared the ga
 
 LADY’S　ROOM
 
-　◆ 先に進む
-　◆ 最後尾に進む
-　◆ メニューに戻る
+　◆ 先に進む			-> Next picture
+　◆ 最後尾に進む		-> Jump to last picture
+　◆ メニューに戻る		-> Return to the menu
 
-　◆ 前に進む
+　◆ 前に進む			-> Precedent picture
 
-　◆ 最初の絵に戻る
+　◆ 最初の絵に戻る	-> Jump to first picture
 
 
 Some text as well in the MUSIC MODE :
-～　ミュージックモード　～
+～　ミュージックモード　～ -> ～　Music Mode　～
 
 And the tracks'names :
 
 	Desert Storm
 	XENON
-	Ranfa	-> I'm willing to change it to "Lanfa"
+	Ranfa	-> I'm willing to change it to "Lanhua"
 	蝶		-> Butterfly
-	<< QUADRA >>
+	<< QUADRA >> (Now I know how to romanize Kuwadora)
 	Ending II
-	Synaps	-> Maybe "Synapses" would be better ?
+	Synaps	-> Maybe "Synapses" would be better ? (Anyway, after a dictionary check, I discovered that "synapse" takes an "E".)
 	Ago
 	Trust
 	Silence
