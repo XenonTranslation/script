@@ -35,41 +35,41 @@ When I count to three, you will wake up. Okay?<$04><$30><$05>
 //xenon_12
 
 //［涼子］：宏治クン、どうしたの？
-［Ryouko］：Kouji, what is it ?
+[Ryouko]:Kouji, what is it ?
 //［宏治］：あっ‥‥りょ、涼子先生‥‥。
-［Kouji］：Ah... Doct... Doctor Ryouko...
+[Kouji]:Ah... Doct... Doctor Ryouko...
 //［涼子］：ずいぶんと長い間、ボーっとしていたけど、大丈夫？
-［Ryouko］：You've been spacing out for quite a long time. You all right ?
+[Ryouko]:You've been spacing out for quite a long time. You all right ?
 //［宏治］：えっ？　えぇ‥‥何だか、今日見た夢を思い出していまして‥‥。
-［Kouji］：Er? Er... I just remembered the dream I saw today...
+[Kouji]:Er? Er... I just remembered the dream I saw today...
 //［涼子］：夢？　ここのところ、毎日見るという、例の‥‥？
-［Ryouko］：A dream? You mean the one you've seen every day lately, this one?
+[Ryouko]:A dream? You mean the one you've seen every day lately, this one?
 //［宏治］：そうなんですよ、うなされています。
-［Kouji］：As you said, it was the same nightmare.
+[Kouji]:As you said, it was the same nightmare.
 //そうだった‥‥僕は、ここのところ毎日あの夢を見る‥‥あの言い様のない、緊張の不安をあおり立てる、恐い恐い夢だった。
 That was true... Lately, I've been seeing the same dream every day. An indescribable truely scary dream that was really shaking me up.
 //目の前の女性‥‥涼子は、短い髪を後ろにかき上げると、いくぶん厳しい顔を僕に向けた。
 The woman before me, Ryouko... While pushing back her short hair, she turned a somewhat harsh look at me.
 //［涼子］：とりあえず催眠治療は、このくらいにしておきましょう。
-［Ryouko］：Anyway, let's stop now the hypnotherapy.
+[Ryouko]:Anyway, let's stop now the hypnotherapy.
 //［宏治］：えっ‥‥？　もう終わりですか。
-［Kouji］：What...? Is it already finished?
+[Kouji]:What...? Is it already finished?
 //［涼子］：終わりではないわ。今日は、その夢のことも聞かせて頂戴。
-［Ryouko］：No, that's not. But today, you'll also tell me about your dream.
+[Ryouko]:No, that's not. But today, you'll also tell me about your dream.
 //［宏治］：ゆ、夢のことも‥‥ですか？
-［Kouji］：My... my dream?
+[Kouji]:My... my dream?
 //［涼子］：フフ、恥ずかしがるような夢、なのかしら？
-［Ryouko］：Fufu, are you embarassed ? Is it that kind of dream?
+[Ryouko]:Fufu, are you embarassed ? Is it that kind of dream?
 //［宏治］：まさか‥‥‥。
-［Kouji］：Don't make fun of me...
+[Kouji]:Don't make fun of me...
 //［涼子］：私は医者よ。話しても、大丈夫。
-［Ryouko］：I am a physician. You can tell me.
+[Ryouko]:I am a physician. You can tell me.
 //［宏治］：はい‥‥‥‥。
-［Kouji］：Okay...
+[Kouji]:Okay...
 //一息吐くと、順を追って話しはじめた。
-［Ryouko］：Exhaling, I started describing my dream from beginning to end.
+Exhaling, I started describing my dream from beginning to end.
 //［宏治］：あそこは、暗く寂しい場所でした‥‥‥‥。<$05>
-［Kouji］：It was a gloomy, lonely place...
+[Kouji]:It was a gloomy, lonely place...
 //waku2
 
 //xenon_17
@@ -364,54 +364,54 @@ This was the most considerate answer. Probably some hard-soled boots.
 Tap...Tap...
 //不意に音が止まる。どうしたというんだ‥‥‥‥。
 Suddenly, the sound stopped. Just what was up there...?
-//［女性の声］：あっ‥‥‥‥。
-［Woman's voice］:Ah...
+//[女性の声］：あっ‥‥‥‥。
+[Woman's voice]:Ah...
 //不意に後ろから声がした。心臓が、口から飛び出しそうになるのを辛うじて押さえる。
-
+A voice suddenly echoed behind me. I barely managed to hold my heart from jumping out of my chest.
 //ra_bast
 
 //ra_ba_b
 
 //手近なドアに、隠れた方がいいかも知れない。
-
+Maybe it'd be better if I hide behind that nearby door.
 //私にはまだ、どうもこの状況が良く呑み込めていなかった。異様なくらい、不安を感じる。
-
+I still couldn't grasp the situation at hand. Moreover uneasiness was still lingering within me.
 //ドアの中から様子をうかがってみるのも、１つの手だろう。
-
+Peeking to the corridor from behind the door was a good way to analyse the situation.
 //不意に音が止まる。どうしたというんだ‥‥‥？
-
+But the sound suddenly stopped. What's up now...?
 //声だ‥‥しかも女性の‥‥？
-
+A voice... and a woman's voice on top of that...?
 //私はドアの窓の端から、彼女の様子をうかがった。
-
+Looking through the door's window, I carefully inspected the woman.
 //ちょうど、私がいたはずの部屋から出てくると、その女性はキョロキョロとあたりを見回した。
-
+Leaving the room I was precisely in, the woman was scrutinizing her surroundings.
 //もしかすると、私のことを捜しているのだろうか‥‥？
-
+Could it me that she was looking for me...?
 //あまりにドアに寄り掛かり過ぎたので、思わず手でスイッチを押してしまったらしい。
-
+Probably because I was leaning excessively on the door, I unpurposely ended up pushing the switch to open it.
 //［目の前の女性］：あっ‥‥‥‥。
-
+[Woman before me]:Ah...
 //bast_m01
 
 //［私］：き、君は‥‥‥？
-
+[Me]:You...you are...?
 //［目の前の女性］：‥‥‥‥‥‥。
-
+[Woman before me]:......
 //薄暗い場所にたたずむ女性は、少し怯えているような感じだった。
-
+The fact that a woman was loitering alone in such a gloomy place gave me an ominous feeling.
 //いやむしろ、女性というよりは、あどけなさの残る美少女、という感じだ。
-
+Nay, more than a woman, she gave the feeling of a pristine and exquisite maiden.
 //私に、よほど驚いたのだろう。目の前の少女は、怪訝そうな表情をしてじっと押し黙っている。
-
+She seemed surprised at me. Showing a puzzled face, she was keeping silent.
 //［私］：（それにしても‥‥‥。）
-
+/*[Me]:(At any rate, I should...)
 //ra01
 
 //ra01_m
 
 //特徴的な女の子だった‥‥。
-
+That was a peculiar woman.
 //暗く透き通った髪の毛とは対象に、大きなレモンイエローのリボン、露出度の高い胸部分のワインレッドの色調‥‥。
 
 //見ていて、少しクラクラしてしまいそうだった。
