@@ -1,6 +1,12 @@
-Take any .DAT file and put it in the .fdi file*l
+Take any .DAT file and put it in the .fdi file (disk 1)
 You can use anxdiet.exe which is packaged with Anex86.
 
 Each folder holds the saves from a different route.
 
 You can find the different endings on http://tryspace.net/game/xenon/
+
+There is as well a common save which is the file "XEN.GDT".
+The file in this repo is the one from a completed game (all endings have been seen and the bonuses are unlocked).
+
+Interestingly enough, this file weighs 1 byte and only contains an hexadecimal value which is 7F for a completed game and 00 for a game that has never been played.
+I don't know what this file holds in any other situation as I didn't bother taking a look.
