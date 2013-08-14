@@ -279,7 +279,7 @@ It seemed light sensors were built-in because it reacted when I stood in front o
 //私がふと思い浮かんだ単語を認識しようとしたとき、ドアの外で何か物音がした。
 While trying to understand the meaning behind this word, a sort of sound came from beyond the door.
 //コトッ‥‥コトッ‥‥。
-/*Keck…Keck…
+/**tuck* *tuck*
 //（何だ‥‥‥‥？）
 (What's...?)
 //微かだが、音がしたようだ。いや、ドアの外ではない。ドアが音を立てたのだ。
@@ -313,9 +313,9 @@ No... Maybe it was the heating that was working outside the room.
 //気温とは対照的に、冷え冷えとした廊下が、私の目の前にあった。
 Contrasting with the actual temperature, a fearsome, chilly corridor was expending before my eyes.
 //申し訳なさそうに端に置いてある観葉植物が、いくぶん私の心を安心させるが、どうも現実感に欠ける所だった。
-/*Although the decorative plants set apologeticly against the walls were somewhat cheering the atmosphere, this place didn't look real.
+/*Although the decorative plants set apologetically against the walls were somewhat cheering the atmosphere, this place didn't look real.
 //往来の廊下という雰囲気はあるものの、人は１人としていない。
-/*I felt this corridor should be teaming with passers-by, but no one was to be seen.
+/*I thought this corridor should be teaming with passers-by, but no one was to be seen.
 //目の前に見える廊下、ドア、椅子そして観葉植物と‥‥。
 Be it doors, chairs or decorative plants...
 //確かに私の目の前にあるし、触ることもできる。だがこうも現実感を欠くのはいったい何故だろうか‥‥‥‥。
@@ -327,7 +327,7 @@ A chilling, ear-piercing sound that came out of nowhere was since then pervading
 //最初は耳鳴りかと思ったが、どうやら本当に聞こえてきているらしい。
 I first thought I was suffering from tinnitus, but it seemed I was really hearing it.
 //コッ‥‥コッ‥‥コッ‥‥。
-/*Tap...Tap...Tap...
+/**tap* *tap* *tap*
 //（‥‥ん？）
 (...Mmh?)
 //（な、なんだ‥‥？）
@@ -361,7 +361,7 @@ After making this bold decision, strangely, I started becoming nervous. I could 
 //どうやらそれが一番近い解答と思えた。底の堅い、ブーツか何かをはいているのかも知れない。
 This was the most considerate answer. Probably some hard-soled boots.
 //コッ‥‥コッ‥‥‥‥‥‥。
-Tap...Tap...
+/**tap* *tap* ...
 //不意に音が止まる。どうしたというんだ‥‥‥‥。
 Suddenly, the sound stopped. Just what was up there...?
 //[女性の声］：あっ‥‥‥‥。
@@ -443,13 +443,13 @@ However, concerning my name, especially the way it was spelt, I couldn't read it
 //［ランファ］：‥‥‥‥‥‥。
 [Lanhua]:......
 //［私］：教えてくれないか？　私はいったい‥‥‥‥。
-[Me]:Can you tell me? Who am...
+[Me]:Please tell me? Who am...
 //［私］：あっ、待ってくれ！‥‥ランファ！？
 [Me]:Hey! Wait!... Lanhua!?
 //［私］：（冗談じゃない、ここでまた１人にさせられてたまるか‥‥。）
 /*[Me]:(No joke, I gotta catch up to her... Don't want to spend more time alone in this place.)
 //気が少し動転していたのかもしれない‥‥。
-Maybe she was upset...
+Maybe she was a little upset...
 //いつの間にか、寒々とした場にきてしまった。目の前には、口から吐かれる白い煙が、ゆらゆらと揺れていた。
 Before I realized, I arrived in a completely bleak place. It was so cold I could see my breath.
 //ランファと名乗る少女を捜して、あちこちをさまよっているうちに、妙な場所へ出てしまったようだが‥‥。
@@ -463,43 +463,43 @@ It seemed that while I was roaming the area looking for this girl called Lanhua,
 //妙な場所だった。
 That was an unusual place.
 //目の前には、何に使うのか用途不明なカプセル状の機材が数体、置いてあった。
-
+Several capsule-like instruments were settled inside the room. I had no idea what they were here for.
 //もっとも、メカニカルな診療台が数台置いてある手術室、と考えられなくもない。
-
+Deeming these capsules to be medical tools was more or less plausible.
 //（最新の医療設備、というヤツだろうか‥‥‥‥？）
-
+(Maybe these are state-of-the-art medical devices...?)
 //重々しいサウンドが、頭に響きわたる。私は再び、頭痛に見舞われてきた。
-
+A loud sound resounded again in my head. Again, I felt assaulted by a terrible headache.
 //ふと、目の前の装置を見てみると、なにやらランプが点滅している。私はそれに若干の興味を抱いた。
-
+Then, as soon as I glanced at the device, some kind of light started blinking. I found myself to be quite enthralled by that light.
 //　◆ もっとよく見てみよう。
-
+　◆ Let's see from closer.
 //　◆ この頭痛は耐え難い。部屋を早く出よう。
-
+　◆ I can't stand that headache. I'll leave this room at once.
 //もっとよく見てみよう。
-
+Let's see from closer.
 //この頭痛は耐え難い。部屋を早く出よう。
-
+I can't stand that headache. I'll leave this room at once.
 //私が部屋を早々に立ち去ろうした時‥‥‥‥。
-
+But as soon as I tried to leave the room...
 //（あっ‥‥‥‥。）
-
+(Ah...)
 //ドアは無情にも、私の目の前で退路をふさいでしまった‥‥。
-
+The door was ruthlessly blocking my retreat...
 //（どういうことだ‥‥私を、閉じこめるつもりか‥‥？）
-
+(What the... Are they trying to shut me in...?)
 //ドンドンドン、ドンドンドン！<$04><$30><$05>
-
+/**bang* *bang* *bang*
 //\n　
-
+\n
 //無駄とはわかっていても、言い様のない不安と緊張が、私の手を動かし続けた。
-
+Though I knew it was useless, anxiety and fear were making my hands move on their own.
 //意に反して、ドアは冷然と私の前に立ちふさがっている。
-
+/*But the door, impervious to my will, was still preventing me from fleeing.
 //私の拳で、どうこうなる硬さではないらしい。私は、赤く腫れた拳をさすりながら、
-
+Soon my swollen fists started aching - they weren't as hard as the door.
 //（ダメか‥‥‥‥。）
-
+(Is it hopeless...?)
 //部屋の中は相変わらず寒々としていて、静寂の音を醸し出しているようだった。
 
 //私が嘆息して部屋をぐるりと見回すと、ふと目に入ってくるものがあった。
