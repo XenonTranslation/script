@@ -411,57 +411,57 @@ She seemed surprised at me. Showing a puzzled face, she was keeping silent.
 //ra01_m
 
 //特徴的な女の子だった‥‥。
-That was a peculiar woman.
+She surely was a peculiar woman.
 //暗く透き通った髪の毛とは対象に、大きなレモンイエローのリボン、露出度の高い胸部分のワインレッドの色調‥‥。
-
+Crystalline but dark hair, wearing a large lemon yellow ribbon and a showy wine red brassiere - indeed that was peculiar.
 //見ていて、少しクラクラしてしまいそうだった。
-
+Looking carefully, she seemed quite desoriented.
 //下半身に目を移すとさらにドキッとした。左右両側に大きく切れ込んだスリットが、真っ白な太股を惜しげもなく露出している。
-
+I was all the more shocked when I saw the lower half of her body. Her pure white buttocks were stressed by the thin line of cloth that separated them.
 //［私］：（ナース‥‥‥‥だろうか？）
-
+[Me]:(Is she... a nurse?)
 //非現実的な場面に、これまた非現実的なナースの登場という訳だった。
-
+In this unrealistic setting, an all the more unrealistic nurse just made her entrance.
 //大きくクリクリとした目が、また可愛らしく良く動いていた。
-
+Her big round eyes were moving gently in her sockets.
 //［目の前の女性］：ランファ‥‥。
-
+[Woman before me]:Lanhua...
 //［私］：‥‥えっ？
-
+[Me]:...Huh?
 //［ランファ］：私の名前‥‥‥‥。
-
+[Lanhua]:My name...
 //［私］：そ、そうか。私は‥‥‥‥。
-
+[Me]:I, I see. Mine is...
 //そう言いかけて、はたと気付いてしまった。私の名前‥‥‥‥？
-
+Saying that, I suddenly realized. My name...?
 //不思議なものだった。自分の身長や体重、趣味などは思い出すことができた。丁度資料を調べるように、自分のデータを読むことができるのだ。
-
+That was a mystery. I knew my height, my weight, even my hobbies. As if I was sifting some sort of document, I could read my personal data.
 //だが、名前の部分になると、ちょうどそこの文字の部分に、網が掛かって読めなくなるような、そんな感じだった。
-
+However, concerning my name, especially the way it was spelt, I couldn't read it. It was as if it was entangled in my memories.
 //［私］：私は‥‥私はいったい誰だ？
-
+[Me]:Who...Who in the world am I?
 //［ランファ］：‥‥‥‥‥‥。
-
+[Lanhua]:......
 //［私］：教えてくれないか？　私はいったい‥‥‥‥。
-
+[Me]:Can you tell me? Who am...
 //［私］：あっ、待ってくれ！‥‥ランファ！？
-
+[Me]:Hey! Wait!... Lanhua!?
 //［私］：（冗談じゃない、ここでまた１人にさせられてたまるか‥‥。）
-
+/*[Me]:(No joke, I gotta catch up to her... Don't want to spend more time alone in this place.)
 //気が少し動転していたのかもしれない‥‥。
-
+Maybe she was upset...
 //いつの間にか、寒々とした場にきてしまった。目の前には、口から吐かれる白い煙が、ゆらゆらと揺れていた。
-
+Before I realized, I arrived in a completely bleak place. It was so cold I could see my breath.
 //ランファと名乗る少女を捜して、あちこちをさまよっているうちに、妙な場所へ出てしまったようだが‥‥。
-
+It seemed that while I was roaming the area looking for this girl called Lanhua, I ended up in this unusual place.
 //0040
 
 //xenon_13
 
 //（ここは‥‥‥‥？）
-
+(This place...?)
 //妙な場所だった。
-
+That was an unusual place.
 //目の前には、何に使うのか用途不明なカプセル状の機材が数体、置いてあった。
 
 //もっとも、メカニカルな診療台が数台置いてある手術室、と考えられなくもない。
