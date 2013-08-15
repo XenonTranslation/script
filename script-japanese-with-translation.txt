@@ -509,71 +509,71 @@ It was the flickering light I had seen before.
 //何か気になる‥‥大きな球面状のガラスに覆われたカプセル状の機械は、私に、その中にまで興味を抱かせた。
 It picked my curiosity... I wanted to see what was laying behind the capsule's glass. I wanted to know what was inside.
 //近くへ寄ってみると、点滅しているものを確認することはできた。
-
+Getting closer, I finally understood what was the source of that light.
 //（何だ‥‥？）
-
+(What's this...?)
 //0040b
 
 //側面下方に付いてある、小さなコンソールパネルが点滅している。そこから、ピッ、ピッ、という電子音が、断続的に鳴っているようだ。
-
+Below on the side, a console panel was blinking. You could intermittently hear a strident sound stemming from it.
 //私は屈んでパネルをのぞき込んでみる。そこには小さな文字で、こうディスプレイされていた。
-
+Ducking, I peered at the monitor. On it the following characters were displayed :
 //　　　　　　　　　　　　　P.P.E.<$05><$04><$30>
-
+　　　　　　　　　　　　　P.P.E.<$05><$04><$30>
 //\n　　　　　　　　PSYCHIC - PROGRAM - ENCODER<$05><$04><$30>
-
+\n　　　　　　　　PSYCHIC - PROGRAM - ENCODER<$05><$04><$30>
 //\n\n\n　　　　　　　　　PSY encoder operating ...<$04><$30><$05>
-
+\n\n\n　　　　　　　　　PSY encoder operating ...<$04><$30><$05>
 //（サイキック‥‥プログラムエンコーダ‥‥？）
-
+(Psychic... Program encoder...?)
 //（いったい‥‥‥‥。）
-
+(What...)
 //（いったい何だろう‥‥これは‥‥？）
-
+(What the heck is that...?)
 //不透明なガラスで覆われたカプセル状の機械は、静かに、しかし重いサウンドを響かせている。
-
+/*A heavy sound was resounding from the inside of the capsule.
 //（オペレーティング‥‥何かが作動中、ということだろうか‥‥。）
-
+(Operating... Does that mean it is in use...?)
 //手で、目の前のガラスをコンコンと叩いてみる。厚みのある音がかえってきたが、中には何か入っていそうな感じだ。
-
+I started knocking at the glass. It sounded hollow, yet I had the feeling something was in there.
 //（かなり丈夫そうなガラスだが‥‥‥‥。）
-
+(The glass looks quite sturdy...)
 //私がそう思ったとき‥‥‥‥。
-
+The instant I thought that...
 //私が手をかざしたその時、重々しいガラスが静かにスライドし始めた。
-
+Holding my hands aloft, the thick glass started to slide calmly.
 //何かのセンサーが、埋め込まれていたのかも知れない‥‥。
-
+Maybe some sort of sensors are built-in...
 //fa01
 
 //（‥‥！？）<$04><$30><$05>
-
+(...!?)
 //（こ、これは‥‥‥‥。）
-
+(What...)
 //（何だ、これは‥‥‥‥。）
-
+(What's that...?)
 //カプセルの中には、赤毛の女性が横たわっている。しかも、一糸まとわぬ全裸だった。
-
+Inside the capsule a red-haired woman was lying down. Hey! She was stark naked!
 //女性というよりはまだ、あどけなさの残る少女、という形容の方が相応しい気もする。肉付きは意外に悪くない。
-
+More than a woman, she gave the feeling of a pristine maiden. And her forms weren't bad.
 //（どういうことだ‥‥なぜ、こんな少女がここに‥‥‥‥はっ！？）
-
+(What the... Why is there a girl inside... Wha!?)
 //（ま、まさか‥‥‥！？）
-
+(D...Don't tell me...!?)
 //そっと、首筋の部分に手を当ててみる。そこは柔らかく、暖かかった。
-
+I gently approached my hands towards the nape of her neck. It was soft and warm.
 //（どうやら、生きてはいるようだが‥‥‥‥。）
-
+(It seems she's alive...)
 //（何を‥‥‥しているんだろうか‥‥？）
-
+/*(What... What am I doing...?)
 //私が、彼女の身体に触れようとした時‥‥‥‥。
-
+The moment I tried to touch her body...
 //プシューーー‥‥‥‥。<$04><$30><$05>
-
+Pshhhh...
 //ビービービー、ビービービー‥‥。
-
+*beep* *beep* *beep*
 //（な、何だ‥‥どうしたんだ‥‥！？）
-
+(Why... What's going on...!?)
 //何かの警告音が、部屋中をこだまする。音は下方から発されていた。
 
 //先ほどのパネルには、こう表示されていた‥‥。
