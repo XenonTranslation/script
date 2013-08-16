@@ -35,9 +35,9 @@ When I count to three, you will wake up. Okay?<$04><$30><$05>
 //xenon_12
 
 //［涼子］：宏治クン、どうしたの？
-[Ryouko]:Kouji, what is it ?
+[Ryouko]:Kouji-kun, what is it ?
 //［宏治］：あっ‥‥りょ、涼子先生‥‥。
-[Kouji]:Ah... Doct... Doctor Ryouko...
+[Kouji]:Ah... Ryou... Ryouko-sensei...
 //［涼子］：ずいぶんと長い間、ボーっとしていたけど、大丈夫？
 [Ryouko]:You've been spacing out for quite a long time. You all right ?
 //［宏治］：えっ？　えぇ‥‥何だか、今日見た夢を思い出していまして‥‥。
@@ -51,7 +51,7 @@ That was true... Lately, I've been seeing the same dream every day. An indescrib
 //目の前の女性‥‥涼子は、短い髪を後ろにかき上げると、いくぶん厳しい顔を僕に向けた。
 The woman before me, Ryouko... While pushing back her short hair, she turned a somewhat harsh look at me.
 //［涼子］：とりあえず催眠治療は、このくらいにしておきましょう。
-[Ryouko]:Anyway, let's stop now the hypnotherapy.
+[Ryouko]:Anyway, let's stop here for the hypnotherapy.
 //［宏治］：えっ‥‥？　もう終わりですか。
 [Kouji]:What...? Is it already finished?
 //［涼子］：終わりではないわ。今日は、その夢のことも聞かせて頂戴。
@@ -59,7 +59,7 @@ The woman before me, Ryouko... While pushing back her short hair, she turned a s
 //［宏治］：ゆ、夢のことも‥‥ですか？
 [Kouji]:My... my dream?
 //［涼子］：フフ、恥ずかしがるような夢、なのかしら？
-[Ryouko]:Fufu, are you embarassed ? Is it that kind of dream?
+[Ryouko]:Fufu, are you embarassed? Is it _that_ kind of dream?
 //［宏治］：まさか‥‥‥。
 [Kouji]:Don't make fun of me...
 //［涼子］：私は医者よ。話しても、大丈夫。
@@ -647,27 +647,27 @@ The game was saved in slot 3.
 //データ４にセーブしました。
 The game was saved in slot 4.
 //　　　　　　コウジさん、目覚める時間ですよ‥‥。<$04><$30><$05>
-
+　　　　Kohji-san, it's time to wake up...<$04><$30><$05>
 //　　　　　　　　目覚めの‥‥時間‥‥？<$04><$30><$05>
-
+　　　　　　　Time... to wake up...?<$04><$30><$05>
 //　　　　　　　　　コウジさん‥‥。<$04><$30><$05>
-
+Kohji-san...
 //　　　　コウジ‥‥？　それが私の名前なのか‥‥？<$04><$30><$05>
-
+　　　　　Kohji...? Is this my name...?<$04><$30><$05>
 //1010b_m
 
 //以前にも、同じ様な事がなかっただろうか‥‥？
-
+Had the same thing happened before...?
 //口で否定はしたものの、あまり人に大声で話せる内容で無いのも、確かなようだった。
-
+/*I'd have liked to deny it, but it's not the kind of thing I should say out loud.
 //しばらく思案している僕を見て、涼子は、
-
+Ryouko, who seemed to be pondering over something while scrutinizing me, finally said :
 //［涼子］：宏治クン、私はこれでも医者よ。恥ずかしがる必要など、全くないの。
-
+[Ryouko]:Kouji-kun, I am a physician, there is no need for you to feel any shame in front of me.
 //［宏治］：ええ‥‥‥。
-
+[Kouji]:Yeah...
 //［涼子］：‥‥‥‥‥‥。
-
+[Ryouko]:...
 //静かな昼下がり、という形容が相応しかった。
 
 //都会の雑踏とは無縁のこの場所は、微妙な、メンタルな部分に依存する人たちに、快適な環境を提供してくれている。
