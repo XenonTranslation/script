@@ -575,77 +575,77 @@ Pshhhh...
 //（な、何だ‥‥どうしたんだ‥‥！？）
 (Why... What's going on...!?)
 //何かの警告音が、部屋中をこだまする。音は下方から発されていた。
-
+An alarm-like sound was echoing through the room. The sound was coming from below.
 //先ほどのパネルには、こう表示されていた‥‥。
-
+The panel was now displaying this :
 //\n　　　　　　　　　　　Now decoding ...<$04><$30><$05>
-
+\n　　　　　　　　　　　Now decoding ...<$04><$30><$05>
 //　
-
+　
 //何か、マズいことでもしてしまったのだろうか‥‥？
-
+Did I happen to do something wrong...?
 //警告音が頭に響きわたる‥‥私は、少し吐き気をもよおしてきた。
-
+The alarm was resounding though my head. I was getting a bit nauseous.
 //（何か、とんでもない事をしてしまったのかも知れない‥‥。）
-
+(Maybe I did something I shouldn't have...)
 //再び、めまいと頭痛に襲われ始めた私は、頭を振りながら、少しでもこの音から遠ざかろうとしていた‥‥。
-
+Again, I started to feel dizzy. In a attempt to ease my headache, I tried to move away from the sound. 
 //0030
 
 //（うぅ‥‥‥‥あ、頭が‥‥‥‥。）
-
+(Uh... My head...)
 //未だ頭に響いてくるこの不快な音は、いっこうに止む気配すらなかった。
-
+This obnoxious sound was still blowing my head. Its presence hadn't waned at all.
 //（ここは、さっきの廊下‥‥？）
-
+(I am in the corridor from before...?)
 //（いや、どうも違うようだが‥‥‥‥。）
-
+(No, this seems a bit different...)
 //もはや、どこをどう進んでいるのかもわからなかった。
-
+I had no clue as to where I should go.
 //私は頭を抑えながら、闇雲に歩き回る‥‥。
-
+Holding my head in my heads, I was desperately roaming about.
 //（出口は‥‥‥‥出口は、どこなんだ‥‥！？）
-
+(Exit... Where is the exit...!?)
 //（誰か‥‥‥‥。）
-
+(Please, someone...)
 //不安と緊張、そして恐怖が、私の意識を次第に遠いものへとしていった‥‥‥‥。
-
+Anxiety and tension, followed by fear were gradually taking my awareness away.
 //（意識が‥‥‥‥‥‥。）
-
+(I'm losing it...)
 //（夢なら早く‥‥早くさめてくれ‥‥‥‥。）
-
+(If it's dream... Please stop it...)
 //消えゆく意識の中で私は、さきほどの少女の姿を、ぼんやりと思い出していた‥‥‥‥。
-
+While my conciousness was drifting away, I faintly remembered the young woman I saw before...
 //s0102
 
 //　◆ セーブする。
-
+　◆ Save
 //　◆ ゲームを続ける。
-
+　◆ Continue the game
 //　データ１　　
-
+　Slot 1
 //　データ２
-
+　Slot 2
 //　データ３
-
+　Slot 3
 //　データ４
-
+　Slot 4
 //save1
 
 //データ１にセーブしました。
-
+The game was saved in slot 1.
 //save2
 
 //データ２にセーブしました。
-
+The game was saved in slot 2.
 //save3
 
 //データ３にセーブしました。
-
+The game was saved in slot 3.
 //save4
 
 //データ４にセーブしました。
-
+The game was saved in slot 4.
 //　　　　　　コウジさん、目覚める時間ですよ‥‥。<$04><$30><$05>
 
 //　　　　　　　　目覚めの‥‥時間‥‥？<$04><$30><$05>
