@@ -669,63 +669,63 @@ Ryouko, who seemed to be pondering over something while scrutinizing me, finally
 //［涼子］：‥‥‥‥‥‥。
 [Ryouko]:...
 //静かな昼下がり、という形容が相応しかった。
-
+/*We could accurately compare it to a peaceful afternoon.
 //都会の雑踏とは無縁のこの場所は、微妙な、メンタルな部分に依存する人たちに、快適な環境を提供してくれている。
-
+/*Far from the city's throng, they were offering a comfy and doubtful program to mentally dependant people.
 //ブラインドから洩れる陽射しが、天候の良さを物語っている。外からは時折、鳥のさえずり声が聞こえるだけで、あたりは概ね静かだ‥‥。
-
+The sunlight seeping through the blind was showing us that the weather was good. Apart from the chirping birds, nothing was to be heard. 
 //［宏治］：どうしても、言わなくてはダメですか？
-
+[Kouji]:Do I really have to tell you ?
 //［涼子］：ええ。貴重なサンプル情報となるのですからね。
-
+[Ryouko]:Yes, it does, as it could be an important sample.
 //［宏治］：わかりました‥‥でも、笑わないで下さいよ。
-
+[Kouji]:OK... But don't laugh please.
 //［涼子］：大丈夫よ‥‥じゃあ最初から、覚えているだけでいいから、出来るだけ詳しく話して頂戴。
-
+[Ryouko]:No need to worry about it. Well then, tell what you can remember as precisely as possible.
 //僕はゆっくりと、記憶の糸を辿りだした。
-
+I then started to unravel the threads of my memory.
 //夢というのは、見ているときはやけにクリアであるのに、起きてしばらくすると、あっという間に忘却してしまう、そんな性質がある。
-
+Dreams are fleeting by nature, they are so clear the moment you see them, but as soon as you wake up, they fall into oblivion.
 //僕はできるだけ鮮明に、夢の内容を思いだそうと試みた‥‥。
-
+Endeavouring to remember my dream as distincly as possible, I said :
 //［宏治］：まず僕は‥‥‥‥。
-
+[Kouji]:First, I...
 //　◆ いつの間にか、ボイラー室のような所にいた‥‥。
-
+　◆ ...found myself in some sort of boiler room.
 //　◆ どこか、見知らぬ病室のような場所で目覚めた‥‥。
-
+　◆ ...woke up somewhere in a sort of hospital room.
 //［宏治］：いつの間にか、ボイラー室のような所にいた‥‥。
-
+[Kouji]:...found myself in some sort of boiler room.
 //［涼子］：ボイラー室？　またずいぶんと具体的ね。
-
+[Ryouko]:A boiler room? That's tangible.
 //［宏治］：えぇ、そのようです‥‥もっとも確信はないんですけど。
-
+[Kouji]:Yeah,it seemed like that... But I'm not really sure.
 //［涼子］：何となく、ボイラー室っぽかったと、そういうこと？
-
+[Ryouko]:At least, it was somewhat like a boiler room, wasn't it?
 //［宏治］：そうです。
-
+[Kouji]:Yes, it was.
 //僕自身も、それほど自信は無かった。
-
+Even I wasn't really sure myself.
 //しかし、あのボイラー室特有の熱く騒がしい感覚が、未だに脳裏に焼き付いていたのだ。
-
+But its heat and rowdiness were still etched into my mind.
 //［涼子］：わかったわ‥‥それで、中なんかは、どうなっていたのかしら？
-
+[Ryouko]:Understood. Then, how was the room interior?
 //［宏治］：やけに寒々としていたような、そんな気がしました。
-
+[Kouji]:It was awfully bleak. It was that kind of feeling.
 //［涼子］：寒々と‥‥ボイラー室なのに？
-
+[Ryouko]:You felt a _boiler_ room was bleak?
 //［宏治］：そ、そうですね‥‥何か変ですね。
-
+[Kouji]:Yes, I admit that's strange.
 //［涼子］：まぁいいわ。それから、どうしたのかしら？
-
+[Ryouko]:Whatever. Hence, what did you do?
 //［宏治］：それから、何だかいたたまれなくなって、そこを出たような気がします。
-
+[Kouji]:Hence, I think I suddenly felt like I couldn't bear it any more, and I ran away.
 //［涼子］：わかったわ‥‥他に、気付いた点とか、あるかしら？
-
+[Ryouko]:Understood... Did you notice anything else?
 //［宏治］：そうですね‥‥‥‥。
-
+[Kouji]:Yeah, there was... //->TO 853
 //［宏治］：どこか、見知らぬ病室のような場所で目覚めた‥‥。
-
+[Kouji]:...woke up somewhere in a sort of hospital room.
 //［涼子］：病室？
 
 //［宏治］：えぇ‥‥もっとも確信はないんですけど‥‥。
@@ -851,31 +851,31 @@ Ryouko, who seemed to be pondering over something while scrutinizing me, finally
 //［涼子］：フフ、そんなものよ‥‥。
 
 //［宏治］：そうだ、確かドアが‥‥‥‥。
-
+[Kouji]:That's it, the door was...
 //［涼子］：ドアが、どうかしたの？
-
+[Ryouko]:What about the door?
 //［宏治］：ええ。ドアが自動だったんですが‥‥。
-
+[Kouji]:The door was an automatic one...
 //［涼子］：まぁ、自動ドアはそれほど珍しくはないわね。
-
+[Ryouko]:Well, automatic doors are not that rare nowadays.
 //［宏治］：違うんです。そのドアが‥‥‥‥。
-
+[Kouji]:That's not it. I think...
 //　◆ 異様に厚かったような気がした‥‥。
-
+　◆ ...the door was unexpectedly thick...
 //　◆ 銀色に輝いていたような気がした‥‥。
-
+　◆ ...the door was sparkling silver...
 //［宏治］：異様に厚かったような気がした‥‥。
-
+[Kouji]:...the door was unexpectedly thick...
 //［涼子］：厚い？
-
+[Ryouko]:Thick?
 //［宏治］：ええ何だか、潜水艦のドアみたいに分厚かったような気がしました。
-
+[Kouji]:Yeah... I think it looked like a submarine's door.
 //［涼子］：厚いドア、ね‥‥。
-
+[Ryouko]:A thick door...
 //涼子の手元は盛んに動いているが、目は薄く遠くを見ている。
-
+Ryouko's hands were moving energetically, yet her eyes were piercing, looking far away.
 //２つのことを、同時にできるらしかった。大したものだと思う。
-
+I thought that being able to do both these things at the same time was quite a feat. //->TO 887
 //［宏治］：銀色に輝いていたような気がした‥‥。
 
 //［涼子］：銀色に？
@@ -885,31 +885,31 @@ Ryouko, who seemed to be pondering over something while scrutinizing me, finally
 //［涼子］：ふむ、銀色のドア‥‥と。
 
 //［涼子］：それで、ドアから出て、夢はおしまい？
-
+[Ryouko]:Then, you fled by the door and that's it for your dream?
 //［宏治］：いいえ、それからが不可解な夢になって‥‥。
-
+[Kouji]:No, from now, it becomes really baffling...
 //［涼子］：ふむ‥‥。
-
+/*[Ryouko]:Hmpf...
 //涼子は再び遠く見るような目をすると、何かを思案するような仕草をした。
-
+Again, Ryouko was staring far away, she seemed to be pondering over something.
 //［涼子］：では、話して頂戴。
-
+[Ryouko]:Well then, tell me.
 //［宏治］：えぇ‥‥確か僕は、廊下のような場所に出たのですが‥‥。
-
+[Kouji]:If I remember correctly, I arrived at a corridor...
 //［涼子］：廊下ね？
-
+[Ryouko]:A corridor?
 //［宏治］：えぇ、そうです。外は‥‥。
-
+[Kouji]:Yeah. The atmosphere was...
 //　◆ ゾクッとするような寒気が充満していて‥‥。
-
+　◆ ...filled with chill...
 //　◆ ムワッとするような暖気が充満していて‥‥。
-
+　◆ ...filled with warmth...
 //［宏治］：ゾクッとするような寒気が充満していて‥‥身体が震えたのを覚えています。
-
+[Kouji]:...filled with chill... I remember I was shivering from the cold.
 //［宏治］：ムワッとするような暖気が充満していて‥‥身体から汗が浮き出たのを覚えています。
-
+[Kouji]:...filled with warmth... I remember I was sweating from the heat.
 //［宏治］：やけに、無機質な場所でした。
-
+[Kouji]:It was a really humanless place.
 //［涼子］：無機質なのは、恐らくそうする必然性があるからよ。
 
 //［宏治］：いえ、違うんです。
