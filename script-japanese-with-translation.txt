@@ -911,21 +911,21 @@ Again, Ryouko was staring far away, she seemed to be pondering over something.
 //［宏治］：やけに、無機質な場所でした。
 [Kouji]:It was a really humanless place.
 //［涼子］：無機質なのは、恐らくそうする必然性があるからよ。
-
+/*[Ryouko]:You couldn't help the fact it was humanless.
 //［宏治］：いえ、違うんです。
-
+[Kouji]:No, that's not it.
 //［涼子］：どう、違うの？
-
+[Ryouko]:Why?
 //なかなか上手く、言葉では伝わらないものだ。僕は、この感覚を伝える言葉を慎重に吟味した。
-
+It was something hard to express with words. That's why I strove to choose the right words to convey the right feeling.
 //［宏治］：何と言えばいいのか‥‥そう、やけに現実感を欠くような感じで、不安がヒシヒシと伝わってくるような‥‥。
-
+[Kouji]:How to put it... It was as if the place was lacking a sense of reality. I was really uneasy...
 //［涼子］：夢だもの、現実感を欠くのは、むしろ当然じゃなくて？
-
+[Ryouko]:It's a dream. Isn't it natural that that it lacks reality ?
 //［宏治］：そう言われれば、そうですけど‥‥。
-
+[Kouji]:Now that you say it, that's true but...
 //何か、違うような気がした。
-
+Somewhat, I felt it was wrong.
 //確かに夢なのだから、現実感を欠くのは当然と言えば当然だった。だけど、その一言では済ませられない何かも、同時に感じていたのは確かなのだ。
 
 //［涼子］：いいわ、じゃあその先を‥‥。
