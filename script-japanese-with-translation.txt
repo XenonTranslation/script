@@ -1,7 +1,7 @@
 //Ｂ
-
+Ｂ
 //xenon_01
-
+xenon_01
 //FLECTERE SI NEQUEO SUPEROS,\nACHERONTA MOVEBO.<$04><$30><$05>
 FLECTERE SI NEQUEO SUPEROS,\nACHERONTA MOVEBO.<$04><$30><$05>
 //天上の神々を動かせれば、冥界をも動かさん‥‥<$04><$30><$05>
@@ -9,17 +9,17 @@ If I cannot bend Heaven, I shall move Hell...<$04><$30><$05>
 //Ｘ　Ｅ　Ｎ　Ｏ　Ｎ\n\n　[ z i; n o n ]<$04><$30><$05>
 Ｘ　Ｅ　Ｎ　Ｏ　Ｎ\n\n　[ z i; n o n ]<$04><$30><$05>
 //　　　　さぁ、あなたはこれから、目を覚まします。<$04><$30><$05>
-            Hark, for your slumber will now end.<$04><$30><$05>
+  Hark, for your slumber will now end.<$04><$30><$05>
 //\n　<$05>
 \n　<$05>  
 //　あなたがそこで見聞きすることは、全て現実なのです。<$04><$30><$05>
 Whatsoever you see or hear there, everything is reality.<$04><$30><$05>
 //　　　　　　　そう、すべてが・・・・・<$04><$30><$05>
-                  The same as if...<$04><$30><$05>
+        The same as if...<$04><$30><$05>
 //　　　あなたの心を、忠実に反映する鏡として・・・・<$04><$30><$05>
 //...you were looking at a mirror that reflects faithfully your heart.<$04><$30><$05>
 //　　　　さぁ、これからあなたは現実にもどります。<$04><$30><$05>
-           You shall now return to reality.<$04><$30><$05>
+     You shall now return to reality.<$04><$30><$05>
 //これから３つ数えると、あなたは目を覚まします。いいですね？<$04><$30><$05>
 When I count to three, you will wake up. Okay?<$04><$30><$05>
 //　では、ひとつ‥‥‥<$05><$04><$30>
@@ -27,13 +27,13 @@ When I count to three, you will wake up. Okay?<$04><$30><$05>
 //　では、ひとつ‥‥‥ふたつ‥‥‥‥みっつ‥‥‥‥。<$05><$04><$31>
   Then, one... two... three...
 //waku
-
+waku
 //1010
-
+1010
 //1010b
-
+1010b
 //xenon_12
-
+xenon_12
 //［涼子］：宏治クン、どうしたの？
 [Ryouko]:Kouji-kun, what is it?
 //［宏治］：あっ‥‥りょ、涼子先生‥‥。
@@ -71,9 +71,9 @@ Exhaling, I started describing my dream from beginning to end.
 //［宏治］：あそこは、暗く寂しい場所でした‥‥‥‥。<$05>
 [Kouji]:It was a gloomy, lonely place...
 //waku2
-
+waku2
 //xenon_17
-
+xenon_17
 //‥‥‥‥。<$05>
 ‥‥‥‥。<$05>
 //‥‥‥‥‥‥‥‥。<$05>
@@ -93,7 +93,7 @@ I've had a strange dream.
 //夢か‥‥‥‥。
 A dream...?
 //0010
-
+0010
 //そうか‥‥‥。
 /*...
 //どうやら病室に、私はいるらしい‥‥。
@@ -927,11 +927,11 @@ It was something hard to express with words. That's why I strove to choose the r
 //何か、違うような気がした。
 Somewhat, I felt it was wrong.
 //確かに夢なのだから、現実感を欠くのは当然と言えば当然だった。だけど、その一言では済ませられない何かも、同時に感じていたのは確かなのだ。
-
+Of course it seemed natural that it lacked reality because it was a dream. But, I felt that something was restraining me from resigning myself to that.
 //［涼子］：いいわ、じゃあその先を‥‥。
-
+[Ryouko]:Good, tell me what happened after.
 //［宏治］：えっ、えぇ‥‥。
-
+[Kouji]:Huh? Yeah...
 //思考を途中で中断された不愉快に、少しだけ襲われたが、僕は気を取り直して夢の続きを語りだした。
 
 //［宏治］：そうだ、その場で何か、かなり不愉快なことがあって‥‥。
