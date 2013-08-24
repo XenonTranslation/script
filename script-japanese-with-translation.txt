@@ -15,11 +15,11 @@ If I cannot bend Heaven, I shall move Hell...<$04><$30><$05>
 //　あなたがそこで見聞きすることは、全て現実なのです。<$04><$30><$05>
 Whatsoever you see or hear there, everything is reality.<$04><$30><$05>
 //　　　　　　　そう、すべてが・・・・・<$04><$30><$05>
-        The same as if...<$04><$30><$05>
+　　　　　　The same as if...<$04><$30><$05>
 //　　　あなたの心を、忠実に反映する鏡として・・・・<$04><$30><$05>
 //...you were looking at a mirror that reflects faithfully your heart.<$04><$30><$05>
 //　　　　さぁ、これからあなたは現実にもどります。<$04><$30><$05>
-     You shall now return to reality.<$04><$30><$05>
+　　　　You shall now return to reality.<$04><$30><$05>
 //これから３つ数えると、あなたは目を覚まします。いいですね？<$04><$30><$05>
 When I count to three, you will wake up. Okay?<$04><$30><$05>
 //　では、ひとつ‥‥‥<$05><$04><$30>
@@ -47,7 +47,7 @@ xenon_12
 //［宏治］：そうなんですよ、うなされています。
 [Kouji]:Yeah, that same nightmare.
 //そうだった‥‥僕は、ここのところ毎日あの夢を見る‥‥あの言い様のない、緊張の不安をあおり立てる、恐い恐い夢だった。
-That was right... Lately, I've been having the same dream every day. An indescribable truely scary dream that was really shaking me up.
+That was right... Lately, I've been having the same dream every day. An indescribable truly scary dream that was really shaking me up.
 //目の前の女性‥‥涼子は、短い髪を後ろにかき上げると、いくぶん厳しい顔を僕に向けた。
 The woman before me, Ryouko, brushed back her short hair and turned a somewhat stern gaze at me.
 //［涼子］：とりあえず催眠治療は、このくらいにしておきましょう。
@@ -727,9 +727,9 @@ But its heat and rowdiness were still etched into my mind.
 //［宏治］：どこか、見知らぬ病室のような場所で目覚めた‥‥。
 [Kouji]:...woke up somewhere in a sort of hospital room.
 //［涼子］：病室？
-
+[Ryouko]:A hospital room?
 //［宏治］：えぇ‥‥もっとも確信はないんですけど‥‥。
-
+[Kouji]:Yeah. But I am not really sure...
 //［涼子］：何となく、病室っぽかったと、そういうこと？
 
 //しかし、あの病院特有の、白く寒々しい感覚が、未だに脳裏に焼き付いていたのだ。
@@ -889,7 +889,7 @@ I thought that being able to do both these things at the same time was quite a f
 //［宏治］：いいえ、それからが不可解な夢になって‥‥。
 [Kouji]:No, from now, it becomes really baffling.
 //［涼子］：ふむ‥‥。
-/*[Ryouko]:Hmpf...
+[Ryouko]:*chuckle*
 //涼子は再び遠く見るような目をすると、何かを思案するような仕草をした。
 Again, Ryouko was staring far away, she seemed to be pondering over something.
 //［涼子］：では、話して頂戴。
@@ -933,19 +933,19 @@ Of course it seemed natural that it lacked reality because it was a dream. But, 
 //［宏治］：えっ、えぇ‥‥。
 [Kouji]:Huh? Yeah...
 //思考を途中で中断された不愉快に、少しだけ襲われたが、僕は気を取り直して夢の続きを語りだした。
-
+Being interrupted during my thinking was quite unpleasant, but regaining my composure, I resumed recounting my dream.
 //［宏治］：そうだ、その場で何か、かなり不愉快なことがあって‥‥。
-
+[Kouji]:Yeah. There was something really unpleasant in this place.
 //［涼子］：不愉快なこと？
-
+[Ryouko]:Something unpleasant?
 //［宏治］：はい。それは確か‥‥。
-
+[Kouji]:Yes. This was...
 //　◆ 無機質で、耳障りな高い音。
-
+　◆ ...a humanless, high-pitched deafening sound.
 //　◆ 生々しく、頭に響いてくる重低音。
-
+　◆ ...a vivid, low-pitched sound echoing in my head.
 //［宏治］：無機質で、耳障りな高い音‥‥だったと思います。
-
+[Kouji]:I think it was a humanless and high-pitched deafening sound.
 //［涼子］：それは確かに不快かもね。でも、どこか有機的な‥‥重い心音のような音も、同時に聞こえたんじゃなくて？
 
 //［宏治］：生々しく、頭に響いてくる重低音、だったと思います。
