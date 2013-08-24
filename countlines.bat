@@ -1,0 +1,1 @@
+LineCounter.exe script-japanese-with-translation.txt
