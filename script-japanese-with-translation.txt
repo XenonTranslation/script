@@ -297,9 +297,9 @@ It seemed what I thought to be a noise coming from the door was just my imaginat
 //私はあたりをぐるりと見回すと、目の前の狭い通り道を進んでいった。
 While scrutinizing the surroundings, I walked my way through the narrow corridor before me.
 //s0101
-
+s0101
 //0020
-
+0020
 //外に出た途端、少しムッとした暖気に襲われた。
 The moment I left the room, I felt a light warmth assaulting me.
 //（暑いな‥‥‥‥。）
@@ -341,9 +341,9 @@ It sounded like someone's footsteps...
 //　◆ 手近なドアに、隠れた方がいいかも知れない。
 　◆ Maybe it'd be better if I hide behind that nearby door.
 //s0301
-
+s0301
 //s0201
-
+s0201
 //（暑い‥‥‥‥。）
 (Hot...)
 //（やけに無機質なところ‥‥‥‥。）
@@ -351,7 +351,7 @@ It sounded like someone's footsteps...
 //誰かの足音のよう‥‥‥‥。
 Seems like someone's footsteps...
 //s0401
-
+s0401
 //この場にとどまって、あの足音の正体を確かめてやる。
 I'll remain here to uncover who's walking up there.
 //そう威勢良く決めたものの、妙に緊張してしまう。恥ずかしいことに、自分の心音が耳まで届いてきそうだった。
@@ -369,9 +369,9 @@ Suddenly, the sound stopped. Just what was up there...?
 //不意に後ろから声がした。心臓が、口から飛び出しそうになるのを辛うじて押さえる。
 A voice suddenly echoed behind me. I barely managed to hold my heart from jumping out of my chest.
 //ra_bast
-
+ra_bast
 //ra_ba_b
-
+ra_ba_b
 //手近なドアに、隠れた方がいいかも知れない。
 Maybe it'd be better if I hide behind that nearby door.
 //私にはまだ、どうもこの状況が良く呑み込めていなかった。異様なくらい、不安を感じる。
@@ -393,7 +393,7 @@ Probably because I was leaning excessively on the door, I unpurposely ended up p
 //［目の前の女性］：あっ‥‥‥‥。
 [Woman before me]:Ah...
 //bast_m01
-
+bast_m01
 //［私］：き、君は‥‥‥？
 [Me]:You...you are...?
 //［目の前の女性］：‥‥‥‥‥‥。
@@ -407,9 +407,9 @@ She seemed surprised to see me. Showing a puzzled face, she was keeping silent.
 //［私］：（それにしても‥‥‥。）
 /*[Me]:(At any rate, I should...)
 //ra01
-
+ra01
 //ra01_m
-
+ra01_m
 //特徴的な女の子だった‥‥。
 She surely was a peculiar woman.
 //暗く透き通った髪の毛とは対象に、大きなレモンイエローのリボン、露出度の高い胸部分のワインレッドの色調‥‥。
@@ -455,9 +455,9 @@ Before I realized, I arrived in a completely bleak place. It was so cold I could
 //ランファと名乗る少女を捜して、あちこちをさまよっているうちに、妙な場所へ出てしまったようだが‥‥。
 It seemed that while I was roaming the area looking for this girl called Lanhua, I ended up in this unusual place.
 //0040
-
+0040
 //xenon_13
-
+xenon_13
 //（ここは‥‥‥‥？）
 (This place...?)
 //妙な場所だった。
@@ -489,7 +489,7 @@ The door was ruthlessly blocking my retreat.
 //（どういうことだ‥‥私を、閉じこめるつもりか‥‥？）
 (What the... Are they trying to shut me in?)
 //ドンドンドン、ドンドンドン！<$04><$30><$05>
-/**bang* *bang* *bang*
+*bang* *bang* *bang*
 //\n　
 \n
 //無駄とはわかっていても、言い様のない不安と緊張が、私の手を動かし続けた。
@@ -513,7 +513,7 @@ Getting closer, I finally understood what was the source of that light.
 //（何だ‥‥？）
 (What's this?)
 //0040b
-
+0040b
 //側面下方に付いてある、小さなコンソールパネルが点滅している。そこから、ピッ、ピッ、という電子音が、断続的に鳴っているようだ。
 Below on the side, a console panel was blinking. You could intermittently hear a strident sound stemming from it.
 //私は屈んでパネルをのぞき込んでみる。そこには小さな文字で、こうディスプレイされていた。
@@ -545,7 +545,7 @@ Holding my hands aloft, the thick glass started to slide calmly.
 //何かのセンサーが、埋め込まれていたのかも知れない‥‥。
 Maybe some sort of sensors were built-in.
 //fa01
-
+fa01
 //（‥‥！？）<$04><$30><$05>
 (...!?)
 //（こ、これは‥‥‥‥。）
@@ -591,7 +591,7 @@ The alarm was resounding though my head. I was getting a bit nauseous.
 //再び、めまいと頭痛に襲われ始めた私は、頭を振りながら、少しでもこの音から遠ざかろうとしていた‥‥。
 Again, I started to feel dizzy. In a attempt to ease my headache, I tried to move away from the sound. 
 //0030
-
+0030
 //（うぅ‥‥‥‥あ、頭が‥‥‥‥。）
 (Uh... My head...)
 //未だ頭に響いてくるこの不快な音は、いっこうに止む気配すらなかった。
@@ -617,7 +617,7 @@ Anxiety and tension, followed by fear were gradually taking my awareness away...
 //消えゆく意識の中で私は、さきほどの少女の姿を、ぼんやりと思い出していた‥‥‥‥。
 While my conciousness was drifting away, I faintly remembered the young woman I saw before...
 //s0102
-
+s0102
 //　◆ セーブする。
 　◆ Save
 //　◆ ゲームを続ける。
@@ -631,19 +631,19 @@ While my conciousness was drifting away, I faintly remembered the young woman I 
 //　データ４
 　Slot 4
 //save1
-
+save1
 //データ１にセーブしました。
 The game was saved in slot 1.
 //save2
-
+save2
 //データ２にセーブしました。
 The game was saved in slot 2.
 //save3
-
+save3
 //データ３にセーブしました。
 The game was saved in slot 3.
 //save4
-
+save4
 //データ４にセーブしました。
 The game was saved in slot 4.
 //　　　　　　コウジさん、目覚める時間ですよ‥‥。<$04><$30><$05>
@@ -655,7 +655,7 @@ Kohji-san.
 //　　　　コウジ‥‥？　それが私の名前なのか‥‥？<$04><$30><$05>
 　　　　　Kohji? Is this my name?<$04><$30><$05>
 //1010b_m
-
+1010b_m
 //以前にも、同じ様な事がなかっただろうか‥‥？
 Had the same thing happened before?
 //口で否定はしたものの、あまり人に大声で話せる内容で無いのも、確かなようだった。
@@ -947,21 +947,21 @@ Being interrupted during my thinking was quite unpleasant, but regaining my comp
 //［宏治］：無機質で、耳障りな高い音‥‥だったと思います。
 [Kouji]:I think it was a humanless and high-pitched deafening sound.
 //［涼子］：それは確かに不快かもね。でも、どこか有機的な‥‥重い心音のような音も、同時に聞こえたんじゃなくて？
-
+[Ryouko]:Indeed, that must be unpleasant. But, did you also hear an organic sound, resembling your heartbeat, at the same time?
 //［宏治］：生々しく、頭に響いてくる重低音、だったと思います。
-
+[Kouji]:I think it was a vivid, low-pitched sound echoing in my head.
 //［涼子］：重低音‥‥ふむ。
-
+[Ryouko]:A low-pitched sound... *chuckle*
 //涼子は、ノート上で忙しく動かしていた手を少しだけ止めると、
 
 //［涼子］：どうにも居たたまれなくなってきた、というところかしら。
 
 //［宏治］：えぇ、そうでした‥‥何故わかるんですか？
-
+Huh? How did you know?
 //［涼子］：何年この仕事を、私がしていると思って？
-
+How many years do you think I've been doing this job?
 //［宏治］：す、すみません‥‥。
-
+[Kouji]:S-Sorry...
 //［涼子］：フフ、謝らなくてもいいわ。でも、面白いわね‥‥。
 
 //［宏治］：何がです？
