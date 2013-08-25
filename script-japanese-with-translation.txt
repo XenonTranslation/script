@@ -251,13 +251,13 @@ I briefly peeped on the other side... There was no one.
 //どうやら、ここには私１人だけのようだった。
 I seemed I was the only one in the room.
 //視線を左に移動させる。透き通るような青い花びらが、ひっそりと息づいていた。
-I then looked at the left side. /*Blue flowers with transparent petals were quietly in bloom.
+I then looked at the left side. Blue flowers with transparent petals were quietly in bloom.
 //（見たこともない花だが‥‥‥‥。）
 (Never seen that kind of flower before...)
 //もっとも、私が知っている花の種類など、たかが知れている。私の知らない範疇の花なのだろう。
-/*Moreover, it wasn't important whether this flower was an unknown species to me, as its shape was one I've never seen before.
+Moreover, it wasn't important whether this flower was an unknown species to me, as its shape was one I've never seen before.
 //さらに左に視線を動かすと、比較的小さな机と、その上に申し訳なさそうに乗っているディスプレイが目に入ってきた。
-As I look further to the left, I saw a relatively small desk with on its top a /*simple monitor.
+As I look further to the left, I saw a relatively small desk with on its top a simple monitor.
 //（コンピュータ‥‥何かの端末だろうか？）
 (A computer... Some sort of terminal?)
 //ディスプレイ上には、何かの文字が表示されているようだった。
