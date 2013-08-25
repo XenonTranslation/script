@@ -18,6 +18,10 @@ not be formatted.
 
 #define N 500 //Maximum size for a string
 
+//Global variables :
+int lines=0; //line counter
+
+
 /*
 Initializes an empty string
 */
@@ -73,7 +77,8 @@ char* removeComment(char* line){
 			strncpy(edittedLine,line,i);
 			printf("Edited : %s , %s",edittedLine,line);
 			strcpy(line,edittedLine);
-			return addCRLF(line);
+			addCRLF(line);
+			return line;
 		}
 		i++;
 	}
@@ -169,6 +174,27 @@ int noTag(char *line){
 }
 
 /*
+Functions that checks if there are more than 3 spaces
+in a row. If so is the case, then the program is interrupted
+(as the game will crash when it reaches this line)
+*/
+void checkSpaces(char* line){
+	int c[3];
+	int i = 0;
+	while(i+2<strlen(line)){
+		c[0]=line[i];
+		c[1]=line[i+1];
+		c[2]=line[i+2];
+		if(c[0]==' ' && c[1]==' ' && c[2]==' '){
+			printf("Line #%d : \"%s has more than 3 spaces in a row. Aborting...",lines,line);
+			system("PAUSE");
+			exit(EXIT_FAILURE);
+		}
+		i++;
+	}
+}
+
+/*
 Do all the necessary changes
 */
 char* format(char* line){
@@ -176,6 +202,7 @@ char* format(char* line){
 		int mustNotBeFormatted=0;
 		removeProblemIndicator(line,&mustNotBeFormatted);
 		removeComment(line);
+		checkSpaces(line);
 		if(size(line)>60 && noTag(line) && !mustNotBeFormatted){
 			printf("%s %d",line,size(line));
 			format60(line);
@@ -183,6 +210,7 @@ char* format(char* line){
 	}
 	return line;
 }
+
 
 /*
 main : takes the input and output files as argument
@@ -192,17 +220,18 @@ int main(int argc, char *argv[]){
 	printf("Writing in file %s\n",argv[2]);
     FILE* read = fopen(argv[1],"r");
 	FILE* write = fopen(argv[2],"w");
-	int lines=0;
+	int noCommentLines=0;
     char line[N];
     while(fgets(line,sizeof line,read)!=NULL){
 		if(line[0]!='#'){
-			if(lines%2==1){
+			if(noCommentLines%2==1){
 				fprintf(write,"%s",format(line));
 			}else{
 				fprintf(write,"%s",line);
 			}
-			lines++;
+			noCommentLines++;
 		}
+		lines++;
     }
     fclose(read);
 	fclose(write);
