@@ -58,14 +58,31 @@ int findLastWordBefore60(char* line){
 	return i;
 }
 
+int findLastWordBeforeX60(char* line, int count){
+	int i = 60*count+count-2;
+	while(i>=60*(count-1)+count-1 && line[i]!=' '){
+		i--;
+	}
+	return i;
+}
+
+int needToDoSomething(char* line, int count){
+	if(count==1){ return 1;}
+	else{return 0;}
+}
+
 char* format60(char* line){
 	char edittedLine[N];
 	init(edittedLine);
-	int pos = findLastWordBefore60(line);
-	if(pos>=0){
-		line[pos]='\0';
-		sprintf(edittedLine,"%s\\n%s",line,&line[pos+1]);
-		strcpy(line,edittedLine);
+	int count=1;
+	while(needToDoSomething(line,count)){
+		int pos = findLastWordBeforeX60(line,count);
+		if(pos>=0){
+			line[pos]='\0';
+			sprintf(edittedLine,"%s\\n%s",line,&line[pos+1]);
+			strcpy(line,edittedLine);
+		}
+		count++;
 	}
 	return line;
 }
