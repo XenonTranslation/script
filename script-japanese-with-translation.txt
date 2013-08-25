@@ -525,7 +525,7 @@ Ducking, I peered at the monitor. On it the following characters were displayed 
 //\n\n\n　　　　　　　　　PSY encoder operating ...<$04><$30><$05>
 \n\n\n　　　　　　　　　PSY encoder operating ...<$04><$30><$05>
 //（サイキック‥‥プログラムエンコーダ‥‥？）
-(Psychic... Program encoder...?)
+(Psychic...<$0C> Program encoder...?)
 //（いったい‥‥‥‥。）
 (What...)
 //（いったい何だろう‥‥これは‥‥？）
@@ -557,7 +557,7 @@ Inside the capsule a red-haired woman was lying down. Hey! She was stark naked!
 //女性というよりはまだ、あどけなさの残る少女、という形容の方が相応しい気もする。肉付きは意外に悪くない。
 More than a woman, she gave the feeling of a pristine maiden. And her forms weren't bad.
 //（どういうことだ‥‥なぜ、こんな少女がここに‥‥‥‥はっ！？）
-(What the... Why is there a girl inside... Wha!?)
+(What the... Why is there a girl inside...<$0C> Wha!?)
 //（ま、まさか‥‥‥！？）
 (D-Don't tell me...!?)
 //そっと、首筋の部分に手を当ててみる。そこは柔らかく、暖かかった。
