@@ -18,8 +18,10 @@ int main(int argc, char *argv[]){
                 mustBeAmended++;
             }
         }
-        lines++;
-    }
+		if(line[0]!='#'){
+			lines++;
+		}
+	}
     printf("Current state : %f%%\nStill %d lines to be amended...\n", 100.0*(1.0-(float) emptyLines/(float) (lines/2)),mustBeAmended);
     fclose(file);
     system("PAUSE");

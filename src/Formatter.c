@@ -1,3 +1,17 @@
+/**********************************************************************
+	Xenon script formatter
+
+ - A line containing '<' will not be formatted (as any line containing
+this contains special effects)
+ - Removes /* at start of line
+ - Removes comments (starting by //) (/!\ This does not remove the line)
+ - if for any reason you want a line not to be formatted, just put "<>"
+right at the start of the line. This tag will be removed and the line will
+not be formatted.
+ - Removes lines starting with #. This way, you can put whole line comments.
+
+**********************************************************************/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
@@ -17,12 +31,16 @@ void init(char* str){
 /*
 Removes "/*" at the start of a string
 */
-char* removeProblemIndicator(char*line){
+char* removeProblemIndicator(char*line, int* mustNotBeFormatted){
 	char edittedLine[N];
 	init(edittedLine);
 	if(line[0]=='/' && line[1]=='*'){
 		strcpy(edittedLine,&line[2]);
 		strcpy(line,edittedLine);
+	}else if(line[0]=='<' && line[1]=='>'){
+		strcpy(edittedLine,&line[2]);
+		strcpy(line,edittedLine);
+		*mustNotBeFormatted=1;
 	}
 	return line;
 }
@@ -155,9 +173,10 @@ Do all the necessary changes
 */
 char* format(char* line){
 	if(line[0]!='\n'){
-		removeProblemIndicator(line);
+		int mustNotBeFormatted=0;
+		removeProblemIndicator(line,&mustNotBeFormatted);
 		removeComment(line);
-		if(size(line)>60 && noTag(line)){
+		if(size(line)>60 && noTag(line) && !mustNotBeFormatted){
 			printf("%s %d",line,size(line));
 			format60(line);
 		}
@@ -176,12 +195,14 @@ int main(int argc, char *argv[]){
 	int lines=0;
     char line[N];
     while(fgets(line,sizeof line,read)!=NULL){
-        if(lines%2==1){
-            fprintf(write,"%s",format(line));
-        }else{
-			fprintf(write,"%s",line);
+		if(line[0]!='#'){
+			if(lines%2==1){
+				fprintf(write,"%s",format(line));
+			}else{
+				fprintf(write,"%s",line);
+			}
+			lines++;
 		}
-		lines++;
     }
     fclose(read);
 	fclose(write);
