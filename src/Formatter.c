@@ -67,8 +67,8 @@ int findLastWordBeforeX60(char* line, int count){
 }
 
 int needToDoSomething(char* line, int count){
-	if(count==1){ return 1;}
-	else{return 0;}
+	int limit=60;
+	return strlen(line)>(60*count+count-1);
 }
 
 char* format60(char* line){
