@@ -17,7 +17,7 @@ Whatsoever you see or hear there, everything is reality.<$04><$30><$05>
 //　　　　　　　そう、すべてが・・・・・<$04><$30><$05>
 　　　　　　The same as if...<$04><$30><$05>
 //　　　あなたの心を、忠実に反映する鏡として・・・・<$04><$30><$05>
-//...you were looking at a mirror that reflects faithfully your heart.<$04><$30><$05>
+...you were looking at a mirror that reflects\n　　　　　　faithfully your heart.<$04><$30><$05>
 //　　　　さぁ、これからあなたは現実にもどります。<$04><$30><$05>
 　　　　You shall now return to reality.<$04><$30><$05>
 //これから３つ数えると、あなたは目を覚まします。いいですね？<$04><$30><$05>
@@ -129,11 +129,11 @@ I started removing one by one the round suckers. I wiped off from my skin the wh
 //ようやく全部の吸盤を引き剥がすと、ベッドから身を起し、次に行動すべきことを思案してみた。
 After I finally finished removing all the suckers, I rose up and started thinking about what I should do next.
 //　◆ ここにいても時間の無駄だ。部屋を出てみよう。
-　◆ Remaining here is a waste of time. I'm getting out of this room.
+◆ Being here is a waste of time. I'm getting out of here.
 //　◆ ナースを呼ぶことは出来ないだろうか‥‥。
-　◆ Maybe I can call a nurse...
+◆ Maybe I can call a nurse...
 //　◆ まずは部屋の中を色々と調べてからだ。
-　◆ First, I should investigate the inside of the room.
+◆ First, I should investigate the inside of the room.
 //ここにいても時間の無駄だ。部屋を出てみよう。
 Remaining here is a waste of time. I'm getting out of this room.
 //そう自分に言い聞かせると、私はベッドから立ち上がった。
@@ -364,7 +364,7 @@ This was the most considerate answer. Probably some hard-soled boots.
 /**tap* *tap* ...
 //不意に音が止まる。どうしたというんだ‥‥‥‥。
 Suddenly, the sound stopped. Just what was up there...?
-//[女性の声］：あっ‥‥‥‥。
+//［女性の声］：あっ‥‥‥‥。
 [Woman's voice]:Ah...
 //不意に後ろから声がした。心臓が、口から飛び出しそうになるのを辛うじて押さえる。
 A voice suddenly echoed behind me. I barely managed to hold my heart from jumping out of my chest.
@@ -953,9 +953,9 @@ Being interrupted during my thinking was quite unpleasant, but regaining my comp
 //［涼子］：重低音‥‥ふむ。
 [Ryouko]:A low-pitched sound... *chuckle*
 //涼子は、ノート上で忙しく動かしていた手を少しだけ止めると、
-
+Ryouko, whose hand was busy jotting things down in her notebook, stopped and said :
 //［涼子］：どうにも居たたまれなくなってきた、というところかしら。
-
+[Ryouko]:Did you feel like you couldn't help but run way?
 //［宏治］：えぇ、そうでした‥‥何故わかるんですか？
 Huh? How did you know?
 //［涼子］：何年この仕事を、私がしていると思って？
@@ -963,33 +963,33 @@ How many years do you think I've been doing this job?
 //［宏治］：す、すみません‥‥。
 [Kouji]:S-Sorry...
 //［涼子］：フフ、謝らなくてもいいわ。でも、面白いわね‥‥。
-
+[Ryouko]:*chuckle*, no need to apologize. But that's funny.
 //［宏治］：何がです？
-
+[Kouji]:What's funny?
 //［涼子］：さっきから話を聞いていると、人が１人も出てこないわ。
-
+[Ryouko]:Since I started listening to your story, not a single person made an appearance.
 //［宏治］：‥‥‥‥‥‥。
-
+[Kouji]:...
 //［涼子］：‥‥なに？
-
+[Ryouko]:... What is it?
 //［宏治］：いえ、出て来るんです。ただ‥‥。
-
+[Kouji]:In fact, people do appear. It's just that...
 //［涼子］：ただ‥‥何かしら？
-
+[Ryouko]:Just that what?
 //［宏治］：とにかく、続きを聞いて下さい‥‥。
-
+[Kouji]:Anyway, just listen what I have to say.
 //僕は、夢の中の廊下で出会った少女のことを話してみた。
-
+I tried to tell about the girl I met in the corridor.
 //［宏治］：確か彼女は‥‥。
-
+[Kouji]:If I remember correcty, she was wearing...
 //　◆ レモンイエローの大きなリボンをしていて‥‥。
-
+　◆ ...a large lemon yellow ribbon.
 //　◆ ダークシルバーの比較的小さなリボンに‥‥。
-
+　◆ ...a relatively small dark silver ribbon.
 //［宏治］：レモンイエローの大きなリボンをしていて‥‥。
-
+[Kouji]:...a large lemon yellow ribbon.
 //［宏治］：ダークシルバーの比較的小さなリボンに‥‥。
-
+[kouji]:...a relatively small dark silver ribbon.
 //　◆ フワリとした厚手の服装‥‥。
 
 //　◆ ワインレッドの露出度の高い服‥‥。
