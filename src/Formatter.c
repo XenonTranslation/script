@@ -50,10 +50,53 @@ char* removeComment(char* line){
 	return line;
 }
 
+int findLastWordBefore60(char* line){
+	int i = 59;
+	while(i>=0 && line[i]!=' '){
+		i--;
+	}
+	return i;
+}
+
+char* format60(char* line){
+	char edittedLine[N];
+	init(edittedLine);
+	int pos = findLastWordBefore60(line);
+	if(pos>=0){
+		line[pos]='\0';
+		sprintf(edittedLine,"%s\\n%s",line,&line[pos+1]);
+		strcpy(line,edittedLine);
+	}
+	return line;
+}
+
+int size(char* line){
+	int i=0;
+	while(line[i]!='\n'){
+		i++;
+	}
+	return i;
+}
+
+int noTag(char *line){
+	int i=0;
+	while(line[i]!='\n'){
+		if(line[i]=='<'){
+			return 0;
+		}
+		i++;
+	}
+	return 1;
+}
+
 char* format(char* line){
 	if(line[0]!='\n'){
 		removeProblemIndicator(line);
 		removeComment(line);
+		if(size(line)>60 && noTag(line)){
+			printf("%s %d",line,size(line));
+			format60(line);
+		}
 	}
 	return line;
 }
