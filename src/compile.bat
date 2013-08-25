@@ -1,0 +1,1 @@
+gcc.exe LineCounter.c -o ../LineCounter.exe

@@ -24,8 +24,8 @@ Whatsoever you see or hear there, everything is reality.<$04><$30><$05>
 When I count to three, you will wake up. Okay?<$04><$30><$05>
 //@‚Å‚ÍA‚Ğ‚Æ‚Âddd<$05><$04><$30>
   Then, one...<$05><$04><$30>
-//@‚Å‚ÍA‚Ğ‚Æ‚Âddd‚Ó‚½‚Âdddd‚İ‚Á‚ÂddddB<$05><$04><$31>
-  Then, one... two... three...
+//@‚Å‚ÍA‚Ğ‚Æ‚Âddd<$0C>‚Ó‚½‚Âdddd<$0C>‚İ‚Á‚ÂddddB<$05><$04><$31>
+  Then, one...<$0C> two...<$0C> three...<$05><$04><$31>
 //waku
 waku
 //1010
