@@ -2,6 +2,7 @@
 	Xenon script formatter
 
  - Formats the text so it can fit in the Xenon text box.
+ - Adds indentations during dialogues
  - A line containing '<' will not be formatted (as any line containing
 this contains special effects)
  - Removes /* at start of line
@@ -30,6 +31,70 @@ void init(char* str){
 	int i;
 	for(i=0;i<N;i++){
 		str[i]='\0';
+	}
+}
+
+/*
+Creates a Japanese space
+*/
+char* japaneseSpace(char* str){
+	str[0]=-127;
+	str[1]=64;
+	str[2]='\0';
+	return str;
+}
+
+/*
+Inserts several spaces (so that the indentation in dialogues
+may be accurate)
+*/
+char* insertSpaces(char* spaces, int nameSize){
+	int i=0;
+	if(nameSize!=0){
+		char space[3];
+		japaneseSpace(space);
+		while(i<nameSize){
+			spaces[i]=space[0];
+			spaces[i+1]=space[1];
+			i+=2;
+		}
+		if(nameSize%2==0){
+			spaces[i]=' ';
+			i++;
+		}
+	}
+	spaces[i]='\0';
+	return spaces;
+}
+
+/*
+Find the first colon in the string
+Returns 0 if no colon is found (there cannot be
+a colon in position 0 as the first character is
+always '[' in a dialogue.
+*/
+int findColon(char* line){
+	int i = 0;
+	while(i<strlen(line) && line[i]!=':'){
+		i++;
+	}
+	if(i>=strlen(line)){
+		return 0;
+	}else{
+		return i;
+	}
+}
+
+/*
+Returns the size of the name :
+"[Ryouko]:" for example is size 8.
+"[Me]:" is size 4
+*/
+int nameSize(char* line){
+	if(line[0]=='['){
+		return findColon(line);
+	}else{
+		return 0;
 	}
 }
 
@@ -149,11 +214,13 @@ char* format60(char* line){
 		int pos = findLastWordBeforeX60(line,&deleteSpace,endLinePosition);
 		if(pos>=0){
 			line[pos]='\0';
+			char spaces[N];
+			int name_size = nameSize(line);
 			if(deleteSpace){
-				sprintf(edittedLine,"%s%s",line,&line[pos+1]);
+				sprintf(edittedLine,"%s%s%s",line,insertSpaces(spaces,name_size),&line[pos+1]);
 				endLinePosition=pos-1;
 			}else{
-				sprintf(edittedLine,"%s\\n%s",line,&line[pos+1]);
+				sprintf(edittedLine,"%s\\n%s%s",line,insertSpaces(spaces,name_size),&line[pos+1]);
 				endLinePosition=pos+1;
 			}
 			strcpy(line,edittedLine);
