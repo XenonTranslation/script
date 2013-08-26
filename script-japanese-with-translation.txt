@@ -5,21 +5,22 @@ xenon_01
 //FLECTERE SI NEQUEO SUPEROS,\nACHERONTA MOVEBO.<$04><$30><$05>
 FLECTERE SI NEQUEO SUPEROS,\nACHERONTA MOVEBO.<$04><$30><$05>
 //天上の神々を動かせれば、冥界をも動かさん‥‥<$04><$30><$05>
-If I cannot bend Heaven, I shall move Hell...<$04><$30><$05>
+If I cannot bend Heaven, I shall move Hell.<$04><$30><$05>
+#This is a quotation from Freud. I found the translation on the Internet.
 //Ｘ　Ｅ　Ｎ　Ｏ　Ｎ\n\n　[ z i; n o n ]<$04><$30><$05>
-Ｘ　Ｅ　Ｎ　Ｏ　Ｎ\n\n　[ z i; n o n ]<$04><$30><$05>
+Ｘ　Ｅ　Ｎ　Ｏ　Ｎ\n\n　[ z i: n o n ]<$04><$30><$05>
 //　　　　さぁ、あなたはこれから、目を覚まします。<$04><$30><$05>
-  Hark, for your slumber will now end.<$04><$30><$05>
+  　　Hark, for your slumber will now end.<$04><$30><$05>
 //\n　<$05>
 \n　<$05>  
 //　あなたがそこで見聞きすることは、全て現実なのです。<$04><$30><$05>
 Whatsoever you see or hear there, everything is reality.<$04><$30><$05>
 //　　　　　　　そう、すべてが・・・・・<$04><$30><$05>
-　　　　　　The same as if...<$04><$30><$05>
+　　　　　　　　The same as if...<$04><$30><$05>
 //　　　あなたの心を、忠実に反映する鏡として・・・・<$04><$30><$05>
-...you were looking at a mirror that reflects\n　　　　　　faithfully your heart.<$04><$30><$05>
+　　...you were looking at a mirror that reflects\n　　　　　　　　faithfully your heart.<$04><$30><$05>
 //　　　　さぁ、これからあなたは現実にもどります。<$04><$30><$05>
-　　　　You shall now return to reality.<$04><$30><$05>
+　　　　　You shall now return to reality.<$04><$30><$05>
 //これから３つ数えると、あなたは目を覚まします。いいですね？<$04><$30><$05>
 When I count to three, you will wake up. Okay?<$04><$30><$05>
 //　では、ひとつ‥‥‥<$05><$04><$30>
@@ -37,7 +38,7 @@ xenon_12
 //［涼子］：宏治クン、どうしたの？
 [Ryouko]:Kouji-kun, what is it?
 //［宏治］：あっ‥‥りょ、涼子先生‥‥。
-[Kouji]:Ah... Ryou... Ryouko-sensei...
+[Kouji]:Ah... R-Ryouko-sensei...
 //［涼子］：ずいぶんと長い間、ボーっとしていたけど、大丈夫？
 [Ryouko]:You've been spacing out for quite a long time. You all right?
 //［宏治］：えっ？　えぇ‥‥何だか、今日見た夢を思い出していまして‥‥。
@@ -53,11 +54,11 @@ The woman before me, Ryouko, brushed back her short hair and turned a somewhat s
 //［涼子］：とりあえず催眠治療は、このくらいにしておきましょう。
 [Ryouko]:Anyway, let's stop here for the hypnotherapy.
 //［宏治］：えっ‥‥？　もう終わりですか。
-[Kouji]:What...? Is it already finished?
+[Kouji]:What? Is it already finished?
 //［涼子］：終わりではないわ。今日は、その夢のことも聞かせて頂戴。
 [Ryouko]:No, not yet. Today, I'd like you to tell me about your dream too.
 //［宏治］：ゆ、夢のことも‥‥ですか？
-[Kouji]:My... my dream?
+[Kouji]:M-My dream?
 //［涼子］：フフ、恥ずかしがるような夢、なのかしら？
 [Ryouko]:Tee-hee, are you embarrassed? Is it _that_ kind of dream?
 //［宏治］：まさか‥‥‥。
@@ -65,7 +66,7 @@ The woman before me, Ryouko, brushed back her short hair and turned a somewhat s
 //［涼子］：私は医者よ。話しても、大丈夫。
 [Ryouko]:I am a physician. You can tell me.
 //［宏治］：はい‥‥‥‥。
-[Kouji]:Okay.
+[Kouji]:Well, if you say so.
 //一息吐くと、順を追って話しはじめた。
 Exhaling, I started describing my dream from beginning to end.
 //［宏治］：あそこは、暗く寂しい場所でした‥‥‥‥。<$05>
@@ -96,6 +97,7 @@ A dream...?
 0010
 //そうか‥‥‥。
 /*...
+#I really have no idea how I should translate that "そうか"... Maybe it's because Kouji understands he is inside a dream?
 //どうやら病室に、私はいるらしい‥‥。
 It seems I am in a hospital room.
 //しかし、どうも意識がはっきりとしない‥‥。
@@ -723,7 +725,7 @@ But its heat and rowdiness were still etched into my mind.
 //［涼子］：わかったわ‥‥他に、気付いた点とか、あるかしら？
 [Ryouko]:Understood. Did you notice anything else?
 //［宏治］：そうですね‥‥‥‥。
-[Kouji]:Yeah, there was... //->TO 853
+[Kouji]:Yeah, there was...//->TO 853
 //［宏治］：どこか、見知らぬ病室のような場所で目覚めた‥‥。
 [Kouji]:...woke up somewhere in a sort of hospital room.
 //［涼子］：病室？
@@ -875,7 +877,7 @@ But its heat and rowdiness were still etched into my mind.
 //涼子の手元は盛んに動いているが、目は薄く遠くを見ている。
 Ryouko's hands were moving energetically, yet her eyes were piercing, looking far away.
 //２つのことを、同時にできるらしかった。大したものだと思う。
-I thought that being able to do both these things at the same time was quite a feat. //->TO 887
+I thought that being able to do both these things at the same time was quite a feat.//->TO 887
 //［宏治］：銀色に輝いていたような気がした‥‥。
 
 //［涼子］：銀色に？
