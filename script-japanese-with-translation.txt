@@ -11,7 +11,7 @@ If I cannot bend Heaven, I shall move Hell.<$04><$30><$05>
 //Ｘ　Ｅ　Ｎ　Ｏ　Ｎ\n\n　[ z i; n o n ]<$04><$30><$05>
 Ｘ　Ｅ　Ｎ　Ｏ　Ｎ\n\n　[ z i: n o n ]<$04><$30><$05>
 //　　　　さぁ、あなたはこれから、目を覚まします。<$04><$30><$05>
-  　　Hark, for your slumber will now end.<$04><$30><$05>
+  　　Listen, from now, you shall awaken.<$04><$30><$05>
 //\n　<$05>
 \n　<$05>  
 //　あなたがそこで見聞きすることは、全て現実なのです。<$04><$30><$05>
@@ -61,7 +61,7 @@ The woman before me, Ryouko, brushed back her short hair and turned a somewhat s
 //［宏治］：ゆ、夢のことも‥‥ですか？
 [Kouji]:M-My dream?
 //［涼子］：フフ、恥ずかしがるような夢、なのかしら？
-[Ryouko]:Tee-hee, are you embarrassed? Is it _that_ kind of dream?
+[Ryouko]:*chuckle* Are you embarrassed? Is it _that_ kind of dream?
 //［宏治］：まさか‥‥‥。
 [Kouji]:Don't make fun of me.
 //［涼子］：私は医者よ。話しても、大丈夫。
@@ -210,7 +210,7 @@ It was as if my cognitive abilities had deteriorated.
 //呼べないということは、設計者の手落ちなのか‥‥‥‥。
 Maybe they forgot to put a switch...
 //あるいは、最初から呼ぶ必要がないかの、どちらかだろう。
-Or maybe it was never intended for me to call a nurse.
+Or maybe it was never intended for me to call a nurse to begin with.
 //（しかし‥‥‥‥。）
 (However...)
 //私はぐるりと部屋を見回してから、ふと思った。
@@ -266,11 +266,11 @@ As I look further to the left, I saw a relatively small desk with on its top a s
 //ディスプレイ上には、何かの文字が表示されているようだった。
 Something was being displayed on the monitor, some sort of word...
 //ＤＲＥＡＭ‥‥‥‥。
-/*ONEIROS...
+/*ＯＮＥＩＲＯＳ‥‥‥‥。
 //文字通り解釈すれば、“夢”ということか‥‥‥。
-Translating faithfully, it meant “dream”...
+Translating faithfully, it meant "dream".
 //ピピピピ、ポーン。
-Beep, beep...
+*beep* *beep*
 //‥‥！？
 ...!?
 //どうやら、光センサを内蔵していたらしい‥‥私が端末の前に立ったので、それを感知したのかも知れない。
@@ -724,11 +724,11 @@ But its heat and rowdiness were still etched into my mind.
 //［宏治］：それから、何だかいたたまれなくなって、そこを出たような気がします。
 [Kouji]:Hence, I think I suddenly felt like I couldn't bear it any more, and I ran away.
 //［涼子］：わかったわ‥‥他に、気付いた点とか、あるかしら？
-[Ryouko]:Understood. Did you notice anything else?
+[Ryouko]:Understood. Did you notice anything else?//-857
 //［宏治］：そうですね‥‥‥‥。
-[Kouji]:Yeah, there was...//->TO 853
+[Kouji]:Yeah...//->TO 857|800
 //［宏治］：どこか、見知らぬ病室のような場所で目覚めた‥‥。
-[Kouji]:...woke up somewhere in a sort of hospital room.
+[Kouji]:...woke up somewhere in a sort of hospital room .
 //［涼子］：病室？
 [Ryouko]:A hospital room?
 //［宏治］：えぇ‥‥もっとも確信はないんですけど‥‥。
@@ -736,7 +736,7 @@ But its heat and rowdiness were still etched into my mind.
 //［涼子］：何となく、病室っぽかったと、そういうこと？
 [Ryouko]:But it looked like a hospital room, didn't it?
 //しかし、あの病院特有の、白く寒々しい感覚が、未だに脳裏に焼き付いていたのだ。
-But the white walls and its bleakness were still etched into my mind.
+But the white walls and its bleakness were still etched into my mind.//->755
 //［涼子］：わかったわ‥‥それで、部屋の中なんかは、どうなっていたのかしら？
 [Ryouko]:Understood. Then, how was the inside of the room?
 //［涼子］：寒々と‥‥それは、室温？　それとも感覚的に？
@@ -752,107 +752,107 @@ But the white walls and its bleakness were still etched into my mind.
 //［宏治］：それから僕は‥‥‥‥。
 [Kouji]:Then, I...
 //［涼子］：わかったわ、それで？
-
+[Ryouko]:Understood. Then?
 //［宏治］：ええと、看護婦さんを呼ぼうとして‥‥。
-
+[Kouji]:Er, I tried to call a nurse.
 //［涼子］：ナースを？　すると、ブザーを押したのね。
-
+[Ryouko]:A nurse? Then, you looked for a buzzer.
 //［宏治］：いいえ、ブザーはベッドにありませんでした。
-
+[Kouji]:No. There wasn't any buzzer about the bed.
 //［涼子］：捜したの？
-
+[Ryouko]:You looked for one?
 //僕はちょっと考えた。なぜブザーが無かったのか、夢の中で思案したような気がしたのだ。
-
+I thought a little. I had the feeling I tried to understand why there wasn't any buzzer during my dream.
 //［宏治］：‥‥もしかしたら、病室じゃ無かったのかも知れません。
-
+[Kouji]:...Maybe it wasn't a hospital room after all.
 //［涼子］：フフ、本当に病室か否かということは、あまり重要ではないの。
-
+[Ryouko]:*chuckle* Whether it's a hospital room or not, that's not what's important here.
 //［宏治］：‥‥？
-
+[Kouji]:...?
 //［涼子］：そう宏治クンが思った、ということが大事なのよ。
-
+[Kouji]:What matters is that _you_ thought it was a hospital room.
 //［宏治］：そんなものですか‥‥。
-
+[Kouji]:Is that it?
 //［涼子］：そんなものよ。
-
+[Ryouko]:Indeed.
 //涼子は薄く笑みをこぼすと、何かのノートに、私の言葉を書き取っていった。
-
+Ryouko, showing a wry smile, was writing down my words on her notebook.
 //［宏治］：それから、何だかいたたまれなくなって、部屋を出たような気がします。
-
+[Kouji]:Then, I think I couldn't stand being there any more. I left the room.//->727
 //［宏治］：部屋の中を、いろいろと見たような気がします。
-
+[Kouji]:I think I investigated all over the room.
 //［涼子］：ふーん‥‥どんな部屋だったのかしら？
-
+[Ryouko]:Hmm... What kind of room was it?
 //［宏治］：確か、カーテンのような、ついたてがあって‥‥あっ！
-
+[Kouji]:If I remember correctly, there was a folding screen that looked like a curtain... Ah!
 //［涼子］：どうしたの？
-
+[Ryoulo]:What is it?
 //［宏治］：そうだ、僕が病室だと思ったのは、多分あのついたてを見たからだと思います。
-
+[Kouji]:I got it! I thought it was a hospital room surely because I saw that folding screen.
 //［涼子］：ついたて、ね‥‥。わかったわ、それで？
-
+[Ryouko]:A folding screen... Understood, then?
 //［宏治］：あと、花瓶に綺麗な花がいけてありました。
-
+[Kouji]:Then, there was a vase with beautiful flowers in it.
 //［涼子］：その花は何色だったの？
-
+[Ryouko]:What colour were these flowers?
 //［宏治］：確か‥‥‥‥。
-
+[Kouji]:They were...//->816
 //　◆ 居たたまれなくなって、部屋を出た‥‥。
-
+◆ I couldn't bear being here any longer, so I left the room.
 //　◆ ナースを呼ぼうとした‥‥。
-
+◆ I tried to call for a nurse.
 //［宏治］：居たたまれなくなって、部屋を出た‥‥そんな気がします。
-
+I couldn't bear being here any longer, so I left the room. That's what I think I did.
 //［涼子］：居たたまれなくなって‥‥寂しいとか、そういう感じかしら？
-
+[Ryouko]:You couldn't bear staying in the room... Was it because you were alone?
 //［宏治］：そうですね、ここには居られないという強迫観念みたいのが、芽生えた感じでした。
-
+[Kouji]:Not really. I think I kind of had an obsession that dictated me I couldn't stay in this place.//->726
 //［宏治］：ナースを呼ぼうとした‥‥ような気がしました。
-
+[Kouji]:I get the feeling I tried to call for a nurse.
 //［涼子］：ナースを？
-
+[Ryouko]:A nurse?
 //［宏治］：はい、どうもよく覚えていないのですが‥‥。
-
+[Kouji]:Yes. But I don't really remember.
 //　◆ 森のような緑色。
-
+　◆ ...forest green.
 //　◆ 透き通った青色。
-
+　◆ ...transparent blue.
 //　◆ 情熱的な赤色。
-
+/*　◆ ...crimson red, full of passion.
 //［宏治］：森のような緑色、だったと思います。
-
+[Kouji]:I think they were forest green.
 //［涼子］：緑色、ね‥‥わかったわ。他に何か、あったかしら？
-
+[Ryouko]:Green... Understood. Is there anything else?
 //［宏治］：透き通った青色、だったと思います。
-
+[Kouji]:I think they were transparent blue.
 //［涼子］：青色、ね‥‥わかったわ。他に何か、あったかしら？
-
+[Ryouko]:Blue... Understood. Is there anything else?
 //［宏治］：情熱的な赤色、だったと思います。
-
+[Kouji]:I think they were crimson red, full of passion.
 //［涼子］：赤色、ね‥‥わかったわ。他に何か、あったかしら？
-
+[Ryouko]:Red... Understood. Is there anything else?
 //［宏治］：そうだ、パソコンか何かの端末みたいのが、置いてあったような気がします。
-
+[Kouji]:Yeah, there was as well some sort of terminal, a computer?
 //［涼子］：‥‥端末？
-
+[Ryouko]:...A terminal?
 //［宏治］：ええ、そこには確か‥‥‥‥。
-
+[Kouji]:Yeah, on it...
 //確か、何かの文字がディスプレイされていたような気がした。
-
+I had the feeling that some sort of text was displayed on it.
 //簡単で、それでいて的を射た言葉‥‥。
-
+That was a mere word. And yet, it went straight to the point.
 //［宏治］：そうだ、確か“ＤＲＥＡＭ”と書かれていたような気がします。
-
+[Kouji]:Yeah, I think “ＯＮＥＩＲＯＳ” was written on it.
 //［涼子］：ＤＲＥＡＭ‥‥文字通り解釈すれば、夢ということね。
-
+/*[Ryouko]:ＯＮＥＩＲＯＳ... Literally, it means dream.
 //［宏治］：はい、でも変ですよね。
-
+[Kouji]:Yes, but that's strange.
 //［涼子］：そんなことはないわ。夢の中で、夢と認識することは、得てしてあることよ。
-
+[Ryouko]:Not at all. Being able to acknowledge your dream as a dream is something that happens frequently. 
 //［宏治］：そんなもんでしょうか‥‥。
-
+[Kouji]:Really?
 //［涼子］：フフ、そんなものよ‥‥。
-
+[Ryouko]:*chuckle* Yes, indeed.//->
 //［宏治］：そうだ、確かドアが‥‥‥‥。
 [Kouji]:That's it, the door was...
 //［涼子］：ドアが、どうかしたの？
@@ -878,15 +878,15 @@ But the white walls and its bleakness were still etched into my mind.
 //涼子の手元は盛んに動いているが、目は薄く遠くを見ている。
 Ryouko's hands were moving energetically, yet her eyes were piercing, looking far away.
 //２つのことを、同時にできるらしかった。大したものだと思う。
-I thought that being able to do both these things at the same time was quite a feat.//->TO 887
+I thought that being able to do both these things at the same time was quite a feat.//->TO 893
 //［宏治］：銀色に輝いていたような気がした‥‥。
-
+[Kouji]:...the door was sparkling silver.
 //［涼子］：銀色に？
-
+[Ryouko]:Silver?
 //［宏治］：えぇ、確かそんな気がしたんですが‥‥。
-
+[Kouji]:Yeah. That's what I think I saw but...
 //［涼子］：ふむ、銀色のドア‥‥と。
-
+[Ryouko]:*chuckle* A silver door...//->879
 //［涼子］：それで、ドアから出て、夢はおしまい？
 [Ryouko]:Then, you fled by the door and that's it for your dream?
 //［宏治］：いいえ、それからが不可解な夢になって‥‥。
