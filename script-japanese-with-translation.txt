@@ -7,6 +7,7 @@ FLECTERE SI NEQUEO SUPEROS,\nACHERONTA MOVEBO.<$04><$30><$05>
 //天上の神々を動かせれば、冥界をも動かさん‥‥<$04><$30><$05>
 If I cannot bend Heaven, I shall move Hell.<$04><$30><$05>
 #This is a quotation from Freud. I found the translation on the Internet.
+#This is closer to the Latin sentence. The Japanese sentence is more like : If I cannot bend the gods of Heaven, shouldn't I move Hell?
 //Ｘ　Ｅ　Ｎ　Ｏ　Ｎ\n\n　[ z i; n o n ]<$04><$30><$05>
 Ｘ　Ｅ　Ｎ　Ｏ　Ｎ\n\n　[ z i: n o n ]<$04><$30><$05>
 //　　　　さぁ、あなたはこれから、目を覚まします。<$04><$30><$05>
@@ -733,23 +734,23 @@ But its heat and rowdiness were still etched into my mind.
 //［宏治］：えぇ‥‥もっとも確信はないんですけど‥‥。
 [Kouji]:Yeah. But I am not really sure...
 //［涼子］：何となく、病室っぽかったと、そういうこと？
-
+[Ryouko]:But it looked like a hospital room, didn't it?
 //しかし、あの病院特有の、白く寒々しい感覚が、未だに脳裏に焼き付いていたのだ。
-
+But the white walls and its bleakness were still etched into my mind.
 //［涼子］：わかったわ‥‥それで、部屋の中なんかは、どうなっていたのかしら？
-
+[Ryouko]:Understood. Then, how was the inside of the room?
 //［涼子］：寒々と‥‥それは、室温？　それとも感覚的に？
-
+[Ryouko]:You say bleak... Are you talking about the temperature, or figuratively?
 //［宏治］：室温です。
-
+[Kouji]:The temperature.
 //［涼子］：あら、即答ね。どうしてそう考えたの？
-
+[Ryouko]:Oh! an immediate reply. Why do you think so?
 //［宏治］：ええと、僕は確か裸で、着るモノを捜していたような気がしたからです。
-
+[Kouji]:Er... that's because I was naked. So, I was looking for anything to wear.
 //［涼子］：‥‥なるほどね。それから？
-
+[Ryouko]:... I see. Then?
 //［宏治］：それから僕は‥‥‥‥。
-
+[Kouji]:Then, I...
 //［涼子］：わかったわ、それで？
 
 //［宏治］：ええと、看護婦さんを呼ぼうとして‥‥。
@@ -1051,7 +1052,7 @@ Ryouko, who was glaring at her notebook, remained a little while deep in thought
 //［宏治］：ふぅ‥‥。
 [Kouji]:*sigh*
 //僕は溜息を１つ吐くと、もう一度、夢の内容を思いだそうと記憶の糸を辿りだした。
-
+Heaving a long sigh, I once again started to unravel the threads of my memory.
 //［涼子］：‥‥ずいぶんと、具体的ね。
 
 //［宏治］：えぇ、自分でもそう思います。でも‥‥。
