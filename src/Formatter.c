@@ -19,10 +19,12 @@ not be formatted.
 #include <string.h>
 
 #define N 500 //Maximum size for a string
+#define TRUE 1
+#define FALSE 0
 
 //Global variables :
 int lines=0; //line counter
-
+int noIndentation=FALSE;
 
 /*
 Initializes an empty string
@@ -91,6 +93,7 @@ Returns the size of the name :
 "[Me]:" is size 4
 */
 int nameSize(char* line){
+	if(noIndentation)	return 0;
 	if(line[0]=='['){
 		return findColon(line);
 	}else{
@@ -188,7 +191,7 @@ int findLastWordBeforeX60(char* line,int* deleteSpace, int endLinePosition){
 		i--;
 	}
 	if(i==lastCR+61){
-		*deleteSpace=1;
+		*deleteSpace=TRUE;
 	}
 	return i;
 }
@@ -210,7 +213,7 @@ char* format60(char* line){
 	init(edittedLine);
 	int endLinePosition=-1;
 	while(needToDoSomething(line,endLinePosition)){
-		int deleteSpace=0;
+		int deleteSpace=FALSE;
 		int pos = findLastWordBeforeX60(line,&deleteSpace,endLinePosition);
 		if(pos>=0){
 			line[pos]='\0';
@@ -250,11 +253,11 @@ int noTag(char *line){
 	int i=0;
 	while(line[i]!='\n'){
 		if(line[i]=='<'){
-			return 0;
+			return FALSE;
 		}
 		i++;
 	}
-	return 1;
+	return TRUE;
 }
 
 /*
@@ -302,8 +305,18 @@ main : takes the input and output files as argument
 int main(int argc, char *argv[]){
     printf("Opening file %s\n",argv[1]);
 	printf("Writing in file %s\n",argv[2]);
-    FILE* read = fopen(argv[1],"r");
-	FILE* write = fopen(argv[2],"w");
+    FILE* read;
+	FILE* write;
+	if(argc==3){
+		read = fopen(argv[1],"r");
+		write = fopen(argv[2],"w");
+	}else if(argc==4 && argv[1][0]=='-' && argv[1][1]=='i'){
+		noIndentation=TRUE;
+		read = fopen(argv[2],"r");
+		write = fopen(argv[3],"w");
+	}else{
+		return EXIT_FAILURE;
+	}
 	int noCommentLines=0;
     char line[N];
     while(fgets(line,sizeof line,read)!=NULL){
