@@ -100,6 +100,7 @@ int findLastWordBefore60(char* line){
 /*
 Returns the last occurrence of "\\n" in the string
 Returns the position of the "n". If not occurrence is found, returns -1;
+Useless as it stands now
 */
 int lastCRPosition(char *line){
 	int i = strlen(line)-1;
@@ -115,8 +116,8 @@ line in a text box (60 characters)
 deleteSpace is TRUE if the space must be deleted, FALSE if it must be
 replace by \n.
 */
-int findLastWordBeforeX60(char* line,int* deleteSpace){
-	int lastCR = lastCRPosition(line);
+int findLastWordBeforeX60(char* line,int* deleteSpace, int endLinePosition){
+	int lastCR = endLinePosition;
 	int i = lastCR+61;
 	while(i>lastCR && line[i]!=' '){
 		i--;
@@ -145,7 +146,7 @@ char* format60(char* line){
 	int endLinePosition=-1;
 	while(needToDoSomething(line,endLinePosition)){
 		int deleteSpace=0;
-		int pos = findLastWordBeforeX60(line,&deleteSpace);
+		int pos = findLastWordBeforeX60(line,&deleteSpace,endLinePosition);
 		if(pos>=0){
 			line[pos]='\0';
 			if(deleteSpace){
