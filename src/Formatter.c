@@ -1,6 +1,7 @@
 /**********************************************************************
 	Xenon script formatter
 
+ - Formats the text so it can fit in the Xenon text box.
  - A line containing '<' will not be formatted (as any line containing
 this contains special effects)
  - Removes /* at start of line
@@ -111,12 +112,17 @@ int lastCRPosition(char *line){
 /*
 Gives the position of the last space in the line before the end of a
 line in a text box (60 characters)
+deleteSpace is TRUE if the space must be deleted, FALSE if it must be
+replace by \n.
 */
-int findLastWordBeforeX60(char* line){
+int findLastWordBeforeX60(char* line,int* deleteSpace){
 	int lastCR = lastCRPosition(line);
-	int i = lastCR+60;
+	int i = lastCR+61;
 	while(i>lastCR && line[i]!=' '){
 		i--;
+	}
+	if(i==lastCR+61){
+		*deleteSpace=1;
 	}
 	return i;
 }
@@ -124,21 +130,31 @@ int findLastWordBeforeX60(char* line){
 /*
 Checks if there is a need to amend the line
 */
-int needToDoSomething(char* line){
-	return strlen(line)-lastCRPosition(line)+1>60;
+int needToDoSomething(char* line,int endLinePosition){
+	return strlen(line)-endLinePosition+1>60;
 }
 
 /*
-Format the line so that it can fit in a text box
+Format the line so that it can fit in a text box.
+deleteSpace is TRUE if the space must be deleted, FALSE if it must be
+replace by \n.
 */
 char* format60(char* line){
 	char edittedLine[N];
 	init(edittedLine);
-	while(needToDoSomething(line)){
-		int pos = findLastWordBeforeX60(line);
+	int endLinePosition=-1;
+	while(needToDoSomething(line,endLinePosition)){
+		int deleteSpace=0;
+		int pos = findLastWordBeforeX60(line,&deleteSpace);
 		if(pos>=0){
 			line[pos]='\0';
-			sprintf(edittedLine,"%s\\n%s",line,&line[pos+1]);
+			if(deleteSpace){
+				sprintf(edittedLine,"%s%s",line,&line[pos+1]);
+				endLinePosition=pos-1;
+			}else{
+				sprintf(edittedLine,"%s\\n%s",line,&line[pos+1]);
+				endLinePosition=pos+1;
+			}
 			strcpy(line,edittedLine);
 		}
 	}
