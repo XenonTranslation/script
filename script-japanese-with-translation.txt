@@ -1139,29 +1139,29 @@ Strangely the contents of my memory were vague. I felt frustrated when I realize
 //［涼子］：そう、残念だわ。
 [Ryouko]:I see. That's a shame.
 //ブラインドからもれてくる陽射しは、もうかなり中の方まで進入してくる。それは、意外に時間が経過していることを僕に教えていた。
-
+/*The sunlight seeping through the blind wasn't as vertical as before. That's thanks to that that I understood some time had passed with me noticing it.
 //涼子はペンを机の上に置くと、少し厳しい顔をして自分のとったメモを見つめている。
-
+Ryouko, putting her pen on top of her desk and turning a lightly stern gaze towards me kept looking at her notebook.
 //［涼子］：願望充足‥‥というのを知っているかしら？　宏治クン。
-
+[Ryouko]:Have you ever heard of the notion of "wish fulfilment", Kouji-kun?
 //涼子はふいに顔をあげると、僕を直視した。
-
+Ryouko, suddenly raising her head, was gazing at me right in the eyes.
 //僕には何のことを言っているのか、よく理解できなかったようだ。
-
+I didn't really know what I was supposed to answer to that.
 //［宏治］：願望充足‥‥‥‥願望の充足、の事ですか？
-
+[Kouji]:Wish fulfilment... Is it about the fulfilment of wishes?
 //［涼子］：フフ、面白いわね、キミ。
-
+[Ryouko]:*chuckle* You are an interesting fellow, boy.
 //涼子は薄く笑みをこぼすと、ゆっくり足を組み替えた。不本意ながら、目がそちらへ向いてしまう。
-
+/*Ryouko, showing a wry smile, slowly changed the way her legs were arranged, and turned reluctantly her eyes at me.
 //［涼子］：願望充足の評価は、夢を分析するときの、１つの指標の事よ。
-
+[Ryouko]:The assessment of wish fulfilment is one of the indicators used for dream analysis.
 //［宏治］：指標？
-
+[Kouji]:An indicator?
 //［涼子］：どんな夢にもね、一定以上の意味があり、心的価値が存在するという学説があるの。
-
+/*[Ryouko]:Whatever the dream, there is a theory that there is more than one fixed meaning, that a psychological value also exists.
 //［宏治］：でも‥‥‥‥。
-
+[Kouji]:But...
 //どうも納得がいかない。僕の見た夢は、息苦しく、孤独感に苛まされ、ひしひしと恐怖が伝わってくるという感じだった。
 
 //どこが願望の充足になるというのだろうか。僕はそのことを、彼女に伝えた。
