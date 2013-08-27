@@ -1014,7 +1014,7 @@ I tried to tell about the girl I met in the corridor.
 //［涼子］：ふーん‥‥。
 [Ryouko]:Hmm...
 //［宏治］：あどけない少女なんですが、どことなくミステリアスな感じもうけました‥‥。
-[Kouji]:It may have been so, but there was as well a mysterious aura around her.
+[Kouji]:It may have been so, but there was as well a mysterious aura around her.//If all answers were correct ->TO 1057
 //［宏治］：切れ長の細い目をしていて、大人の女性という感じがしました。
 [Kouji]:Her eyes were small and slanted, she seemed fully grown-up.
 //［涼子］：大人、ね‥‥。
@@ -1054,39 +1054,41 @@ Ryouko, who was glaring at her notebook, remained a little while deep in thought
 //僕は溜息を１つ吐くと、もう一度、夢の内容を思いだそうと記憶の糸を辿りだした。
 Heaving a long sigh, I once again started to unravel the threads of my memory.
 //［涼子］：‥‥ずいぶんと、具体的ね。
-
+[Ryouko]:...That's very credible.
 //［宏治］：えぇ、自分でもそう思います。でも‥‥。
-
+[Kouji]:Yeah, I think so myself, but...
 //［涼子］：なに？
-
+[Ryouko]:What is it?
 //［宏治］：何といったら‥‥誰かに印象が似ているんです。だけど、それが誰かはわかりません。
-
+[Kouji]:How to put it... I had the same impression as when I am with someone else. But, I don't know who this "someone else" is.
 //［涼子］：よくあることよ。夢の中の人物に、現実の世界の個人が投影されるということは。
-
+[Ryouko]:That happens often. Projecting real individuals into one's dream is not a rare thing.
 //［宏治］：そうみたいですね‥‥。
-
+[Kouji]:Yeah, it does seem so...
 //［涼子］：２人の違う人物を、足して２で割ったようなキャラクタだって、夢の中に出てくるケースもあるのよ。
-
+[Ryouko]:Building a new character from two different actual people is not a rare case too.
 //どうも違うような気がするが、それを上手く言えなかった。
-
+I thought she was quite wrong, but I skilfully avoided saying so.
 //夢の中では、それが何か、僕は知っていたような気がしたのだが‥‥。
-
+/*I think it was something I knew, even inside my dream.
 //［涼子］：その女の子とは、どうなったの？
-
+[Ryouko]:Then, about the girl, what happened?
 //［宏治］：どうなったのって‥‥自己紹介をして‥‥。
-
+[Kouji]:What happened? Well, we introduced ourselves.
+#Maybe it can be : "she introduced ourself". But as we saw inside the dream, he had no idea who he was, so he couldn't introduce himself. But does he remember that?
+#But I chose "we" because of line 1085.
 //［涼子］：彼女の名前は？
-
+[Ryouko]:What was her name?
 //［宏治］：‥‥名前、ですか。
-
+[Kouji]:...Her name?
 //［涼子］：そう、名前。自己紹介をしたのなら、お互いに名前を名乗り合ったでしょう？
-
+[Ryouko]:Yes, her name.I you introduced yourselves, then you exchanged your names?
 //［宏治］：そういえば‥‥。
-
+[Kouji]:Now that you say it...
 //［宏治］：僕は、自分自身の名前を言えなかった気がします。
-
+[Kouji]:I think I couldn't even say my own name.
 //［涼子］：故意に言わなかったの？　それとも言いたくても言えなかった？
-
+[Ryouko]:Is it because you didn't want to, or because you just couldn't do it even though you meant to?
 //この辺は、記憶が極めてあやふやだ。ただ、故意に名前を隠す、ということは無いように思えた。
 
 //そう思うと僕は、その事を涼子に伝えた。
