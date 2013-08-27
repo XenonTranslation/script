@@ -1163,21 +1163,22 @@ I didn't really know what I was supposed to answer to that.
 //［宏治］：でも‥‥‥‥。
 [Kouji]:But...
 //どうも納得がいかない。僕の見た夢は、息苦しく、孤独感に苛まされ、ひしひしと恐怖が伝わってくるという感じだった。
-
+I couldn't agree with her. In my dream, I was tormented by solitude, stricken with fear.
 //どこが願望の充足になるというのだろうか。僕はそのことを、彼女に伝えた。
-
+Where does stand this pretended "wish fulfilment"? I asked her that question.
 //［涼子］：見た目で判断するのは、良くないわね。
-
+[Ryouko]:You shouldn't judge by appearances only.
 //［宏治］：でも、あの夢が僕の願望をあらわしているなんて‥‥僕は別にマゾじゃありません。
-
+[Kouji]:But, thinking this dream unveils my wishes... I am no masochist, you know.
 //［涼子］：じゃあ、潜在的なマゾかもね。
-
+[Ryouko]:Then, maybe you're a latent masochist.
 //［宏治］：先生‥‥。
-
+/*[Kouji]:Sensei...
+#Can't choose between Doctor and Sensei and something else better suited. I think Doctor sounds wrong.
 //僕は思いの外、不本意な顔をしていたのだろう。涼子はちょっと悪戯っ子のような表情をすると、
-
+/*I unexpectedly showed an unwilling face. Ryouko's expression was that of a mischievous child.
 //［涼子］：フフ、冗談よ。そんな顔をしないの。
-
+[Ryouko]:*chuckle* That's a joke! Don't make such a long face.
 //［涼子］：でも精神医学の分野ではね、その夢があらわす本当の意味を考察しなくては、意味がないの。
 
 //［宏治］：本当の意味‥‥？
