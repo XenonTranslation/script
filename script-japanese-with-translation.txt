@@ -312,7 +312,7 @@ It seemed the air conditioning was working inside the room.
 //いや、室外に暖房が効いているのかもしれないが‥‥。
 No... Maybe it was the heating that was working outside the room.
 //（やけに無機質なところだ‥‥‥‥。）
-(What a cold, humanless corridor...)
+(What a cold, inorganic corridor...)
 //気温とは対照的に、冷え冷えとした廊下が、私の目の前にあった。
 Contrasting with the actual temperature, a fearsome, chilly corridor was expending before my eyes.
 //申し訳なさそうに端に置いてある観葉植物が、いくぶん私の心を安心させるが、どうも現実感に欠ける所だった。
@@ -350,7 +350,7 @@ s0201
 //（暑い‥‥‥‥。）
 (Hot...)
 //（やけに無機質なところ‥‥‥‥。）
-(A horrifyingly humanless place...)
+(A horrifyingly inorganic place...)
 //誰かの足音のよう‥‥‥‥。
 Seems like someone's footsteps...
 //s0401
@@ -912,9 +912,9 @@ Again, Ryouko was staring far away, she seemed to be pondering over something.
 //［宏治］：ムワッとするような暖気が充満していて‥‥身体から汗が浮き出たのを覚えています。
 [Kouji]:...filled with warmth. I remember I was sweating from the heat.
 //［宏治］：やけに、無機質な場所でした。
-[Kouji]:It was a really humanless place.
+[Kouji]:It was a really inorganic place.
 //［涼子］：無機質なのは、恐らくそうする必然性があるからよ。
-/*[Ryouko]:You couldn't help the fact it was humanless.
+/*[Ryouko]:You couldn't help the fact it was inorganic.
 //［宏治］：いえ、違うんです。
 [Kouji]:No, that's not it.
 //［涼子］：どう、違うの？
@@ -944,11 +944,11 @@ Being interrupted during my thinking was quite unpleasant, but regaining my comp
 //［宏治］：はい。それは確か‥‥。
 [Kouji]:Yes. This was...
 //　◆ 無機質で、耳障りな高い音。
-　◆ ...a humanless, high-pitched deafening sound.
+　◆ ...an inorganic, high-pitched deafening sound.
 //　◆ 生々しく、頭に響いてくる重低音。
 　◆ ...a vivid, low-pitched sound echoing in my head.
 //［宏治］：無機質で、耳障りな高い音‥‥だったと思います。
-[Kouji]:I think it was a humanless and high-pitched deafening sound.
+[Kouji]:I think it was an inorganic and high-pitched deafening sound.
 //［涼子］：それは確かに不快かもね。でも、どこか有機的な‥‥重い心音のような音も、同時に聞こえたんじゃなくて？
 [Ryouko]:Indeed, that must be unpleasant. But, did you also hear an organic sound, resembling your heartbeat, at the same time?
 //［宏治］：生々しく、頭に響いてくる重低音、だったと思います。
