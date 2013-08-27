@@ -1090,51 +1090,54 @@ I thought she was quite wrong, but I skilfully avoided saying so.
 //［涼子］：故意に言わなかったの？　それとも言いたくても言えなかった？
 [Ryouko]:Is it because you didn't want to, or because you just couldn't do it even though you meant to?
 //この辺は、記憶が極めてあやふやだ。ただ、故意に名前を隠す、ということは無いように思えた。
-
+At this point, my memory becomes extremely vague. But I don't think I was actually hiding my name.
 //そう思うと僕は、その事を涼子に伝えた。
-
+Thinking so, I said to Ryouko:
 //［宏治］：後者‥‥だと思います。
-
+[Kouji]:I think it's the latter.
 //［涼子］：なるほど、言いたくても言えなかったと。
-
+[Ryouko]:I see, you couldn't say it even though you meant to.
 //［宏治］：はい。
-
+[Kouji]:Yes.
 //［宏治］：夢の中での宏治クンは、名無しのゴンベ？
-
+/*[Ryouko]:The Kouji-kun inside your dream, was he nameless?
+#The game here makes a mistake. I am quite sure that's Ryouko who's talking.
+#I don't understand the word "ゴンベ". Apparently, that's Munchlax's name... But Munchlax didn't exist at that time.
+#I'll ask a native about that.
 //［宏治］：いえ、名無しではなくて、名前を思い出せなかったんだと思います。
-
+[Kouji]:No, I couldn't recall my name, but I think I had one.
 //［涼子］：ふむ‥‥で、その女の子の名前は？
-
+[Ryouko]:*chuckle* Then, what was her name?
 //［宏治］：女の子？
-
+[Kouji]:Her?
 //［涼子］：ほら、あなたの夢に出てきたという、女性の事よ。
-
+[Ryouko]:Hey! the girl you saw in your dream.
 //［宏治］：あぁ、確か‥‥。
-
+[Kouji]:Ah...Hmm...
 //［宏治］：すみません、思い出せません。
-
+[Kouji]:Sorry, I can't remember.
 //［涼子］：そう‥‥。
-
+[Ryouko]:I see.
 //［宏治］：すみません。
-
+[Kouji]:Sorry.
 //［涼子］：フフ、別にすまなそうな顔をしなくても、いいのよ。明確に覚えている方がまれなのだから。
-
+[Ryouko]:*chuckle* Don't do such a remorseful face. Seldom do people remember such things in their dream.
 //［宏治］：はい‥‥。
-
+[Kouji]:Yes.
 //［涼子］：それから？
-
+[Ryouko]:Then?
 //［宏治］：それから‥‥‥‥。
-
+[Kouji]:Then...
 //それから、僕はどうしたんだろうか‥‥。
-
+(Then, what did I do?)//I added parentheses to clearly show he is thinking by himself.
 //どこか、寒々としたところに行ったような記憶がある。そしてそこで、何かを見て、驚愕して‥‥‥‥。
-
+(I think I landed somewhere in a bleak place. Then, I saw something that was really surprising...
 //妙に記憶があやふやだった。大事な部分だけ忘れ去っているのを認識する、そんな焦燥感に襲われていた。
-
+Strangely the contents of my memory were vague. I felt frustrated when I realized I was completely forgetting only the most important parts.
 //［宏治］：思い出せません‥‥。
-
+[Kouji]:I can't remember...
 //［涼子］：そう、残念だわ。
-
+[Ryouko]:I see. That's a shame.
 //ブラインドからもれてくる陽射しは、もうかなり中の方まで進入してくる。それは、意外に時間が経過していることを僕に教えていた。
 
 //涼子はペンを机の上に置くと、少し厳しい顔をして自分のとったメモを見つめている。
