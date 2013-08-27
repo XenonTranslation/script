@@ -212,6 +212,7 @@ char* format60(char* line){
 	char edittedLine[N];
 	init(edittedLine);
 	int endLinePosition=-1;
+	int ancientPos=-1;
 	while(needToDoSomething(line,endLinePosition)){
 		int deleteSpace=FALSE;
 		int pos = findLastWordBeforeX60(line,&deleteSpace,endLinePosition);
@@ -228,6 +229,9 @@ char* format60(char* line){
 			}
 			strcpy(line,edittedLine);
 		}
+		//To check if we don't enter an infinite loop : (case were a word is more than 60 characters long)
+		if(pos!=ancientPos)	ancientPos=pos;
+		else	break;
 	}
 	return line;
 }
