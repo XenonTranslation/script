@@ -1103,7 +1103,8 @@ Thinking so, I said to Ryouko:
 /*[Ryouko]:The Kouji-kun inside your dream, was he nameless?
 #The game here makes a mistake. I am quite sure that's Ryouko who's talking.
 #I don't understand the word "ゴンベ". Apparently, that's Munchlax's name... But Munchlax didn't exist at that time.
-#I'll ask a native about that.
+#I'll ask a native about that. (after asking, it's just some kind of idiom to designate a nameless person. My friend didn't know the details.
+#I can't think of an idiom to translate it in English.
 //［宏治］：いえ、名無しではなくて、名前を思い出せなかったんだと思います。
 [Kouji]:No, I couldn't recall my name, but I think I had one.
 //［涼子］：ふむ‥‥で、その女の子の名前は？
