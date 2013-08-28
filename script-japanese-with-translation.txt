@@ -1180,29 +1180,29 @@ Where does stand this pretended "wish fulfilment"? I asked her that question.
 //［涼子］：フフ、冗談よ。そんな顔をしないの。
 [Ryouko]:*chuckle* That's a joke! Don't make such a long face.
 //［涼子］：でも精神医学の分野ではね、その夢があらわす本当の意味を考察しなくては、意味がないの。
-
+[Ryouko]:But you know, the aim of us psychiatrist is to enquire about the true meaning behind one's dream.
 //［宏治］：本当の意味‥‥？
-
+[Kouji]:The true meaning?
 //［涼子］：そう。例えば夢の冒頭‥‥確か、病室のようなベッドで１人きり‥‥。
-
+[Ryouko]:Yes. Let's take the beginning of your dream for example. You were all on your own, on a bed in some kind of hospital room, weren't you?
 //［涼子］：それは、あなたの現状をあらわしているわ。確か昨日、恵さんが今日来るという連絡を受けたわよね？
-
+[Ryouko]:This reveals your current condition. If I'm not mistaken, Megumi-san told you yesterday she would be coming today?
 //［宏治］：恵？
-
+[Kouji]:Megumi?
 //［涼子］：あなたの、ガールフレンドでしょう？
-
+[Ryouko]:Your girlfriend. 
 //そうだった。恵というのは、僕のガールフレンドの事だ。
-
+That was true. This person named Megumi was my girlfriend.
 //彼女は今日、僕の様子を見にやってくることになっていた。
-
+Today, she'll pay me a visit.
 //［宏治］：えぇ、確かに今日、恵が来ますけど‥‥。
-
+[Kouji]:Yeah, that's true, today Megumi's coming, but...
 //［涼子］：それで、あなたの願望が強い孤独感となって現れたのね。
-
+[Ryouko]:Hence, your desire was revealed by this strong feeling of solitude in your dream.
 //［涼子］：外に出ると聞こえてきた心音のような音は、孤独なあなたの回帰願望をあらわしているのでしょう。
-
+/*[Ryouko]:The fact that you heard this sound resembling heartbeats from the outside, isn't it desire remembrance?
 //［宏治］：回帰願望？
-
+[Kouji]:Desire remembrance?
 //［涼子］：えぇ。母胎こそ孤独をいやす安息の地、という訳。
 
 //［涼子］：でも、そんな息苦しく孤独な夢に現れた１人の女性‥‥彼女と会ったとき、安堵にも似た感覚を抱かなかった？
