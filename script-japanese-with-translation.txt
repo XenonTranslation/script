@@ -1205,19 +1205,20 @@ Today, she'll pay me a visit.
 //［宏治］：回帰願望？
 [Kouji]:Desire remembrance?
 //［涼子］：えぇ。母胎こそ孤独をいやす安息の地、という訳。
-
+/*[Ryouko]:Yes. A land of rest that appeases one's solitude as one's mother's womb does.
 //［涼子］：でも、そんな息苦しく孤独な夢に現れた１人の女性‥‥彼女と会ったとき、安堵にも似た感覚を抱かなかった？
-
+[Ryouko]:I mean, when you met her in this stifling dream of yours, weren't you embraced by a feeling similar to relief?
 //［宏治］：言われてみれば‥‥。
-
+[Kouji]:Now that you mention it...
 //［涼子］：露出度も高いことを考慮すると、あなたのリビド（性衝動）も誘因するかもしれない。
-
+[Ryouko]:Taking into consideration her skin's high degree of exposure, maybe your libido (i.e. your sexual urges) worked as an incentive.
 //［宏治］：え？
-
+[Kouji]:Eh?
 //［涼子］：最近ガールフレンドと、していないんじゃなくて？
-
+[Ryouko]:You've not been doing it with your girlfriend lately, have you?
 //［宏治］：そ、それは‥‥ぷ、プライベートな事です。
-
+/*[Kouji]:A-Are you not invading on our privacy?
+#I would like to know what someone thinks of my translation.
 //あまりに図星だったので、少々どもってしまった。それを見すかしたように、彼女は目を細めて薄く笑う。
 
 //［宏治］：（何でこうなるかなぁ‥‥。）
