@@ -1220,29 +1220,29 @@ Today, she'll pay me a visit.
 /*[Kouji]:A-Are you not invading on our privacy?
 #I would like to know what someone thinks of my translation.
 //あまりに図星だったので、少々どもってしまった。それを見すかしたように、彼女は目を細めて薄く笑う。
-
+As she hit the mark, I stuttered a little. It seemed she hadn't missed that, as she was showing a faint smile.
 //［宏治］：（何でこうなるかなぁ‥‥。）
-
+[Kouji]:(Why did it come to this?...)
 //［涼子］：フフ、このくらいにしておきましょうか、今日は。
-
+[Ryouko]:*chuckle* Let's call it a day for now.
 //［宏治］：ええ‥‥。
-
+[Kouji]:Yeah...
 //僕は椅子を立ち上がった。膝が少し痛い。長い間、同じ格好で座っていたせいだろう。
-
+I stood up from the chair. My knees were a little sore. I stayed in the same position for a long time after all.
 //ブラインドからもれる陽射しは、かなり長く、オレンジ色の光を室内に満たしていた。
-
+/*The sunlight seeping through the blind was now nearly horizontal. Dusk light was filling the entire room.
 //［宏治］：（今日は、ずいぶんと長いカウンセリングになったな‥‥。）
-
+[Kouji]:(Today the counselling dragged on...)
 //［涼子］：そうそう、肝心な事を聞かなくては‥‥。
-
+[Ryouko]:Ah! I'd almost forgotten. I've got something crucial to ask you.
 //涼子は真面目な表情に戻ると、僕の方を向いた。切れ長の目が、冷静に僕を射ていた。
-
+Ryouko, regaining her seriousness, turned her gaze towards me. Her stern look with her slit eyes were serene.
 //［涼子］：最近、変わったこと、ある？　特に、メンタルな部分で‥‥。
-
+[Ryouko]:Lately, did you notice any change? Especially mentally.
 //［宏治］：メンタルな部分、ですか‥‥。
-
+[Kouji]:Did I notice any mental change? Is that it?
 //［涼子］：そう。
-
+[Ryouko]:Yes.
 //［宏治］：別に無いですね。ちょっと物忘れが多い、程度かな。
 
 //［涼子］：フフ、それは元々じゃないの？
