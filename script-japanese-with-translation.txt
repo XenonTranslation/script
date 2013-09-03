@@ -1273,34 +1273,34 @@ To my surprise, it seemed I spent a lot of time in thought. Ryouko was peeking a
 //［宏治］：ち、違いますよ。少し考え事をしていただけで‥‥。
 [Kouji]:N-Not at all. I was just thinking a little.
 //［涼子］：今日は、アレの採取は無しですからね。
-/*[Ryouko]:Today, we didn't collect _that_.
-#Must edit
+[Ryouko]:Today, we haven't collected _those_ pieces of data, you know?
 //［宏治］：な、何言ってるんですか！
-
+[Kouji]:W-What are you saying?
 //僕は、少しムキになって強い口調で抗議した。涼子は僕の顔を見て、クスクスと笑っている。顔が赤らんでいたかもしれない。
-
+Losing my mind over something trivial, I protested with a harsh tone. Ryouko was gazing at my face, giggling. Maybe I was blushing.
 //先日、データの採集ということで、妙なモノを採取された覚えがある。僕は怪訝に思いながらも、協力はした。
-
+The other day, I remember an unusual experiment performed by Ryoko, who was claiming she was doing it to gather some data. Even though I was suspicious, I accepted to cooperate.
 //でも、精神分析に、なんで必要なのかな‥‥健康診断でもあるまいに‥‥。
-
+But I couldn't see the point of this experiment, weren't we supposed to do psychoanalysis? And not a physical examination.
 //［宏治］：今日はもう、失礼して構いませんか？
-
+[Kouji]:Do you mind if I leave now for today?
 //［涼子］：えぇ‥‥明日は、また協力してもらうわ。
-
+[Ryouko]:No. I'd like you to assist me tomorrow.
+#I'd like to use the same word to translate 協力... Instead, I used "assist" and "cooperate".
 //［宏治］：精神分析、の方ですよね。
-
+[Kouji]:For the psychoanalysis, right?
 //［涼子］：フフ、もちろんよ。
-
+[Ryouko]:*chuckle* Of course.
 //涼子が面白そうな目で僕を見つめている。
-
+Ryouko was gazing at me, a sprinkle of interest in her eyes.
 //僕は先ほど、恵のことを思い出せなかったことが、気になっていた‥‥。
-
+I was worrying about the fact that I had totally forgotten about Megumi.
 //s0103
-
+s0103
 //1020
-
+1020
 //xenon_04
-
+xenon_04
 //外はムワッとした暖気が充満していた。
 
 //すっかり寒い季節だというのに‥‥‥‥。
