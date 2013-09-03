@@ -1244,35 +1244,37 @@ Ryouko, regaining her seriousness, turned her gaze towards me. Her stern look wi
 //［涼子］：そう。
 [Ryouko]:Yes.
 //［宏治］：別に無いですね。ちょっと物忘れが多い、程度かな。
-
+[Kouji]:Not really. I think I just tend to forget things a little.
 //［涼子］：フフ、それは元々じゃないの？
-
+[Ryouko]:*chuckle* But haven't you always been a scatterbrain?
 //［宏治］：あっ、酷いなぁ。でも、最近うっかりというのが多くて。
-
+/*[Kouji]:Ah, you're mean! But lately, I've been forgetting lots of things...
+#I'm not sure to really understand うっかり
 //［涼子］：もしかして、固有名詞とかがすぐに出てこないとか？
-
+[Ryouko]:Could it be that you can't remember some proper names for instance?
 //［宏治］：そう、それ。
-
+[Kouji]:Yeah, that's it.
 //［涼子］：固有名詞の忘却は、老化の第１歩と言うわ。気を付けなさい。
-
+[Ryouko]:Forgetting proper names is said to be the first step towards senility. Be careful.
 //［涼子］：フフ、またそんな顔をする。冗談よ、まだ若いんだから、沢山吸収して、沢山忘れなさい。
-
+[Ryouko]:*chuckle* You're still doing that face. That's a joke. You're still young, so you're free to let it go in one ear and out the other.
 //かなわないな、この人には‥‥。
-
+(This woman is hopeless.)
 //しかし最近、物忘れがひどいのは確かだった。どうも記憶がはっきりとしない、そんな事を考える事が、少なくなかった。
-
+But that was true that lately I've been forgetting a lot of things. Lately, I've noticed that my memory always tends to become vague.
 //何と言ったらいいのだろう‥‥。
-
+(What should I say?)
 //ほんの数時間前のことも、あまり自信がなかった。いや、もしかしたら、数分前のことさえ‥‥。
-
+I wasn't even sure about what happened a few hours ago. Nay, even what happened a few minutes ago maybe.
 //意外に考えていた時間が短くなかったようだ。涼子は心配そうに僕をのぞき込んできた。
-
+To my surprise, it seemed I spent a lot of time in thought. Ryouko was peeking at me with a worried look on her face.
 //［涼子］：どうしたの？　これから何をするか、もう忘れたとか？
-
+[Ryouko]:What is it? Have you already forgotten what you're supposed to do now?
 //［宏治］：ち、違いますよ。少し考え事をしていただけで‥‥。
-
+[Kouji]:N-Not at all. I was just thinking a little.
 //［涼子］：今日は、アレの採取は無しですからね。
-
+/*[Ryouko]:Today, we didn't collect _that_.
+#Must edit
 //［宏治］：な、何言ってるんですか！
 
 //僕は、少しムキになって強い口調で抗議した。涼子は僕の顔を見て、クスクスと笑っている。顔が赤らんでいたかもしれない。
