@@ -982,7 +982,7 @@ How many years do you think I've been doing this job?
 //［宏治］：とにかく、続きを聞いて下さい‥‥。
 [Kouji]:Anyway, just listen what I have to say.
 //僕は、夢の中の廊下で出会った少女のことを話してみた。
-I tried to tell about the girl I met in the corridor.
+I tried to talk about the girl I met in the corridor.
 //［宏治］：確か彼女は‥‥。
 [Kouji]:If I remember correcty, she was wearing...
 //　◆ レモンイエローの大きなリボンをしていて‥‥。
@@ -1060,7 +1060,7 @@ Heaving a long sigh, I once again started to unravel the threads of my memory.
 //［涼子］：なに？
 [Ryouko]:What is it?
 //［宏治］：何といったら‥‥誰かに印象が似ているんです。だけど、それが誰かはわかりません。
-[Kouji]:How to put it... I had the same impression as when I am with someone else. But, I don't know who this "someone else" is.
+/*[Kouji]:How to put it... I had the same impression as when I am with someone else. But, I don't know who this "someone else" is.
 //［涼子］：よくあることよ。夢の中の人物に、現実の世界の個人が投影されるということは。
 [Ryouko]:That happens often. Projecting real individuals into one's dream is not a rare thing.
 //［宏治］：そうみたいですね‥‥。
@@ -1070,7 +1070,8 @@ Heaving a long sigh, I once again started to unravel the threads of my memory.
 //どうも違うような気がするが、それを上手く言えなかった。
 I thought she was quite wrong, but I skilfully avoided saying so.
 //夢の中では、それが何か、僕は知っていたような気がしたのだが‥‥。
-/*I think it was something I knew, even inside my dream.
+/*I was feeling that she was wrong, even inside my dream I would have felt so.
+#I just can't translate that phrase accurately... I don't know what to do.
 //［涼子］：その女の子とは、どうなったの？
 [Ryouko]:Then, about the girl, what happened?
 //［宏治］：どうなったのって‥‥自己紹介をして‥‥。
@@ -1082,7 +1083,7 @@ I thought she was quite wrong, but I skilfully avoided saying so.
 //［宏治］：‥‥名前、ですか。
 [Kouji]:...Her name?
 //［涼子］：そう、名前。自己紹介をしたのなら、お互いに名前を名乗り合ったでしょう？
-[Ryouko]:Yes, her name.I you introduced yourselves, then you exchanged your names?
+[Ryouko]:Yes, her name. If you introduced yourselves, then you exchanged your names?
 //［宏治］：そういえば‥‥。
 [Kouji]:Now that you say it...
 //［宏治］：僕は、自分自身の名前を言えなかった気がします。
@@ -1090,7 +1091,7 @@ I thought she was quite wrong, but I skilfully avoided saying so.
 //［涼子］：故意に言わなかったの？　それとも言いたくても言えなかった？
 [Ryouko]:Is it because you didn't want to, or because you just couldn't do it even though you meant to?
 //この辺は、記憶が極めてあやふやだ。ただ、故意に名前を隠す、ということは無いように思えた。
-At this point, my memory becomes extremely vague. But I don't think I was actually hiding my name.
+At this point, my memory was extremely vague. But I wasn't thinking I was actually hiding my name.
 //そう思うと僕は、その事を涼子に伝えた。
 Thinking so, I said to Ryouko:
 //［宏治］：後者‥‥だと思います。
@@ -1281,11 +1282,11 @@ Losing my mind over something trivial, I protested with a harsh tone. Ryouko was
 //先日、データの採集ということで、妙なモノを採取された覚えがある。僕は怪訝に思いながらも、協力はした。
 The other day, I remember an unusual experiment performed by Ryoko, who was claiming she was doing it to gather some data. Even though I was suspicious, I accepted to cooperate.
 //でも、精神分析に、なんで必要なのかな‥‥健康診断でもあるまいに‥‥。
-But I couldn't see the point of this experiment, weren't we supposed to do psychoanalysis? And not a physical examination.
+But I couldn't see the point of this experiment, weren't we supposed to do psychoanalysis? So why a physical examination?
 //［宏治］：今日はもう、失礼して構いませんか？
 [Kouji]:Do you mind if I leave now for today?
 //［涼子］：えぇ‥‥明日は、また協力してもらうわ。
-[Ryouko]:No. I'd like you to assist me tomorrow.
+[Ryouko]:No. By the way, I'd like you to assist me tomorrow.
 #I'd like to use the same word to translate 協力... Instead, I used "assist" and "cooperate".
 //［宏治］：精神分析、の方ですよね。
 [Kouji]:For the psychoanalysis, right?
