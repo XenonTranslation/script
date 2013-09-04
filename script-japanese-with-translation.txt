@@ -214,11 +214,11 @@ Or maybe it was never intended for me to call a nurse to begin with.
 //（しかし‥‥‥‥。）
 (However...)
 //私はぐるりと部屋を見回してから、ふと思った。
-Glancing all around the room, I suddenly told me?:
+Glancing all around the room, I suddenly wondered:
 //（ここは本当に病院なんだろうか‥‥。）
 (Is this place really a hospital?)
 //何故か私は、ここが病院か、あるいはどこかの医療センターであると信じて疑わなかった。
-Why was it that I took for granted that this place was a hospital or any other kind of healing facility ?
+Why was it that I took for granted that this place was a hospital or any other kind of healing facility?
 //それがどういった根拠をもとにしていたのか、自分でもわからない。
 I couldn't even guess on what basis I thought that.
 //（部屋の外へ出れば、何かわかるかもしれない‥‥。）
@@ -228,11 +228,11 @@ Of course, this thought had no basis either, why was I feeling like leaving woul
 //ふと、床に目を落としてみる。
 Suddenly, I took a glance at the floor.
 //暗い青色のタイル張りの床は、私に１つ身震いをさせた。おまけに、床にはスリッパ１つ置いてはいない。
-The cold dark blue floor made be shiver a little. No sleepers were to be found on the floor.
+The cold dark blue floor made me shiver a little. No slippers were to be found on the floor.
 //（まいったな‥‥‥‥。）
 (I'm beaten...)
 //室温は決して低くはなかったが、ひんやりとした床に足を付けると、体温が急速に低下していくのがわかる。
-The room was certainly not cold but, I could feel the cold permeates from the base of my feet to my entire body.
+The room was certainly not cold but, I could feel the chill permeates from the base of my feet to my entire body.
 //ドアのところまで、ゆっくりと歩いていく。ペタッペタッという音が、室内によく響く。
 While slowly walking towards the door, I could hear my footsteps resounding throughout the room.
 //病院にしては、ややそぐわないドアだった。重く厚い。
@@ -314,15 +314,15 @@ No... Maybe it was the heating that was working outside the room.
 //（やけに無機質なところだ‥‥‥‥。）
 (What a cold, inorganic corridor...)
 //気温とは対照的に、冷え冷えとした廊下が、私の目の前にあった。
-Contrasting with the actual temperature, a fearsome, chilly corridor was expending before my eyes.
+Contrasting with the actual temperature, a fearsome, chilly corridor was unwinding before my eyes.
 //申し訳なさそうに端に置いてある観葉植物が、いくぶん私の心を安心させるが、どうも現実感に欠ける所だった。
-/*Although the decorative plants set apologetically against the walls were somewhat cheering the atmosphere, this place didn't look real.
+/*Although the decorative plants set apologetically against the walls were somewhat cheering up the atmosphere, this place didn't look real.
 //往来の廊下という雰囲気はあるものの、人は１人としていない。
 /*I thought this corridor should be teaming with passers-by, but no one was to be seen.
 //目の前に見える廊下、ドア、椅子そして観葉植物と‥‥。
 Be it doors, chairs or decorative plants...
 //確かに私の目の前にあるし、触ることもできる。だがこうも現実感を欠くのはいったい何故だろうか‥‥‥‥。
-Without any doubt, there were right in front of my eyes and I could even touch them. Yet, why did they feel like there weren't real?
+Without any doubt, there were right in front of my eyes and I could even touch them. Yet, why did they feel like they weren't real?
 //しかし、この音はいったいなんだろうか‥‥。
 Moreover, what was that noise?
 //キーンという耳障りな音が、さっきから、どこからともなく聞こえてくる。
@@ -360,7 +360,7 @@ I'll remain here to uncover who's walking up there.
 //そう威勢良く決めたものの、妙に緊張してしまう。恥ずかしいことに、自分の心音が耳まで届いてきそうだった。
 After making this bold decision, strangely, I started becoming nervous. I could even hear my loud heartbeats reaching my ears. What a shame...
 //（靴底が、床を踏む音だろうか‥‥？）
-(Without doubt, this is the the sound of shoes tapping the floor...)
+(Without doubt, this is the sound of shoes tapping the floor...)
 //どうやらそれが一番近い解答と思えた。底の堅い、ブーツか何かをはいているのかも知れない。
 This was the most considerate answer. Probably some hard-soled boots.
 //コッ‥‥コッ‥‥‥‥‥‥。
@@ -476,9 +476,9 @@ A loud sound resounded again in my head. Again, I felt assaulted by a terrible h
 //ふと、目の前の装置を見てみると、なにやらランプが点滅している。私はそれに若干の興味を抱いた。
 Then, as soon as I glanced at the device, some kind of light started blinking. I found myself to be quite enthralled by that light.
 //　◆ もっとよく見てみよう。
-　◆ Let's see from closer.
+◆ Let's see from closer
 //　◆ この頭痛は耐え難い。部屋を早く出よう。
-　◆ I can't stand that headache. I'll leave this room at once.
+◆ I can't stand that headache. I'll leave this room at once
 //もっとよく見てみよう。
 Let's see from closer.
 //この頭痛は耐え難い。部屋を早く出よう。
@@ -550,7 +550,7 @@ Maybe some sort of sensors were built-in.
 //fa01
 fa01
 //（‥‥！？）<$04><$30><$05>
-(...!?)
+(...!?)<$04><$30><$05>
 //（こ、これは‥‥‥‥。）
 (What...)
 //（何だ、これは‥‥‥‥。）
@@ -572,7 +572,7 @@ I gently approached my hands towards the nape of her neck. It was soft and warm.
 //私が、彼女の身体に触れようとした時‥‥‥‥。
 The moment I tried to touch her body...
 //プシューーー‥‥‥‥。<$04><$30><$05>
-Pshhhh...
+Pshhhh...<$04><$30><$05>
 //ビービービー、ビービービー‥‥。
 *beep* *beep* *beep*
 //（な、何だ‥‥どうしたんだ‥‥！？）
@@ -588,7 +588,7 @@ The panel was now displaying this:
 //何か、マズいことでもしてしまったのだろうか‥‥？
 Did I happen to do something wrong?
 //警告音が頭に響きわたる‥‥私は、少し吐き気をもよおしてきた。
-The alarm was resounding though my head. I was getting a bit nauseous.
+The alarm was resounding through my head. I was getting a bit nauseous.
 //（何か、とんでもない事をしてしまったのかも知れない‥‥。）
 (Maybe I did something I shouldn't have.)
 //再び、めまいと頭痛に襲われ始めた私は、頭を振りながら、少しでもこの音から遠ざかろうとしていた‥‥。
@@ -654,7 +654,7 @@ The game was saved in slot 4.
 //　　　　　　　　目覚めの‥‥時間‥‥？<$04><$30><$05>
 　　　　　　　Time... to wake up?<$04><$30><$05>
 //　　　　　　　　　コウジさん‥‥。<$04><$30><$05>
-Kohji-san.
+Kohji-san.<$04><$30><$05>
 //　　　　コウジ‥‥？　それが私の名前なのか‥‥？<$04><$30><$05>
 　　　　　Kohji? Is this my name?<$04><$30><$05>
 //1010b_m
@@ -1377,11 +1377,11 @@ Luckily, the lift was on standby on the second floor. The door immediately opene
 //エレベータに人は乗って居なかった。ここでゴミゴミと満員のエレベータなどに乗ったら、卒倒してしまう。
 /*Nobody was riding the lift. If you were to ride this lift when it is overcrowded, you would most surely faint from asphyxiation.
 //壁に寄り掛かる。背中にヒンヤリとした温度を感じた。
-
+I leaned against the wall. I felt its chilling cold on my back.
 //どうやら不愉快な暖気は、廊下にのみ、充満していたようだった。
-
+It seemed this unpleasant warmth was only present in the corridor.
 //［宏治］：（少しは、気分が楽になったかな‥‥‥‥。）
-
+[Kouji]:(I feel a little better...)
 //ずっとこのままエレベータに乗っていたい‥‥そんな淡い願望を抱いていたとき、
 
 //チーン‥‥。<$04><$30><$05>
