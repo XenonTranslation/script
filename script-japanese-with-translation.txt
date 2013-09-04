@@ -89,7 +89,7 @@ This place...?
 //‚Ç‚¤‚àA“ª‚ªƒ{[‚Á‚Æ‚µ‚Ä‚¢‚éddddB
 I'm feeling quite dizzy.
 //‚Ü‚é‚ÅA“ª‚Ì’†‚ğ’N‚©‚É‚¢‚¶‚ç‚ê‚Ä‚¢‚½‚æ‚¤‚¾ddB
-It's as if someone has been messing with my head.
+It's as if someone's been messing with my head.
 //–­‚È–²‚ğ‚İ‚½‚ªddddB
 I've had a strange dream.
 //–²‚©ddddB
@@ -97,26 +97,26 @@ A dream...?
 //0010
 0010
 //‚»‚¤‚©dddB
-/*...
-#I really have no idea how I should translate that "‚»‚¤‚©"... Maybe it's because Kouji understands he is inside a dream?
+(I see...)
+#I don't really know I should translate that "‚»‚¤‚©"...
 //‚Ç‚¤‚â‚ç•aº‚ÉA„‚Í‚¢‚é‚ç‚µ‚¢ddB
-It seems I am in a hospital room.
+It seemed I was in a hospital room.
 //‚µ‚©‚µA‚Ç‚¤‚àˆÓ¯‚ª‚Í‚Á‚«‚è‚Æ‚µ‚È‚¢ddB
-But my awareness is somewhat dimmed.
+But my awareness was somewhat dimmed.
 //‚¢‚âAˆÓ¯‚Æ‚¢‚¤‚©ddddB
-Is it my awareness? No...
+Was it my awareness? No...
 //‚Ç‚¤‚àŠo‚¦‚ª‚È‚¢‚ÈddB
-I don't remember anything...
+I couldn't remember anything...
 //‚È‚º„‚ÍA‚±‚±‚É‹‚È‚­‚Ä‚Í‚È‚ç‚È‚¢‚ñ‚¾‚ë‚¤‚©ddH
 Why should I be here in the first place?
 //‚±‚±‚Í‚Ç‚¤‚â‚çAƒxƒbƒh‚Ìã‚¾B‚µ‚©‚à•aº‚ç‚µ‚¢ddB
-It seems I am on top of a bed. And in a hospital room...
+It seemed I was on top of a bed, inside a hospital room.
 //‚±‚±‚É‚¢‚é‚Æ‚¢‚¤‚±‚Æ‚ÍA„‚Í‰½‚©•a‹C‚©A‚ ‚é‚¢‚Í‰ö‰ä‚Å‚à‚µ‚½‚Ì‚¾‚ë‚¤‚©ddB
-If I am here, it means I surely fell off to some illness or injury.
+I probably fell off to some illness or injury. That must have been why I was here...
 //‚ ‚½‚è‚ÍƒVƒ“‚ÆÃ‚Ü‚Á‚Ä‚¢‚éddB
-The surroundings are deadly quiet.
+The surroundings were deadly quiet.
 //„‚Ì‰º‚ÅAƒxƒbƒh‚ª”÷‚©‚É‚«‚µ‚Ş‰¹‚ğ“`‚¦‚Ä‚­‚é‚¾‚¯‚¾ddB
-The only thing I can hear is the creaking of the bed under me.
+The only thing I could hear was the creaking of the bed under me.
 //ƒxƒbƒh‚©‚çg‚ğ‹N‚±‚»‚¤‚Æ‚µ‚ÄA„‚Í‹C‚ª•t‚¢‚½B
 As I tried to get up, I noticed.
 //‰½‚¾A‚±‚ê‚ÍddB
