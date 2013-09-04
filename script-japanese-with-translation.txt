@@ -904,13 +904,13 @@ Again, Ryouko was staring far away, she seemed to be pondering over something.
 //［宏治］：えぇ、そうです。外は‥‥。
 [Kouji]:Yeah. The atmosphere was...
 //　◆ ゾクッとするような寒気が充満していて‥‥。
-　◆ ...filled with chill.
+　◆ ...overflowing with chill.
 //　◆ ムワッとするような暖気が充満していて‥‥。
-　◆ ...filled with warmth.
+　◆ ...overflowing with warmth.
 //［宏治］：ゾクッとするような寒気が充満していて‥‥身体が震えたのを覚えています。
-[Kouji]:...filled with chill. I remember I was shivering from the cold.
+[Kouji]:...overflowing with chill. I remember I was shivering from the cold.
 //［宏治］：ムワッとするような暖気が充満していて‥‥身体から汗が浮き出たのを覚えています。
-[Kouji]:...filled with warmth. I remember I was sweating from the heat.
+[Kouji]:...overflowing with warmth. I remember I was sweating from the heat.
 //［宏治］：やけに、無機質な場所でした。
 [Kouji]:It was a really inorganic place.
 //［涼子］：無機質なのは、恐らくそうする必然性があるからよ。
@@ -1295,7 +1295,7 @@ But I couldn't see the point of this experiment, weren't we supposed to do psych
 //涼子が面白そうな目で僕を見つめている。
 Ryouko was gazing at me, a sprinkle of interest in her eyes.
 //僕は先ほど、恵のことを思い出せなかったことが、気になっていた‥‥。
-I was worrying about the fact that I had totally forgotten about Megumi.
+I was worrying over the fact that I had totally forgotten about Megumi.
 //s0103
 s0103
 //1020
@@ -1303,79 +1303,79 @@ s0103
 //xenon_04
 xenon_04
 //外はムワッとした暖気が充満していた。
-
+The exterior was overflowing with warmth.
 //すっかり寒い季節だというのに‥‥‥‥。
-
+Though we were still in the cold season...
 //室内は冷房を入れていたか、あるいは廊下に暖房をきかせているのか‥‥。
-
+Was it the air conditioning working the room, or the heating working in the corridor?
 //放課後、数時間が経過した校内‥‥そんな形容が当てはまる場所だ。
-
+The inside of a school a few hours after the release of the students... That was the feeling exhaling from this place.
 //［宏治］：今日はまた、一段と人の数が少ないな‥‥。
-
+[Kouji]:Again, there isn't a lot a people here today.
 //たまにすれ違う何人かの人たちは、午後の気だるさを表情に浮かべ、僕の傍らを寡黙に通り過ぎていく。
-
+From time to time, other people and me were passing by another, holding a sluggish afternoon expression. They were taciturnly passing by me.
 //こうして見ると、ごく普通の病棟の一風景という感じがする。
-
+This was the typical scene you would expect from an ordinary hospital.
 //［宏治］：しかし、それにしても‥‥。
-
+[Kouji]:But, there's something wrong.
 //僕は先ほどの、涼子先生の言った、あの言葉を思い起こしていた。
-
+The words Ryouko-sensei said before resurfaced within me.
 //『どんな夢にも一定以上の意味があり、心的価値が存在する‥‥。』
-
+『Whatever the dream, it holds more than one fixed meaning, as a psychological value also exists.』
 //‥‥‥‥‥‥‥‥。
-
+‥‥‥‥‥‥‥‥//。
 //心的価値？
-
+A psychological value?
 //例えば僕が昨日見たあの夢‥‥‥‥。
-
+If you take the dream I had yesterday...
 //あれに、どんな意味があるというのだろう‥‥？
-
+What kind of meaning does it hold?
 //ま、ここで考えても、しょうがないだろうな‥‥。
-
+Well, it's no use thinking over it here.
 //　◆ このまま自室に戻って、少し休もう。
-
+　◆ I'll return to my room to get some rest.
 //　◆ ロビーにでも行って、考えをまとめてみよう。
-
+　◆ I'll go to the lobby so I can put my thoughts in order.
 //このまま自室に戻って、少し休もう。
-
+I'll return to my room to get some rest.
 //僕の自室は３階にある。ここ２階から、階段１階分だけ上らなくてはならない。
-
+My room was on the third floor. As I was now at the second floor, I'll go up just one floor using the stairs.
 //［宏治］：（疲れるな‥‥‥‥。）
-
+[Kouji]:(I'm beaten...)
 //他人に聞かれたら呆れられそうだったが、実際、今の僕は頭がぼやけていて、足どりも至極重い。
-
+/*If you were to ask someone, they would be surprised to know that my thoughts were blurred and my gait was really heavy.
 //まるで、自分の身体では無いような気がした。
-
+It was as if my body wasn't my own.
 //［宏治］：（催眠療法のせいかもしれないな‥‥‥‥。）
-
+[Kouji]:(Maybe that's the hypnotherapy that's at fault...)
 //［宏治］：（しばらく自室で、横にでもなろう。）
-
+[Kouji]:(I'll just lie down a bit in my room.)
 //自室といっても、ごく普通の個人用の病室だ。僕はここ数週間、そこで寝泊まりしていた。
-
+Even if I say "my room", that's just an ordinary individual hospital room. I've been staying there for a few weeks now.
 //［宏治］：（そうだ、エレベータを‥‥‥‥。）
-
+[Kouji]:(Yeah, the lift...)
 //幸い、エレベータは２階にとどまっていたようだ。上のボタンを押すと、ドアはすぐに開いた。
-
+Luckily, the lift was on standby on the second floor. The door immediately opened the moment I pressed the "up" button.
 //僕は頭を振りながら、重い足取りでエレベータに乗り込んで行った‥‥。
-
+Shaking my head, I started to ride the lift with heavy footsteps.
 //ロビーにでも行って、考えをまとめてみよう。
-
+I'll go to the lobby so I can put my thoughts in order.
 //そう考えたものの、頭は若干ぼやけているし、足どりも重い‥‥。
-
+I was thinking that, and yet my thoughts were blurred, my gait was really heavy.
 //しかし、今はあの夢のことを、自分なりにもう少し考察してみたかった。
-
+But I wanted to ponder on my own about my dream.
 //［宏治］：（考えて、どうなるというものでも、ないんだけどな‥‥。）
-
+[Kouji]:(Is there any merit to give thoughts to that matter...?)
 //でも何も考えないよりはマシじゃないか‥‥そんな考えも、頭をよぎる。
-
+But anyway, that was better than not thinking at all. This idea crossed my mind.
 //［宏治］：（ロビーは確か、１階だったか‥‥疲れるな。）
-
+[Kouji]:(The lobby is... on the first floor, isn't?... I'm beaten.)
 //ロビーは１階にある。ここ２階から、１階分だけ階段を利用しなくてはならない。
-
+The lobby was on the first floor. As I was now at the second floor, I'll go down just one floor using the stairs.
 //幸い、エレベータは２階にとどまっていたようだ。下のボタンを押すと、ドアはすぐに開いた。
-
+Luckily, the lift was on standby on the second floor. The door immediately opened the moment I pressed the "down" button.
 //エレベータに人は乗って居なかった。ここでゴミゴミと満員のエレベータなどに乗ったら、卒倒してしまう。
-
+/*Nobody was riding the lift. If you were to ride this lift when it is overcrowded, you would most surely faint from asphyxiation.
 //壁に寄り掛かる。背中にヒンヤリとした温度を感じた。
 
 //どうやら不愉快な暖気は、廊下にのみ、充満していたようだった。
