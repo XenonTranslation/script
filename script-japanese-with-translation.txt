@@ -1383,33 +1383,33 @@ It seemed this unpleasant warmth was only present in the corridor.
 //［宏治］：（少しは、気分が楽になったかな‥‥‥‥。）
 [Kouji]:(I feel a little better...)
 //ずっとこのままエレベータに乗っていたい‥‥そんな淡い願望を抱いていたとき、
-
+I just wanted to go on riding the elevator. The moment this fleeting yearning embraced me...
 //チーン‥‥。<$04><$30><$05>
-
+*ding* <$04><$30><$05>
 //［宏治］：現実とは、こういうものさ‥‥。
-
+/*[Kouji]:Reality's always like this...
 //あらためてそう認識すると、僕はエレベータをゆっくりと降りていった。
-
+Realizing this once again, I sluggishly got off the lift.
 //1030
-
+1030
 //mai_bast
-
+mai_bast
 //bast_m02
-
+bast_m02
 //危うく、ぶつかりそうになってしまう。どうも、注意力が散漫だ。
-
+We nearly bumped into each other. My attentiveness wasn't top-notch.
 //その女性は、僕を見ると少し驚いたような顔をした。でもそれは一瞬で、すぐにいつも通りの笑顔になる。
-
+This woman seemed a bit surprised when she saw me. But that expression only lasted an instant, for she regained immediately her usual smile.
 //［宏治］：やぁ、ええと‥‥。
-
+[Kouji]:Hi... Hmm...
 //［目の前の女性］：舞です。
-
+[Woman before me]:It's Mai.
 //［宏治］：そうそう、舞さん、だったよね。
-
+[Kouji]:Ah, yeah. It was Mai indeed.
 //［舞］：こんにちは、宏治サン。
-
+[Mai]:Good afternoon, Kouji-san.
 //最後の「さん」のイントネーションが、少し妙な発音になっている。この子の特徴だった。
-
+Her tone when she was pronouncing "-san" was a bit strange. This was a special trait of hers.
 //静かな廊下、無機質な空間。そこに咲く一輪の花という形容が、舞には相応しい気がした。
 
 //気分が低下していた僕にとって、ある種の清涼剤になったのは事実のようだった。
