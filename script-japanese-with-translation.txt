@@ -1427,69 +1427,69 @@ For me who was feeling down, her presence was truly a breath of fresh air.
 //彼女は舞という名前だ。それ以上の事は知らないし、教えてもくれない。
 She was called Mai. I didn't know anything about her beside that. She wouldn't tell me anything.
 //僕も、彼女が話さない以上、率先して聞き出そうとはしなかった。
-
+But it wasn't as if she was withholding the information. I merely wasn't taking the initiative to ask her.
 //どこか陰があるような、憂いがかった女性だった。
-
+Somewhere, she seemed to have another hidden side. And that side didn't seem happy at all.
 //［舞］：今日も？
-
+[Mai]:Today too?
 //［宏治］：うん。
-
+[Kouji]:Yeah.
 //舞が言っているのは、カウンセリングの事だ。
-
+Mai was talking about the counselling.
 //僕はそれを肯定する‥‥そんなやりとりは、もうかれこれ何度目になるか‥‥。
-
+I nodded to her. How many times had we had this same conversation? 
 //［宏治］：舞さんは、ここで何を？
-
+[Kouji]:Mai-san, what are you doing here?
 //［舞］：お散歩。
-
+[Mai]:I am on a stroll.
 //［宏治］：散歩？　ここを？
-
+ [Kouji]:A stroll? Here?
 //［舞］：ええ‥‥。
-
+[Mai]:Yes.
 //少し気のない声が、僕の耳に届いてくる。何かいいたげだ。
-
+A somewhat dispirited voice reached my ears. She wanted to tell me something.
 //僕は黙って、舞の話の続きを待った。
-
+I was keeping silent, awaiting the words Mai was about to say.
 //［舞］：それよりも、宏治サン。
-
+[Mai]:Apart from that, Kouji-san.
 //［舞］：どんな夢を見たの？
-
+[Mai]:What kind of dream did you have?
 //［宏治］：夢って‥‥夢のこと？
-
+[Kouji]:You say dream... _this_ dream?
 //［舞］：はい。
-
+[Mai]:Yes.
 //［宏治］：ハハ、いつもの悪夢だよ‥‥。
-
+[Kouji]:Haha, it was the same nightmare as always.
 //少し突き放したような言い方になってしまった。よほど、自分自身にイライラしていたのかも知れない。
-
+My words came out with a more or less rebuking tone. Maybe I was about to burst out.
 //舞の様子をうかがってみる‥‥良かった、気分を害した様子はない。
-
+/*I glanced quickly at Mai's expression. Hopefully, she didn't look in a bad mood.
 //［舞］：今度‥‥。
-
+[Mai]:Next time...
 //［宏治］：えっ？
-
+[Kouji]:Huh?
 //［舞］：今度、夢のお話を聞かせて下さい。
-
+[Mai]:Next time, please tell me about your dream.
 //［宏治］：夢って‥‥アレを？
-
+/*[Kouji]:You mean... tell you about _it_?
 //［宏治］：そりゃあ別に構わないけど‥‥面白い事なんて、何もないよ。
-
+[Kouji]:I don't really mind but... there's nothing interesting in it.
 //［舞］：夢にはメッセージが込められているんです、１つ１つに‥‥。
-
+[Mai]:Dreams hold message. Without exception.
 //［舞］：それを、ほとんどの人が気付かないまま、忘れ去ってしまうんです。
-
+[Mai]:Most people do not ever realize this and their dreams end up sunk into oblivion.
 //［宏治］：僕の例の夢にも、何か理由があるってこと？
-
+[Kouji]:Do you mean there is a reason to my dream?
 //［舞］：はい、きっと、あります。
-
+[Mai]:Yes. Most surely there is.
 //［宏治］：（確か、涼子先生も、そんなことを言っていたな‥‥‥‥。）
-
+[Kouji]:(Yeah, Ryouko-sensei told this as well...)
 //いつの間にか、廊下には僕らだけになっていた。
-
+Before one knows, there was only me in the corridor.
 //あたりはシンと静まり返っていて、舞の息づかいさえも、僕の耳にとどいてきそうだった‥‥。
-
+The surroundings went back dead quiet. Only Mai's breathing was still lingering in my ears.
 //［舞］：‥‥‥‥‥‥。
-
+[Mai]:‥‥‥‥‥‥//。
 //［宏治］：あの‥‥。
 
 //［舞］：そろそろ‥‥。
