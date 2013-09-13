@@ -1485,29 +1485,29 @@ My words came out with a more or less rebuking tone. Maybe I was about to burst 
 //［宏治］：（確か、涼子先生も、そんなことを言っていたな‥‥‥‥。）
 [Kouji]:(Yeah, Ryouko-sensei told this as well...)
 //いつの間にか、廊下には僕らだけになっていた。
-Before one knows, there was only me in the corridor.
+Before one knows, there was only us in the corridor.
 //あたりはシンと静まり返っていて、舞の息づかいさえも、僕の耳にとどいてきそうだった‥‥。
 The surroundings went back dead quiet. Only Mai's breathing was still lingering in my ears.
 //［舞］：‥‥‥‥‥‥。
 [Mai]:‥‥‥‥‥‥//。
 //［宏治］：あの‥‥。
-
+[Kouji]:Er...
 //［舞］：そろそろ‥‥。
-
+[Mai]:I think...
 //［舞］：そろそろ自室に戻った方が、いいと思いますよ、宏治サン‥‥。
-
+[Mai]:I think you should get back to your room, Kouji-san.
 //［宏治］：え、あぁ、そうだね。
-
+[Kouji]:Eh? Ah... Yeah...
 //舞はクスッと笑みをこぼすと、軽快な足取りで、僕の前から去っていった。
-
+Mai, letting slip out a smile, left with a light gait.
 //後には、僕が１人だけ、長い廊下にたたずんでいるだけだった‥‥。
-
+Afterwards, there was only me loitering in the long corridor, alone.
 //［宏治］：（部屋に、戻るかな‥‥。）
-
+[Kouji]:(I should go back to my room.)
 //頭も足も重かった。今は、ベッドの上に早く倒れ込みたいという欲求が、僕の身体を動かしている‥‥。
-
+/*My legs were as sore as my head.  I just wanted to collapse on my bed. I was moving my body.
 //1070
-
+1070
 //静かなロビーだった。空調設備としての、レトロな扇風機が天井で回っていた。
 
 //人は少なく無機質な空間。そこに咲く一輪の花という形容が、舞には相応しい気がした。
