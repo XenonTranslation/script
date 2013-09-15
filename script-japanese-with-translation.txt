@@ -670,7 +670,7 @@ Ryouko, who seemed to be pondering over something while scrutinizing me, finally
 //［宏治］：ええ‥‥‥。
 [Kouji]:Yeah...
 //［涼子］：‥‥‥‥‥‥。
-[Ryouko]:...
+[Ryouko]:‥‥‥‥‥‥//。
 //静かな昼下がり、という形容が相応しかった。
 /*We could accurately compare it to a peaceful afternoon.
 //都会の雑踏とは無縁のこの場所は、微妙な、メンタルな部分に依存する人たちに、快適な環境を提供してくれている。
@@ -972,7 +972,7 @@ How many years do you think I've been doing this job?
 //［涼子］：さっきから話を聞いていると、人が１人も出てこないわ。
 [Ryouko]:Since I started listening to your story, not a single person made an appearance.
 //［宏治］：‥‥‥‥‥‥。
-[Kouji]:...
+[Kouji]:‥‥‥‥‥‥//。
 //［涼子］：‥‥なに？
 [Ryouko]:... What is it?
 //［宏治］：いえ、出て来るんです。ただ‥‥。
@@ -1022,7 +1022,7 @@ I tried to talk about the girl I met in the corridor.
 //［宏治］：眼鏡も掛けていたような気もしましたけど‥‥。
 [Kouji]:She was as well wearing glasses if I remember correctly.
 //［宏治］：‥‥‥‥‥‥‥‥。
-[Kouji]:...
+[Kouji]:‥‥‥‥‥‥‥‥//。
 //［宏治］：あの‥‥何か？
 [Kouji]:Err... is there something amiss?
 //涼子は、書き取っていたメモを睨んで、しばらく思案していた。おもむろに顔をこちらへ向けると、
@@ -1141,7 +1141,7 @@ Strangely the contents of my memory were vague. I felt frustrated when I realize
 //［涼子］：そう、残念だわ。
 [Ryouko]:I see. That's a shame.
 //ブラインドからもれてくる陽射しは、もうかなり中の方まで進入してくる。それは、意外に時間が経過していることを僕に教えていた。
-/*The sunlight seeping through the blind wasn't as vertical as before. That's thanks to that that I understood some time had passed with me noticing it.
+/*The sunlight seeping through the blind wasn't as vertical as before. That's thanks to that that I understood some time had passed without me noticing it.
 //涼子はペンを机の上に置くと、少し厳しい顔をして自分のとったメモを見つめている。
 Ryouko, putting her pen on top of her desk and turning a lightly stern gaze towards me kept looking at her notebook.
 //［涼子］：願望充足‥‥というのを知っているかしら？　宏治クン。
@@ -1349,7 +1349,7 @@ It was as if my body wasn't my own.
 //［宏治］：（催眠療法のせいかもしれないな‥‥‥‥。）
 [Kouji]:(Maybe that's the hypnotherapy that's at fault...)
 //［宏治］：（しばらく自室で、横にでもなろう。）
-[Kouji]:(I'll just lie down a bit in my room.)
+[Kouji]:(I'll just lie down for a while in my room.)
 //自室といっても、ごく普通の個人用の病室だ。僕はここ数週間、そこで寝泊まりしていた。
 Even if I say "my room", that's just an ordinary individual hospital room. I've been staying there for a few weeks now.
 //［宏治］：（そうだ、エレベータを‥‥‥‥。）
@@ -1379,7 +1379,7 @@ Luckily, the lift was on standby on the second floor. The door immediately opene
 //壁に寄り掛かる。背中にヒンヤリとした温度を感じた。
 I leaned against the wall. I felt its chilling cold on my back.
 //どうやら不愉快な暖気は、廊下にのみ、充満していたようだった。
-It seemed this unpleasant warmth was only present in the corridor.
+It seemed this unpleasant heat was only present in the corridor.
 //［宏治］：（少しは、気分が楽になったかな‥‥‥‥。）
 [Kouji]:(I feel a little better...)
 //ずっとこのままエレベータに乗っていたい‥‥そんな淡い願望を抱いていたとき、
@@ -1401,7 +1401,7 @@ We nearly bumped into each other. My attentiveness wasn't top-notch.
 //その女性は、僕を見ると少し驚いたような顔をした。でもそれは一瞬で、すぐにいつも通りの笑顔になる。
 This woman seemed a bit surprised when she saw me. But that expression only lasted an instant, for she regained immediately her usual smile.
 //［宏治］：やぁ、ええと‥‥。
-[Kouji]:Hi... Hmm...
+[Kouji]:Hi... Err...
 //［目の前の女性］：舞です。
 [Woman before me]:It's Mai.
 //［宏治］：そうそう、舞さん、だったよね。
@@ -1443,7 +1443,7 @@ I nodded to her. How many times had we had this same conversation?
 //［舞］：お散歩。
 [Mai]:I am on a stroll.
 //［宏治］：散歩？　ここを？
- [Kouji]:A stroll? Here?
+[Kouji]:A stroll? Here?
 //［舞］：ええ‥‥。
 [Mai]:Yes.
 //少し気のない声が、僕の耳に届いてくる。何かいいたげだ。
@@ -1536,7 +1536,7 @@ I quietly started to climb the stairs.
 //1060
 1060
 //meg_bast
-meg_blast
+meg_bast
 //ここは僕の自室だ‥‥。
 This was my room.
 //見慣れたこの場も、今はベッドしか視界に入ってこない。ベッドがこれほど恋しく思ったことは無かった。
@@ -1570,7 +1570,7 @@ Though her words may have been blunt, her face was showing a carefree smile. Tha
 //［宏治］：ゴメン、本当に。カウンセリングが、意外にのびちゃって‥‥。
 [Kouji]:I'm sorry, really. The counselling dragged on unexpectedly and...
 //［恵］：ふーん、私はてっきりまた、女の子とおしゃべりでもしていたのかと思った。
-[Megumi]:Hmpff! I was pretty sure you were have some idle chat with a girl.
+[Megumi]:Hmpff! I was pretty sure you were having some idle chat with a girl.
 //［恵］：‥‥‥‥‥‥。
 [Megumi]:‥‥‥‥‥‥//。
 //［恵］：うん、大丈夫みたいね、感心感心。
@@ -1598,263 +1598,266 @@ She was trying to ask me about my condition indirectly. Because I was used to he
 //肯定したかったが、さすがにそれは大人げない。第一、恵の顔が曇るのを、僕は見たくはなかった。
 I wanted to nod, but it would have been childish. More importantly, I didn't want to dampen Megumi's mood.
 //肩をしゃくりあげて、首を横に振ると、
-
+Shrugging my shoulders, I shook my head.
 //［宏治］：仕事はいつも、疲れるもんだよ。
-
+[Kouji]:Work is always tiring.
 //［恵］：ちゃんとやってくれないと、私がパパにあわせる顔がないんだからねっ。
-
+[Megumi]:If you don't do it diligently, I won't be able to show my face to Papa, you know.
 //［宏治］：血の繋がってないパパに？
-
+[Kouji]:You mean your Papa you're not related by blood with?
 //［恵］：ぶつわよ、もぉ。
-
+[Megumi]:I'll hit you, you jerk!
 //口で言うほど怒ってはいない。むしろ、甘えたような声で、ベッドに座っている僕にすりよってくる。
-
+I wasn't as angry as her tone was implying. Rather, she was sitting on the bed, sneakingly drawing close to me.
 //meg01
-
+meg01
 //meg01_m
-
+meg01_m
 //［宏治］：な、なんだよ‥‥。
-
+[Kouji]:W-What do you want?
 //［恵］：もぉ、１か月ぶりくらいで会えたのに、ちょっとつれないんじゃない？
-
+[Megumi]:Hey, it's been one month since we last met. Couldn't you at least act friendly?
 //［宏治］：そうかなぁ‥‥。
-
+[Kouji]:Is it?
 //［恵］：そうなのっ！
-
+[Megumi]:IT IS!
 //meg01b
-
+meg01b
 //［恵］：‥‥ねっ。
-
+[Megumi]:... Hey.
 //［宏治］：な、なに？
-
+[Kouji]:W-What?
 //［恵］：もぉ、早く！
-
+[Megumi]:Hey! Hurry!
 //［宏治］：だから、なに？
-
+[Kouji]:But, what?
 //［恵］：ちょぉっとぉ。
-
+[Megumi]:Just hurry up already.
 //［宏治］：わかったよ、はいはい‥‥‥‥<$0C>チュッ。
-
+[Kouji]:Okay, sure...<$0C>*kiss*
 //［恵］：フフ、まぁいいわ。
-
+[Megumi]:*chuckle* Fine enough.
 //［宏治］：頼むよ、恵‥‥本当にいま、疲れてるんだ。
-
+[Kouji]:I beg you, Megumi. I'm really tired now.
 //これは本当だった。
-
+It was the truth.
 //実際、目の前がクラクラしている。別に恵の魅力のせい、という訳でもなさそうだ。
-
+My eyes were already stinging from exhaustion. And Megumi's appeal wasn't helping them.
 //［恵］：もう、だらしないわ。倦怠期の夫婦じゃないんだから‥‥ほらっ。
-
+/*[Megumi]:Hey, that's unfair. We're not an old married couple. Hey!
+#I don't understand at all what Megumi means. I guess something about old couple not making love because of tiredness.
 //［宏治］：な、なんだよ、まさかここで？
-
+[Kouji]:Y-You serious, here?
 //［恵］：フフ、久しぶりだから、身体が火照ってるの！
-
+[Megumi]:*chuckle* It's been so long. I'm feeling so hot.
 //［宏治］：‥‥‥本当に今、疲れてるんだって。
-
+[Kouji]:... But seriously, I'm really tired now.
 //［恵］：夜のおつとめを果たすのが、夫たる者の責務でしょ？
-
+[Megumi]:This is a husband's burden to accomplish his nightly duty, isn't it?
 //［宏治］：誰が夫‥‥‥‥あれ？
-
+[Kouji]:Who's a husband... Huh?
 //［恵］：どうしたの？
-
+[Megumi]:What is it?
 //［宏治］：（あ、ヤバ‥‥ほ、本当にめまいが‥‥‥‥。）
-
+[Kouji]:(Ah! I... I'm so dizzy...)
 //勢い余って、頭からベッドに沈んでしまった。よけいに頭がクラクラしてくる。
-
+I buried myself on the bed head first, bested by a terrible vertigo.
 //［恵］：きゃっ、宏治‥‥大丈夫？　宏治！
-
+[Megumi]:Yikes! Kouji! You all right? Kouji!
 //［宏治］：ゴメン、ほんとにマズいみたい‥‥。
-
+[Kouji]:Sorry, I'm really not feeling well...
 //恵がそっと僕を抱き起こす。ふくよかとは言えないが、決して小さくない胸が、僕の身体に密着してくる。
-
+Megumi gently lifted me up. Her breasts were glued to me. They weren't as well-rounded as she pretended, yet they couldn't be called small either.
 //こんな状態でも、しっかり反応してしまう男性機能に、呆れると同時に感心もする。
-
+<>In such a situation, I was amazed by my male response\n - I was overcome by awe as well.
 //［宏治］：（人類が死に絶えない訳だよ‥‥。）
-
+[Kouji]:(Mankind won't die out that easily.)
 //僕がそっと目をあけると、目の前には、目をつぶった恵が迫ってきていた。
-
+Opening my eyes, I saw Megumi's face, eyes closed, drawing near mine.
 //［恵］：宏治‥‥‥‥。
-
+[Megumi]:Kouji...
 //しょうがないな、そんな風に思ったとき‥‥‥‥。
-
+It couldn't be helped. The moment I thought that...
 //［女の声］：えへん！
-
+[Woman's voice]:Ahem!
 //［恵］：きゃっ。
-
+[Megumi]:Yikes!
 //sa_bast
-
+sa_bast
 //［女］：しょうがないわね、ホテルじゃないのよ、ここは。
-
+[Woman]:You're helpless. We're not in a hotel you know?
 //［宏治］：さ、沙夜香‥‥さん。
-
+[Kouji]:S-Sayaka...-san.
 //［沙夜香］：飢えた若者たちを止めようとは思わないけど、ＴＰＯはわきまえて頂戴ね。
-
+/*[Sayaka]:I don't intend to stop starving youngsters, but please know your place.
 //［恵］：（誰なの？　宏治‥‥。）
-
+[Megumi]:(Who's she, Kouji?)
 //恵が僕の耳にささやいた。恐らく２人は、初対面のはずだった。
-
+Megumi was whispering to my ears. It must have been the first time Sayaka and Megumi had met.
 //［沙夜香］：こらそこ、内緒話なんかしないの。
-
+[Sayaka]:Hey, you! Don't do some secret talk.
 //［沙夜香］：恵さん、よね？
-
+[Sayaka]:You are Megumi-san, aren't you?
 //［恵］：はい、そうですが‥‥。
-
+[Megumi]:Yes, it's me, but.
 //［沙夜香］：恋人とはいえ、いきなりプライベートルームへ来られては困りますよ。
-
+[Sayaka]:You may be lovers, but don't go around making this place your private room.
 //［恵］：言っておきますけど、私の父は‥‥‥‥。
-
+[Megumi]:In case you don't know, my father is...
 //沙夜香は左の手のひらを恵の前にかざすと、わかっている、というゼスチャーで恵の言葉を制した。
-
+Sayaka, waving her right hand in front of Megumi, made a sign clearly meaning : "I know".
 //［沙夜香］：知っているわ、この医療センターのスポンサー様でしょ。
-
+[Sayaka]:I know. He is this hospital centre's honoured sponsor.
 //『様』という部分に、やや皮肉のスパイスがまぶしてあると感じるのは、考えすぎだろうか。恵はちょっとスねたような顔をして、黙っている。
-
+I may have been over-thinking, but I could feel a bit of piqued irony in the way she said "honoured". Megumi, with a peevish look on her face, was staying put.
 //［沙夜香］：でも、規則は規則。スポンサーのご令嬢であっても、遵守してもらいますから。
-
+[Sayaka]:But the rules are the rules. Even if you are our honourable sponsor's precious daughter, I'll ask you to comply.
 //［恵］：な、なによ、それって‥‥‥‥。
-
+[Megumi]:Y-You bitch... Then...
 //［沙夜香］：はい、じゃあ退出して。ほらっ、早く。
-
+[Sayaka]:Yes, please take your leave. Hurry up.
 //［恵］：あン、もう‥‥覚えてなさい、お父様に言って‥‥。
-
+[Megumi]:Y-you! Don't forget! I'll tell my father...
 //［沙夜香］：はいはい、さっ、出て。
-
+[Sayaka]:Yeah, sure. Now, get out.
 //［恵］：宏治、また来るからね！
-
+[Megumi]:Kouji, I'll come another time, so wait for me!
 //バタン。
-
+*slam*
 //［沙夜香］：さてと、邪魔者はおっぱらったと。
-
+[Sayaka]:Good, now the nuisance is gone.
 //［宏治］：沙夜香さん、横暴だなぁ‥‥‥。
-
+[Kouji]:Sayaka-san, you're a tyrant.
 //［沙夜香］：規則ですからね、しょうがないわよ。
-
+[Sayaka]:These are the rules, it can't be helped.
 //［宏治］：規則規則って、いつも規則を破ってるくせに‥‥。
-
+[Kouji]:You're one to talk, you always break them as soon as you can.
 //［沙夜香］：あら、たまに宏治クンと、夜更かししたりする程度じゃない。
-
+[Sayaka]:Oh oh! If it means I can spend the night with Kouji-kun once in a while...
 //［宏治］：ちょっ‥‥冗談でも、そんなこと恵には言わないで下さいよ。
-
+[Kouji]:Hey! Even if it's a joke, please don't say that to Megumi.
 //［沙夜香］：残念ねぇ、２人でしっぽりと濡れたあの夜のことを‥‥。
-
+[Sayaka]:Too bad, huh?  Don't you remember this debauched midnight tryst we had both of us?
 //［宏治］：ちょっとちょっと、単に夜遅くまで話していただけじゃないですか。
-
+[Kouji]:Hold your horses! Didn't we merely talk till late at night?
 //［沙夜香］：そうだったっけ？
-
+[Sayaka]:Ah, did we?
 //この、少々とぼけた女性は、沙夜香という。ここの医療センターで何故か、涼子先生の助手のようなことをしているらしい。
-
+This kinda slow woman was called Sayaka. It seems she's working in the hospital centre as Ryouko-sensei's assistant.
 //相当の才媛のはずなのだが、生憎と雰囲気は、遊び人のお姉さまという感じだった。
-
+/*She must be talented woman, but she felt more like an older playgirl to me.
 //何故か、僕に絡んでくる‥‥迷惑という訳ではないが、その理由がわからない。
-
+Why did she get close to me? Well, she wasn't a bother but I didn't know the reason.
 //［沙夜香］：理由？　あなたに興味があるというのじゃ、ダメかしら？
-
+[Sayaka]:A reason? Is that wrong to be interested in you?
 //それ以来、理由を聞くのもやめてしまった。どうも捉えどころのない女性だ。
-
+After that, I stopped asking for a reason. She was clueless woman.
 //［沙夜香］：それよりも、どう、気分は？
-
+[Sayaka]:More importantly, how do you feel?
 //［宏治］：どうって‥‥‥見れば分かりませんか？
-
+[Kouji]:You ask but, don't you understand just by looking?
 //［沙夜香］：あまり、良くはないようだけど‥‥。
-
+[Sayaka]:Well, you don't seem really well...
 //［宏治］：はっきり言って、最悪ですよ。
-
+[Kouji]:To put it clearly, I can't be worse.
 //沙夜香は少しだけ心配そうな表情になった。傍らへやってくると、手のひらをそっと僕の額に当てる。
-
+Sayaka's expression became somewhat worried. Telling to draw closer, the set her hand on my forehead.
 //［宏治］：（ドキッ‥‥。）
-
+[Kouji]:(*badump*)
 //［沙夜香］：ふむ、熱はないようね‥‥。
-
+[Sayaka]:Hmm, you don't seem to have a fever.
 //［沙夜香］：今日は、例のアレを‥‥？
-
+[Sayaka]:Have you done _this_ today?
 //［宏治］：いえ、今日はカウンセリングだけでした。
-
+[Kouji]:No, today we only did counselling.
 //［沙夜香］：そう‥‥近頃うなされてるそうじゃない。
-
+[Sayaka]:I see. I heard you've had nightmares lately.
 //［宏治］：えっ、ええ‥‥‥‥。
-
+[Kouji]:Huh? Yeah...
 //［沙夜香］：こんな状況下で、精神分析の研究も、無いと思うのだけど‥‥。
-
+[Sayaka]:I think you shouldn't undergo psychoanalysis research in such a situation.
 //［宏治］：でも一応、状況を睨んでの、研究だと聞いています。
-
+/*[Kouji]:But for the time being, judging the situation, I wonder if this is research.
 //［沙夜香］：‥‥‥そう、上手く行けば、ね。
-
+[Sayaka]:... Hmm, supposing everything goes smoothly...
 //確かに、おかしいと言えば、おかしかった。
-
+Indeed, the situation was unbecoming.
 //こうした状況下に、この医療センターへ資金を流用させるのは、正直言って僕もどうかと思っている。
-
+To be frank, I had doubts about where the hospital's funding came from.
 //何か、政治的な思惑があってのことだろうか‥‥恵の父親のことだからな‥‥。
-
+There must have been some political motive... We're talking about Megumi's father after all.
 //［沙夜香］：フフ、しかし可愛い顔をして、よくやるわよね。大胆というか、若気の至りというか‥‥。
-
+[Sayaka]:*chuckle* You're making such a cute face. Are you bold, or just a hot-headed youngster?
 //思い出したように、沙夜香は含み笑いを洩らす。恵の事だろう。
-
+Seeming to remember, Sayaka showed a suppressed laugh. She must have been thinking about me and Megumi.
 //［宏治］：沙夜香さんだって、可愛い顔をしてるくせに、言うことなすこと、妙なことばかり‥‥。
-
+/*[Kouji]:But Sayaka-san, you may have a cute face, but you're always saying strange things.
+#言うことなすこと : I don't understand this part.
 //うっかりと口が滑ってしまった。しめたとばかり、沙夜香は顔をほころばせると、
-
+I carelessly let my tongue slip. Sayaka, whose mouth was shut, didn't waited a second before she retorted:
 //［沙夜香］：えっ？　誰が可愛いって？
-
+[Sayaka]:Huh? Who's cute?
 //［宏治］：な、なんのこと？
-
+[Kouji]:W-What's this about?
 //［沙夜香］：もう、いま言ったじゃない、誰のことよ。
-
+[Sayaka]:You just said it. Who's cute?
 //語尾にハートマークを付けたくなるほど、甘ったるい声で沙夜香は僕に近づいてきた。顔には媚びた笑みが浮かべている。
-
+Sayaka got closer to me, speaking with so sweet a voice that you would want to put a heart at the and of her line.
 //クスクス、とか、ニコニコ、ではない。女がある目的をもって男に笑いかける、例のあの表情だ。
-
+She was neither giggling nor grinning. That was the typical expression of a girl laughing at a man.
 //［宏治］：ちょ、ちょっと‥‥ぼ、僕は今、疲れていて‥‥。
-
+[Kouji]:W-Wait. I-I'm really tired now and...
 //［沙夜香］：フフ、何を焦っているのよ、ボク。
-
+[Sayaka]:*chuckle* What are you so flustered about, boy?
 //［宏治］：あ、あのですね‥‥。
-
+[Kouji]:E-Er, that's...
 //saya01
-
+saya01
 //ブチブチ、ブチッ。
-
+*unfasten* *unfasten*
 //［沙夜香］：きゃっ、ボタンが‥‥。
-
+[Sayaka]:Yikes! My buttons...
 //パラパラと音をたてて、ボタンが床に散らばっていった。
-
+With a clattering noise, the buttons scattered on the floor.
 //いわゆる立ちくらみに似ている。倒れる際、ブラウスに手を引っかけて、ボタンを全て外してしまったようだ。
-
+It was like a syncope. While collapsing, I hanged on her blouse, inadvertently tearing all its buttons.
 //saya01_m
-
+saya01_m
 //［沙夜香］：ひっどーい、このベストとブラウス、まだおニューだったのに‥‥。
-
+[Sayaka]:You jerk! This vest and this blouse were new!
 //［宏治］：べ、弁償‥‥しますよ。
-
+[Kouji]:I-I'll pay for them.
 //［沙夜香］：フフ、いいわ。許してあげる。でもそのかわり‥‥。
-
+[Sayaka]:*chuckle* That's fine. I forgive you. But in exchange...
 //［宏治］：そのかわりって、何ですか‥‥<$0C>ちょ、ちょっと‥‥。
-
+[Kouji]:In exchange? What do you...<$0C> W-Wait.
 //［沙夜香］：なに、ビクビクしているのよ‥‥‥‥<$0C>あら？
-
+[Sayaka]:What are you afraid of...?<$0C> Oh?
 //［沙夜香］：ちょっと、顔色、さっきより悪くなっているわ、どうしたのよ‥‥。
-
+[Sayaka]:Just a minute, you face looks pale. What's wrong?
 //［宏治］：だ、だから、さっきから‥‥‥‥あれ？　沙夜香さん、どこに行ったの‥‥？
-
+[Kouji]:A-As I said, before... Huh? Sayaka-san, where are you?
 //［沙夜香］：宏治クン‥‥ちょっと、宏治クン‥‥‥‥‥‥。
-
+[Sayaka]:Kouji-kun! Hey! Kouji-kun‥‥‥‥‥‥//。
 //‥‥‥‥‥。
-
+‥‥‥‥‥//。
 //‥‥‥‥‥‥‥‥‥‥‥。
-
+‥‥‥‥‥‥‥‥‥‥‥//。
 //やけに、暑かった‥‥‥‥。
-
+It was awfully hot...
 //個室は、ひんやりとしていて、心地よかったはずだ‥‥。
-
+My room should have been nice and cool, comfortable...
 //遠くの方で、誰かが僕を呼ぶ声が聞こえてくる‥‥‥‥‥‥。
-
+From far away, I could hear someone's voice calling after me ‥‥‥‥‥‥//。Then, line 86 and then, next (1852nd) line.
 //ここは、どこなのだろうか‥‥‥‥。
-
+Where am I...?
 //消えゆく意識の中で、僕はそんなことを考えていた‥‥‥‥‥。
-
+That was all my waning consciousness could think of...
+#SAVE POINT
 //s0104
-
+s0104
 //xenon_18
-
+xenon_18
 //‥‥‥‥‥‥‥‥‥。
 
 //やけに、暑い‥‥‥‥。
