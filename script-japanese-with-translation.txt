@@ -1887,31 +1887,32 @@ What's in the world...?
 //（何だ、これは‥‥‥‥？）
 (What's that...?)
 //身を起こした私の目の前には、重厚なサウンドを醸し出している、異様に大きな機械が稼働していた‥‥。
-
+I woke up. A huge and strange machine was operating before me. It was emitting a loud, massive sound.
 //コンソールパネルや、何かのランプが、ちかちかと点滅している。ずっと見ていると、目が痛くなってきそうだ。
-
+Console panels and some sort of lamps were flickering wildly. (If I keep looking at it, my eyes will surely hurts.)
 //（この暑さは、これのせいか‥‥‥‥。）
-
+(This heat, is it because of this...?)
 //（やけに、大きな機械だな‥‥しかも、騒々しい。）
-
+(What a huge and noisy machine...)
 //何故、自分がこんな場所にいるのか‥‥ふと、その理由を考えてみるが、思い出すことができない。
-
+What was I doing in such a place? No matter how much I thought about it, I couldn't remember why I was here.
 //私は、病院に居たのではなかったか‥‥？
-
+Wasn't I in a hospital?
 //ここは‥‥ここは、いったい何処なんだ‥‥？
-
+What... what in the world is this place?
 //頭が痛かった‥‥。何故か、身体の節々が痛む。
-
+My head was hurting. For some reasons, my joints were aching.
 //あごの下をぬぐうと、滝のように汗が滴っていた。身体は冷えているのに、汗が止まらない‥‥そんな感じだった。
-
+Wiping the base of my chin, I realized it was drenched by waterfalls of sweat. Though I was growing cold, I wouldn't stop sweating. It was just like that.
 //何故、こんなに暑いんだろうか‥‥‥‥。
-
+Why is it so hot...?
 //暑く、息苦しく、騒々しい場所‥‥‥何分もいられる所ではなさそうだった。
-
+/*A hot, stifling, boisterous place... 
+#I don't understand that latter sentence.
 //（どうやったら、ここから出られるんだろうか‥‥‥‥。）
-
+(How can I get out of this place...?)
 //ふと、手前右側には、ドアらしきものを発見した。
-
+Suddenly, I discovered something resembling a door on my right.
 //ドアの前に立ってみるが、開く様子は微塵もない。どうしたものかと思案する私の目に、ドア横のレバースイッチが入ってきた。
 
 //もしかすると、これで‥‥？
