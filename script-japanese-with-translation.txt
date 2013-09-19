@@ -1859,33 +1859,33 @@ s0104
 //xenon_18
 xenon_18
 //‥‥‥‥‥‥‥‥‥。
-
+‥‥‥‥‥‥‥‥‥//。
 //やけに、暑い‥‥‥‥。
-
+It's awfully hot...
 //個室は、ひんやりとしていて、心地よかった‥‥。
-
+My room was nice and cool, comfortable...
 //何だか‥‥‥‥。
-
+What's going on...?
 //何だか、じっとしているだけで、汗が流れ出るようだ‥‥。
-
+I was somehow sweating terribly from merely staying still.
 //しかし、身体の片側は、やけにヒンヤリとしていた。
-
+But my body felt really cool on one side.
 //そのギャップが、不快感をより増大させているようだった‥‥。
-
+/*This gap was only increasing my discomfort.
 //それに、この‥‥‥‥。
-
+Besides, that...
 //何だろう、この音は。
-
+What's that sound?
 //重々しいサウンドが、耳に響いてくる‥‥‥‥。
-
+A loud heavy sound was resounding through my ears...
 //いったいこれは‥‥‥‥。
-
+What's in the world...?
 //0050
-
+0050
 //（これは‥‥‥‥。）
-
+(What...?)
 //（何だ、これは‥‥‥‥？）
-
+(What's that...?)
 //身を起こした私の目の前には、重厚なサウンドを醸し出している、異様に大きな機械が稼働していた‥‥。
 
 //コンソールパネルや、何かのランプが、ちかちかと点滅している。ずっと見ていると、目が痛くなってきそうだ。
