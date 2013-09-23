@@ -816,7 +816,7 @@ I couldn't bear being here any longer, so I left the room. That's what I think I
 //　◆ 森のような緑色。
 　◆ ...forest green.
 //　◆ 透き通った青色。
-　◆ ...transparent blue.
+　◆ ...crystalline blue.
 //　◆ 情熱的な赤色。
 /*　◆ ...crimson red, full of passion.
 //［宏治］：森のような緑色、だったと思います。
@@ -824,7 +824,7 @@ I couldn't bear being here any longer, so I left the room. That's what I think I
 //［涼子］：緑色、ね‥‥わかったわ。他に何か、あったかしら？
 [Ryouko]:Green... Understood. Is there anything else?
 //［宏治］：透き通った青色、だったと思います。
-[Kouji]:I think they were transparent blue.
+[Kouji]:I think they were crystalline blue.
 //［涼子］：青色、ね‥‥わかったわ。他に何か、あったかしら？
 [Ryouko]:Blue... Understood. Is there anything else?
 //［宏治］：情熱的な赤色、だったと思います。
@@ -1914,107 +1914,108 @@ Why is it so hot...?
 //ふと、手前右側には、ドアらしきものを発見した。
 Suddenly, I discovered something resembling a door on my right.
 //ドアの前に立ってみるが、開く様子は微塵もない。どうしたものかと思案する私の目に、ドア横のレバースイッチが入ってきた。
-
+/*Standing in front of the door, I examined it. It was closed shut. Trying to grasp the situation at hand, I noticed a lever switch beside the door.
 //もしかすると、これで‥‥？
-
+Maybe, if I...?
 //　◆ レバースイッチを入れてみよう。
-
+　◆ Let's pull the lever switch.
 //　◆ むやみにスイッチを入れず、別の手段を考えよう。
-
+　◆ I won't pull the switch. Let's find another way around.
 //レバースイッチを入れてみよう。
-
+Let's pull the lever switch.
 //ドアの前でずっと立ちっぱなしというのも、馬鹿馬鹿しい気がする。
-
+I felt stupid because of all the time I spent loitering before the door.
 //他の手段が思い浮かばない以上、
-
+Anyway, I couldn't think of any other way so,
 //（これがドアの、開閉スイッチに違いない‥‥‥‥。）
-
+(This must be without doubt the switch to open the door...)
 //そう確信すると、私はレバーをゆっくりと入れていった。
-
+Having convinced myself, I slowly pulled the lever.
 //（な、なんだ‥‥どうしたんだ‥‥‥‥！？）
-
+(W-What...? What happened...!?)
 //どうしたもないだろう。私が入れたスイッチによって鳴り響いたのは、明らかだった。
-
+/*It was not the time to be wondering this. It was clear that piercing sound was caused by my pushing that switch.
 //レバーを元に戻してみる‥‥たが、鳴り響くこの耳障りな音は、一向にやむ気配がない。
-
+I tried to push back the lever. But that deafening sound didn't stop.
 //暑く息苦しい上に、けたたましいこの騒音によって、私の脳内神経は今にも麻痺しそうだった。
-
+Not only the atmosphere was hot and stifling, but I also felt like my brain nerves would get paralysed for every second that clamorous sound was roaring.
 //私が、ドアに体当たりをしようとしたとき‥‥‥‥。
-
+The moment I tried to ram the door open...
 //（音が‥‥‥‥。）
-
+(The sound...)
 //（音が、とまった‥‥‥‥？）
-
+(It stopped...?)
 //あれほど、けたたましく鳴っていたサイレンが、ピタッとなりやんだ。
-
+The wild roaring siren from before had suddenly stopped.
 //一瞬、あたりが静寂に包まれたほどだ‥‥。
-
+In an instant, the surroundings became still and quiet.
 //しかし静寂は長くは続かなかった。透き通った声が、あたりに響きわたった。
-
+/*But it was only the lull before the storm. A crystalline voice echoed nearby.
+#透き通る is a word I don't know how to translate... I chose crystalline...
 //［女の声］：ここにいたのね‥‥‥‥。
-
+[Woman's voice]:So you were here....
 //fa_bast
-
+fa_bast
 //［私］：あっ‥‥き、君は‥‥‥‥。
-
+[Me]:Ah... Y-You are...
 //どこかで見たことがある女性だった。
-
+I had seen that woman somewhere before.
 //透き通った赤い髪‥‥どこかで、見たような‥‥。
-
+Crystalline red hair... I'm sure I've...
 //［目の前の女］：けたたましく警報が鳴り響いたと思ったら‥‥あなたの仕業だったのね。
-
+[Woman before me]:I thought the alarm was resounding. It's your doing, isn't it?
 //むやみにスイッチを入れず、別の手段を考えよう。
-
+I won't pull the switch. Let's find another way around.
 //しかし、別の手段といっても‥‥‥‥。
-
+But, is there any other way...?
 //蒸し暑く、重低音が頭に響きわたる‥‥私の忍耐は、限界近くにまで来ているようだ。
-
+/*A sultry but loud low sound was resounding in my head. I don't think I could sustain any more of it.
 //どうしたら、ここから出ることができるのだろう‥‥。
-
+How can I get out of this place?
 //私は、壁に手を当てて、めまいを押さえた。と、その時‥‥‥‥。
-
+I leaned against the wall, my palms in contact with it. I was trying to ease my dizziness. Suddenly...
 //ウィーーン‥‥‥‥。<$04><$30><$05>
-
+*slide*<$04><$30><$05>
 //（タッチセンサー、だったのか‥‥‥‥。）
-
+(A touch sensor...?)
 //今は、一刻も早くこの騒音から逃れたかった。
-
+Now I wanted to escape from this noise as quickly as possible.
 //私は、おぼつかない足どりで、この場を立ち去った‥‥‥‥。
-
+With a shaking unsure gait, I left this place behind me.
 //蒸し暑さは変わらなかったが、息苦しさから解放された為か、幾分気分が良くなったようだ。
-
+The air was as hot and humid as ever, yet it was no more stifling. I was feeling a little better.
 //あの耳障りな騒音も、かなり静かになっていた。
-
+This piercing sound has stopped.
 //（ここには、誰も人がいないのだろうか‥‥‥‥。）
-
+(There isn't anyone here...)
 //ふと、そんな考えも頭をよぎった。そのくらい、人の気配というものが欠如していたのだ。
-
+This thought crossed my mind. This place was lacking a humanly presence.
 //（そういえば‥‥‥‥。）
-
+(By the way...)
 //以前、ここで出会った少女‥‥名はなんといったか‥‥。
-
+(Beforehand, I met a girl here. What was her name?)
 //そうだ、確かラン‥‥ランファといったな‥‥。
-
+(Yeah, it was Lan... Yeah, she said it was Lanhua.)
 //また、会えないだろうか、彼女に‥‥‥‥。
-
+(I surely won't ever meet her again...)
 //そう考えたとき‥‥‥‥。
-
+The moment I thought that...
 //以前にも、こんな状況があったような‥‥‥‥。
-
+I had the feeling the same thing happened before...
 //［目の前の女］：部屋にいなくなっていたから、どこへ行ったのかと思ったけど‥‥。
-
+[Woman before me]:You left in your room. I was wondering what you were doing...
 //［私］：そうか、君は確か‥‥何か、棺桶のような機械に‥‥。
-
+/*[Me]:Ah yeah. You were... you were in the coffin-like machine.
 //［目の前の女］：棺桶‥‥‥‥<$0C>あぁ、エンコーダのことね。
-
+[Woman before me]:A coffin?<$0C> Ah, you mean the Encoder?
 //目の前の女性はクスッと笑みを洩らすと、頬に垂れ掛かる赤い髪の毛をかき上げた。
-
+The woman was smiling gently. She brushed up her red hair in front of her cheeks.
 //［私］：エンコーダ？
-
+[Me]:The Encoder?
 //［目の前の女］：最新の、サイコロジカル・マシーンよ。
-
+[Woman before me]:The newest　Psyche Machina.
 //［私］：サイコ‥‥‥‥<$0C>なんだって？
-
+[Me]:Saikee...<$0C> What?
 //多少なりとも混乱するのは、仕方がなかった。目の前の女性は、私の知らない単語を、次から次へと呈示してくる。
 
 //彼女は溜息を１つ吐いて、しょうがない、という表情をすると、
