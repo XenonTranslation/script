@@ -9,8 +9,9 @@ Advancement :
 In the translation, I use the following code :
 
  - When a line starts with '/*', it means I am not satisfied with
- the translation I used and that is needs rephrasing.
- 
+ the translation I used and that it needs rephrasing.
+ - Some other things are explained at the beginning of src/Formatter.c
+ (the source code of the formatter)
  
  The file 'translation-notes.rtf' serves as a notepad for me.
  
