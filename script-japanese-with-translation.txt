@@ -528,7 +528,7 @@ Ducking, I peered at the monitor. On it the following characters were displayed:
 //\n\n\n　　　　　　　　　PSY encoder operating ...<$04><$30><$05>
 \n\n\n　　　　　　　　　PSY encoder operating ...<$04><$30><$05>
 //（サイキック‥‥<$0C>プログラムエンコーダ‥‥？）
-(Psychic...<$0C> Program encoder...?)
+(Psychic...<$0C> Program Encoder...?)
 //（いったい‥‥‥‥。）
 (What...)
 //（いったい何だろう‥‥これは‥‥？）
@@ -2017,41 +2017,41 @@ The woman was smiling gently. She brushed up her red hair in front of her cheeks
 //［私］：サイコ‥‥‥‥<$0C>なんだって？
 [Me]:Saikee...<$0C> What?
 //多少なりとも混乱するのは、仕方がなかった。目の前の女性は、私の知らない単語を、次から次へと呈示してくる。
-
+I could only be confused by the woman before me. She was piling up words I had never heard before.
 //彼女は溜息を１つ吐いて、しょうがない、という表情をすると、
-
+She sighed. Her expression was that of exasperation.
 //［目の前の女］：サイコロジカル・マシーンよ。サイキックプログラム・エンコーダ、がその名称。
-
+[Woman before me]:Psyche Machina. The Psychic Program Encoder.
 //［私］：‥‥‥‥‥‥。
-
+[Me]:‥‥‥‥‥‥//。
 //［目の前の女］：‥‥‥‥‥‥。
-
+[Woman before me]:‥‥‥‥‥‥//。
 //［私］：‥‥君は‥‥‥‥。
-
+[Me]:‥‥Who‥‥‥‥//。
 //［目の前の女］：‥‥えっ？
-
+[Woman before me]:... Huh?
 //［私］：だいたい、君はいったい何者なんだ？
-
+[Me]:First, who the heck are you?
 //［目の前の女］：本来なら、それは私のセリフなんだけどね‥‥まぁ、いいわ。
-
+[Woman before me]:Normally I should be the one to ask this... Well whatever.
 //［目の前の女］：私は、ファル‥‥ファルネリアよ、コウジさん。
-
+[Woman before me]:Call me Fal. Falneria is my full name, Kohji-san.
 //私は、ファルと名乗る目の前の女性を、改めて見つめてみた。
-
+I was once again staring at that woman before me who introduced herself as Fal.
 //透き通るような赤い髪、大きくキリっとした目、薄く笑みがこぼれる口元‥‥。
-
+Crystalline red hair, big and tense eyes, a faint smile...
 //左耳上に付けているのは何だろうか‥‥アクセサリか、あるいは無線のレシーバか何かだろうか。
-
+What was she wearing on her left ear? Some accessory? Or was it some sort of wireless receiver or something...?
 //［私］：そういえば、いま私のことをコウジって‥‥？
-
+[Me]:Come to think of it. Now, you called me Kohji...? 
 //［ファル］：あなたの名前じゃない。
-
+[Fal]:Isn't that your name?
 //［私］：私の、名前？
-
+[Me]:My... name?
 //［ファル］：そうよ。
-
+[Fal]:Yeah.
 //xenon_16
-
+xenon_16
 //［私］：（コウジ‥‥コウジというのか‥‥。）
 
 //［ファル］：そう、覚えていないのね‥‥。
