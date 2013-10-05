@@ -2053,33 +2053,33 @@ What was she wearing on her left ear? Some accessory? Or was it some sort of wir
 //xenon_16
 xenon_16
 //［私］：（コウジ‥‥コウジというのか‥‥。）
-
+[Me]:(Kohji... Am I Kohji?)
 //［ファル］：そう、覚えていないのね‥‥。
-
+[Fal]:So you don't remember, do you?
 //ファルは少し憂いがかった表情をすると、私のところへ歩み寄った。
-
+Making a somewhat sad face, Fal drew closer to me.
 //あまりに近づかれたので、少しドキっとする。
-
+I felt startled by her coming so close to me.
 //［私］：‥‥‥な、なにを‥‥‥。
-
+[Me]:...W-What do you...
 //クスっと笑みを洩らすと、ファルは私の胸元に付いてある銀色の板を、指でピンと弾いた。
-
+Letting out a smile, Fal pointed the silver plate on my chest.
 //［私］：あっ‥‥ネームプレート‥‥？
-
+[Me]:Er? A nameplate?
 //いま気付いたが、私はかなりラフな姿をしていたらしい。素肌にシャツ、薄手のズボン、しかも素足だった。
-
+I just realized but, my garments were quite casual. A mere shirt on my bare skin, shallow trousers and barefoot.
 //薄いシャツの胸部分には、確かにネームプレートが付いていた。自重により、少し下へ垂れ下がっている。
-
+/*On this thin shirt, there was indeed a nameplate on the breast part. It was hanging nonchalantly down.
 //そこには、確かにコウジと記してある。どうやら、コウジというのが私の名前らしかった。
-
+There was indeed "Kohji" inscribed on it. Somehow, it seemed Kohji was my name.
 //そういえば、聞き覚えが無い訳ではなかった‥‥。
-
+Which reminded me, it was not as if I had never heard that name before.
 //コウジ、か‥‥‥‥。
-
+Kohji...?
 //［ファル］：どう、思い出した？
-
+[Fal]:Then, did you remember?
 //［コウジ］：いや、何となく聞き覚えがある程度で‥‥‥でも、ありがとう。
-
+[Kohji]:No, it just feels like I've heard it before... But thank you.
 //［ファル］：えっ、どういうこと？
 
 //［コウジ］：いや‥‥なんというか、自分の名前だけでも知ることができたのは、大きな収穫だった。
