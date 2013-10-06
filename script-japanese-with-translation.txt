@@ -2081,43 +2081,45 @@ Kohji...?
 //［コウジ］：いや、何となく聞き覚えがある程度で‥‥‥でも、ありがとう。
 [Kohji]:No, it just feels like I've heard it before... But thank you.
 //［ファル］：えっ、どういうこと？
-
+[Fal]:Huh? What do you mean?
 //［コウジ］：いや‥‥なんというか、自分の名前だけでも知ることができたのは、大きな収穫だった。
-
+[Kohji]:Well, it's just that... I'm very glad I could at least learn my own name.
 //［ファル］：フフ、大げさね‥‥でもあなたの顔、本当に黄色いわ。
-
+[Fal]:*chucle* You're exaggerating. But indeed your face is yellow.
 //［コウジ］：黄色？
-
+[Kohji]:Yellow?
 //［ファル］：あっ、ごめんなさい。黄色はね、感謝の気持ちを表しているの。
-
+[Fal]:Ah, sorry. The feeling yellow stands for is that of gratitude.
 //［コウジ］：‥‥‥‥‥‥。
-
+[Kohji]:‥‥‥‥‥‥//。
 //［ファル］：ごめんなさい、私はちょびっとだけ、精神感応の能力があって、人の感情を色で読みとることができるのよ。
-
+[Fal]:Sorry. I have the ability to see into people's heart. I can perceive their emotions as colours.
+#I don't know how to translate : ちょびっとだけ. Is her ability limited, or is it just a mere ability of hers?
+#I think her ability is limited as she hesitates l.2101 with かしら.
 //［コウジ］：へぇ、じゃあ今の色は？
-
+[Kohji]:Really? Then, how is my colour now?
 //［ファル］：明るい青、かしら。
-
+[Fal]:Maybe, light blue.
 //［コウジ］：それはなに？
-
+[Kohji]:And what does it mean?
 //［ファル］：感銘の色よ。
-
+[Fal]:Awe.
 //［コウジ］：ファル‥‥ネリアさん、だったかな。
-
+[Kohji]:You are Fal...neria-san, right?
 //［ファル］：ファルで構わないわ。
-
+[Fal]:Just call me Fal.
 //［コウジ］：わかった、ファル。じゃあ早速教えてほしいんだが‥‥。
-
+[Kohji]:Okay, Fal. Well, I'd like you to tell me...
 //［ファル］：あら、何を教えてほしいの？
-
+[Fal]:Oh oh? What do you want me to tell you?
 //彼女は質問を受けて当惑する教師、という感じだった。
-
+She sounded like a teacher gotten perplex by a sudden question.
 //やや怪訝そうな表情をしているファルに対峙して、私は、足下を指さしながら、
-
+Facing a puzzled Fal, a finger pointed at the ground, I said:
 //［コウジ］：ここさ。
-
+[Kohji]:About here.
 //［ファル］：‥‥ここ？
-
+[Fal]:... Here?
 //［コウジ］：ここは、いったいどこなんだ？　医療センターなどにしては、やけに設備が仰々しいが‥‥。
 
 //［ファル］：医療センター‥‥いったい、何を言っているの？
