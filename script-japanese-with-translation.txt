@@ -218,7 +218,7 @@ Glancing all around the room, I suddenly wondered:
 //（ここは本当に病院なんだろうか‥‥。）
 (Is this place really a hospital?)
 //何故か私は、ここが病院か、あるいはどこかの医療センターであると信じて疑わなかった。
-Why was it that I took for granted that this place was a hospital or any other kind of healing facility?
+Why was it that I took for granted that this place was a hospital or any other kind of medical centre?
 //それがどういった根拠をもとにしていたのか、自分でもわからない。
 I couldn't even guess on what basis I thought that.
 //（部屋の外へ出れば、何かわかるかもしれない‥‥。）
@@ -1707,7 +1707,7 @@ Megumi was whispering to my ears. It must have been the first time Sayaka and Me
 //沙夜香は左の手のひらを恵の前にかざすと、わかっている、というゼスチャーで恵の言葉を制した。
 Sayaka, waving her right hand in front of Megumi, made a sign clearly meaning : "I know".
 //［沙夜香］：知っているわ、この医療センターのスポンサー様でしょ。
-[Sayaka]:I know. He is this hospital centre's honoured sponsor.
+[Sayaka]:I know. He is this medical centre's honoured sponsor.
 //『様』という部分に、やや皮肉のスパイスがまぶしてあると感じるのは、考えすぎだろうか。恵はちょっとスねたような顔をして、黙っている。
 I may have been over-thinking, but I could feel a bit of piqued irony in the way she said "honoured". Megumi, with a peevish look on her face, was staying put.
 //［沙夜香］：でも、規則は規則。スポンサーのご令嬢であっても、遵守してもらいますから。
@@ -1743,7 +1743,7 @@ I may have been over-thinking, but I could feel a bit of piqued irony in the way
 //［沙夜香］：そうだったっけ？
 [Sayaka]:Ah, did we?
 //この、少々とぼけた女性は、沙夜香という。ここの医療センターで何故か、涼子先生の助手のようなことをしているらしい。
-This kinda slow woman was called Sayaka. It seems she's working in the hospital centre as Ryouko-sensei's assistant.
+This kinda slow woman was called Sayaka. It seems she's working in the medical centre as Ryouko-sensei's assistant.
 //相当の才媛のはずなのだが、生憎と雰囲気は、遊び人のお姉さまという感じだった。
 /*She must be talented woman, but she felt more like an older playgirl to me.
 //何故か、僕に絡んでくる‥‥迷惑という訳ではないが、その理由がわからない。
@@ -2121,31 +2121,31 @@ Facing a puzzled Fal, a finger pointed at the ground, I said:
 //［ファル］：‥‥ここ？
 [Fal]:... Here?
 //［コウジ］：ここは、いったいどこなんだ？　医療センターなどにしては、やけに設備が仰々しいが‥‥。
-
+[Kohji]:Where the heck am I? Even for something like a medical centre, the equipments are flashy, but...
 //［ファル］：医療センター‥‥いったい、何を言っているの？
-
+[Fal]:A medical centre? Are you sane?
 //［コウジ］：‥‥‥？
-
+［Kohji］：‥‥‥？
 //［ファル］：かなり、記憶が欠落しているみたいね、コウジ‥‥。
-
+[Fal]:Kohji, it seems you don't remember...
 //［コウジ］：ち、違うのか？
-
+/*[Kohji]:D-Do I?
 //フゥと１つ溜息を吐くと、ファルは肩をしゃくりあげるようなゼスチャーをしてみせる。
-
+Sighing deeply, Fal shrugged.
 //少し、切なげな表情を私に向けると、ゆっくりと口を開き始めた。
-
+Turning a somewhat pained face towards me, she slowly opened her mouth.
 //［ファル］：ここはね‥‥‥‥。
-
+[Fal]:You know, we are inside..
 //ピーピッ、ピーピッ‥‥。
-
+*beep* *beep*
 //壁に埋め込まれているコンソールパネルが鳴り出した。硬い電子音が、あたりの空気をピリピリと振動させる。
-
+The console panel built in the wall started to make a sound. A strong electronic sound was permeating the atmosphere.
 //［コウジ］：な、なんだ‥‥？
-
+[Kohji]:W-What's...?
 //［ファル］：ブリッジからだわ、解析が終わったのかしら？
-
+[Fal]:It's from the bridge. Did they finish the parsing?
 //［コウジ］：（ブリッジ‥‥？　解析‥‥‥？？）
-
+[Kohji]:(Bridge...? Parsing...??)
 //ファルは手慣れたように、近くのコンパネを指で叩いている。
 
 //しばらくすると、眼鏡を掛けた綺麗な女性が、モニターに映し出された。
