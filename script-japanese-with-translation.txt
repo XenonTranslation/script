@@ -2147,25 +2147,27 @@ The console panel built in the wall started to make a sound. A strong electronic
 //［コウジ］：（ブリッジ‥‥？　解析‥‥‥？？）
 [Kohji]:(Bridge...? Parsing...??)
 //ファルは手慣れたように、近くのコンパネを指で叩いている。
-
+Fal knocked at the console panel. It was obviously not the first time she was using it.
 //しばらくすると、眼鏡を掛けた綺麗な女性が、モニターに映し出された。
-
+After some time, a pretty girl wearing glasses appeared on the screen.
 //［女の声］：プロフェッサ、デコード情報の解析、終了しました。
-
+[Woman's voice]:Professeur, decode data analysis is completed.
 //［ファル］：わかったわ‥‥トレイシー、ありがとう。
-
+[Fal]:Understood. Thank you, Tracy.
 //［女の声］：はい、それで‥‥見つかったのですか？　彼は。
-
+[Woman's voice]:Yes, then. Did you find _him_?
 //［ファル］：ええ、ここにいるわ。今、状況を説明しているところ。
-
+[Fal]:Yeah, he's here. I was about to explain him the situation.
 //［女の声］：そうですか‥‥。
-
+[Woman's voice]:Understood.
+#As usual, I don't know how to translate 相槌.
 //［ファル］：ランファ‥‥彼女は、どうしているの？
-
+[Fal]:Concerning Lanhua, what is she doing?
 //［女の声］：恐らく、彼をまだ捜しているのだと思います。
-
+[Woman's voice]:She's probably still looking for him.
 //［ファル］：フフ、早く教えてあげてね。我、救出に成功せり、ってね。
-
+[Fal]:*chuckle* Please inform her quickly. Tell her that the rescue was a success.
+#I'm not sure if I understand correctly this sentence (particularly the end).
 //［コウジ］：（ブリッジって‥‥艦船じゃあるまいし、いったいどういうことだ‥‥？）
 
 //［コウジ］：（それに、プロフェッサと呼ばれていたけど‥‥‥。）
