@@ -1879,7 +1879,7 @@ What's that sound?
 //重々しいサウンドが、耳に響いてくる‥‥‥‥。
 A loud heavy sound was resounding through my ears...
 //いったいこれは‥‥‥‥。
-What's in the world...?
+What in the world...?
 //0050
 0050
 //（これは‥‥‥‥。）
@@ -1887,9 +1887,9 @@ What's in the world...?
 //（何だ、これは‥‥‥‥？）
 (What's that...?)
 //身を起こした私の目の前には、重厚なサウンドを醸し出している、異様に大きな機械が稼働していた‥‥。
-I woke up. A huge and strange machine was operating before me. It was emitting a loud, massive sound.
+I stood up. A huge and strange machine was operating before me. It was emitting a loud, massive sound.
 //コンソールパネルや、何かのランプが、ちかちかと点滅している。ずっと見ていると、目が痛くなってきそうだ。
-Console panels and some sort of lamps were flickering wildly. (If I keep looking at it, my eyes will surely hurts.)
+Console panels and some sort of lamps were flickering wildly. (If I keep looking at it, my eyes will surely hurt.)
 //（この暑さは、これのせいか‥‥‥‥。）
 (This heat, is it because of this...?)
 //（やけに、大きな機械だな‥‥しかも、騒々しい。）
@@ -1897,7 +1897,7 @@ Console panels and some sort of lamps were flickering wildly. (If I keep looking
 //何故、自分がこんな場所にいるのか‥‥ふと、その理由を考えてみるが、思い出すことができない。
 What was I doing in such a place? No matter how much I thought about it, I couldn't remember why I was here.
 //私は、病院に居たのではなかったか‥‥？
-Wasn't I in a hospital?
+Wasn't I inside a hospital?
 //ここは‥‥ここは、いったい何処なんだ‥‥？
 What... what in the world is this place?
 //頭が痛かった‥‥。何故か、身体の節々が痛む。
@@ -1969,7 +1969,7 @@ I won't pull the switch. Let's find another way around.
 //しかし、別の手段といっても‥‥‥‥。
 But, is there any other way...?
 //蒸し暑く、重低音が頭に響きわたる‥‥私の忍耐は、限界近くにまで来ているようだ。
-/*A sultry but loud low sound was resounding in my head. I don't think I could sustain any more of it.
+/*In this sultry atmosphere, a loud low sound was resounding in my head. (I don't think I can sustain any more of it.)
 //どうしたら、ここから出ることができるのだろう‥‥。
 How can I get out of this place?
 //私は、壁に手を当てて、めまいを押さえた。と、その時‥‥‥‥。
@@ -1979,7 +1979,7 @@ I leaned against the wall, my palms in contact with it. I was trying to ease my 
 //（タッチセンサー、だったのか‥‥‥‥。）
 (A touch sensor...?)
 //今は、一刻も早くこの騒音から逃れたかった。
-Now I wanted to escape from this noise as quickly as possible.
+Now I wanted to escape from this horrendous noise as quickly as possible.
 //私は、おぼつかない足どりで、この場を立ち去った‥‥‥‥。
 With a shaking unsure gait, I left this place behind me.
 //蒸し暑さは変わらなかったが、息苦しさから解放された為か、幾分気分が良くなったようだ。
@@ -2003,7 +2003,7 @@ The moment I thought that...
 //以前にも、こんな状況があったような‥‥‥‥。
 I had the feeling the same thing happened before...
 //［目の前の女］：部屋にいなくなっていたから、どこへ行ったのかと思ったけど‥‥。
-[Woman before me]:You left in your room. I was wondering what you were doing...
+[Woman before me]:You left your room. I was wondering what you were doing...
 //［私］：そうか、君は確か‥‥何か、棺桶のような機械に‥‥。
 /*[Me]:Ah yeah. You were... you were in the coffin-like machine.
 //［目の前の女］：棺桶‥‥‥‥<$0C>あぁ、エンコーダのことね。
@@ -2013,7 +2013,7 @@ The woman was smiling gently. She brushed up her red hair in front of her cheeks
 //［私］：エンコーダ？
 [Me]:The Encoder?
 //［目の前の女］：最新の、サイコロジカル・マシーンよ。
-[Woman before me]:The newest　Psyche Machina.
+[Woman before me]:The newest Psyche Machina.
 //［私］：サイコ‥‥‥‥<$0C>なんだって？
 [Me]:Saikee...<$0C> What?
 //多少なりとも混乱するのは、仕方がなかった。目の前の女性は、私の知らない単語を、次から次へと呈示してくる。
@@ -2033,7 +2033,7 @@ She sighed. Her expression was that of exasperation.
 //［私］：だいたい、君はいったい何者なんだ？
 [Me]:First, who the heck are you?
 //［目の前の女］：本来なら、それは私のセリフなんだけどね‥‥まぁ、いいわ。
-[Woman before me]:Normally I should be the one to ask this... Well whatever.
+[Woman before me]:Normally I should be the one asking this... Well whatever.
 //［目の前の女］：私は、ファル‥‥ファルネリアよ、コウジさん。
 [Woman before me]:Call me Fal. Falneria is my full name, Kohji-san.
 //私は、ファルと名乗る目の前の女性を、改めて見つめてみた。
@@ -2041,7 +2041,7 @@ I was once again staring at that woman before me who introduced herself as Fal.
 //透き通るような赤い髪、大きくキリっとした目、薄く笑みがこぼれる口元‥‥。
 Crystalline red hair, big and tense eyes, a faint smile...
 //左耳上に付けているのは何だろうか‥‥アクセサリか、あるいは無線のレシーバか何かだろうか。
-What was she wearing on her left ear? Some accessory? Or was it some sort of wireless receiver or something...?
+What was she wearing above her left ear? Some accessory? Or was it some sort of wireless receiver or something...?
 //［私］：そういえば、いま私のことをコウジって‥‥？
 [Me]:Come to think of it. Now, you called me Kohji...? 
 //［ファル］：あなたの名前じゃない。
@@ -2069,7 +2069,7 @@ Letting out a smile, Fal pointed the silver plate on my chest.
 //いま気付いたが、私はかなりラフな姿をしていたらしい。素肌にシャツ、薄手のズボン、しかも素足だった。
 I just realized but, my garments were quite casual. A mere shirt on my bare skin, shallow trousers and barefoot.
 //薄いシャツの胸部分には、確かにネームプレートが付いていた。自重により、少し下へ垂れ下がっている。
-/*On this thin shirt, there was indeed a nameplate on the breast part. It was hanging nonchalantly down.
+/*On this thin shirt, there was indeed a nameplate on the breast part. It was hanging down nonchalantly.
 //そこには、確かにコウジと記してある。どうやら、コウジというのが私の名前らしかった。
 There was indeed "Kohji" inscribed on it. Somehow, it seemed Kohji was my name.
 //そういえば、聞き覚えが無い訳ではなかった‥‥。
@@ -2079,7 +2079,7 @@ Kohji...?
 //［ファル］：どう、思い出した？
 [Fal]:Then, did you remember?
 //［コウジ］：いや、何となく聞き覚えがある程度で‥‥‥でも、ありがとう。
-[Kohji]:No, it just feels like I've heard it before... But thank you.
+[Kohji]:No, I just feel like I've heard it before... But, thank you.
 //［ファル］：えっ、どういうこと？
 [Fal]:Huh? What do you mean?
 //［コウジ］：いや‥‥なんというか、自分の名前だけでも知ることができたのは、大きな収穫だった。
@@ -2089,7 +2089,7 @@ Kohji...?
 //［コウジ］：黄色？
 [Kohji]:Yellow?
 //［ファル］：あっ、ごめんなさい。黄色はね、感謝の気持ちを表しているの。
-[Fal]:Ah, sorry. The feeling yellow stands for is that of gratitude.
+[Fal]:Ah, sorry. The emotion yellow stands for is that of gratitude.
 //［コウジ］：‥‥‥‥‥‥。
 [Kohji]:‥‥‥‥‥‥//。
 //［ファル］：ごめんなさい、私はちょびっとだけ、精神感応の能力があって、人の感情を色で読みとることができるのよ。
@@ -2101,7 +2101,7 @@ Kohji...?
 //［ファル］：明るい青、かしら。
 [Fal]:Maybe, light blue.
 //［コウジ］：それはなに？
-[Kohji]:And what does it mean?
+[Kohji]:And what does that mean?
 //［ファル］：感銘の色よ。
 [Fal]:Awe.
 //［コウジ］：ファル‥‥ネリアさん、だったかな。
@@ -2125,7 +2125,7 @@ Facing a puzzled Fal, a finger pointed at the ground, I said:
 //［ファル］：医療センター‥‥いったい、何を言っているの？
 [Fal]:A medical centre? Are you sane?
 //［コウジ］：‥‥‥？
-［Kohji］：‥‥‥？
+[Kohji]:‥‥‥？
 //［ファル］：かなり、記憶が欠落しているみたいね、コウジ‥‥。
 [Fal]:Kohji, it seems you don't remember...
 //［コウジ］：ち、違うのか？
@@ -2175,13 +2175,13 @@ After some time, a pretty girl wearing glasses appeared on the screen.
 //［ファル］：‥‥どうかしたの？　怪訝そうな顔をしているわね。
 [Fal]:...Is something the matter? You look dubious.
 //［コウジ］：そうだろうさ。ここはどこ、私は誰、という状況だからね。
-[Kohji]:What did you expect? What's this place? Who I am? This is what I'm wondering now.
+[Kohji]:What did you expect? What's this place? Who am I? This is what I'm wondering now.
 //［ファル］：じゃあ、心して聞いて頂戴‥‥。
 [Fal]:Then listen to me carefully.
 //［ファル］：ここは、辺境のナーズ星系‥‥恒星ナーズのほぼ真上にあたるわ。
 [Fal]:We're inside the Narthe star system, at the known universe's borderland. We're currently on standby around Narthe.
 //［コウジ］：‥‥‥‥‥！？
-［Kohji］：‥‥‥‥‥！？
+[Kohji]:‥‥‥‥‥！？
 //［ファル］：驚いているようね‥‥無理はないかも。
 [Fal]:You look shocked. I guess that's understandable.
 //［コウジ］：じゃ、じゃあここは‥‥‥‥。
@@ -2202,6 +2202,7 @@ After some time, a pretty girl wearing glasses appeared on the screen.
 Sole...<$0C> survivor...?
 //‥‥‥‥この、私が‥‥‥‥‥‥‥‥。
 ‥‥‥‥Me‥‥‥‥‥‥‥‥？
+#Title screen, 3rd save point
 //そこは、ヒンヤリとした部屋だった‥‥。
 
 //ファルは黙って、私をこの部屋へ案内した。ここは、私が最初に目覚めた部屋だったか‥‥‥‥。
