@@ -2169,39 +2169,39 @@ After some time, a pretty girl wearing glasses appeared on the screen.
 [Fal]:*chuckle* Please inform her quickly. Tell her that the rescue was a success.
 #I'm not sure if I understand correctly this sentence (particularly the end).
 //［コウジ］：（ブリッジって‥‥艦船じゃあるまいし、いったいどういうことだ‥‥？）
-
+[Kohji]:(A bridge? Are we on board a warship? What's the meaning of this?)
 //［コウジ］：（それに、プロフェッサと呼ばれていたけど‥‥‥。）
-
+[Kohji]:(Moreover, she called her "Professeur"...)
 //［ファル］：‥‥どうかしたの？　怪訝そうな顔をしているわね。
-
+[Fal]:...Is something the matter? You look dubious.
 //［コウジ］：そうだろうさ。ここはどこ、私は誰、という状況だからね。
-
+[Kohji]:What did you expect? What's this place? Who I am? This is what I'm wondering now.
 //［ファル］：じゃあ、心して聞いて頂戴‥‥。
-
+[Fal]:Then listen to me carefully.
 //［ファル］：ここは、辺境のナーズ星系‥‥恒星ナーズのほぼ真上にあたるわ。
-
+[Fal]:We're inside the Narthe star system, at the known universe's borderland. We're currently on standby around Narthe.
 //［コウジ］：‥‥‥‥‥！？
-
+［Kohji］：‥‥‥‥‥！？
 //［ファル］：驚いているようね‥‥無理はないかも。
-
+[Fal]:You look shocked. I guess that's understandable.
 //［コウジ］：じゃ、じゃあここは‥‥‥‥。
-
+[Kohji]:Then, this place...
 //0100
-
+0100
 //［ファル］：そうよ‥‥‥‥。
-
+[Fal]:Indeed‥‥‥‥//。
 //［コウジ］：き、君はいったい‥‥‥‥。
-
+[Kohji]:W-who are you‥‥‥‥？
 //［ファル］：私は超心理学者のファル、ファルネリア‥‥。
-
+[Fal]:I am Fal, Falneria, a parapsychologist.
 //［ファル］：あなたは、第２次調査隊の唯一の生き残りとして、私たちに救助されたの‥‥‥。
-
+[Fal]:You are the sole survivor from the Second Recon Squadron. You've been rescued by us.
 //［コウジ］：‥‥！？
-
+[Kohji]:‥‥！？
 //唯一の‥‥‥‥<$0C>生き残り‥‥‥‥？
-
+Sole...<$0C> survivor...?
 //‥‥‥‥この、私が‥‥‥‥‥‥‥‥。
-
+‥‥‥‥Me‥‥‥‥‥‥‥‥？
 //そこは、ヒンヤリとした部屋だった‥‥。
 
 //ファルは黙って、私をこの部屋へ案内した。ここは、私が最初に目覚めた部屋だったか‥‥‥‥。
