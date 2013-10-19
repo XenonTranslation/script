@@ -27,9 +27,9 @@ Whatsoever you see or hear there, everything is reality.<$04><$30><$05>
 //これから３つ数えると、あなたは目を覚まします。いいですね？<$04><$30><$05>
 When I count to three, you will wake up. Okay?<$04><$30><$05>
 //　では、ひとつ‥‥‥<$05><$04><$30>
-  Then, one...<$05><$04><$30>
+  One...<$05><$04><$30>
 //　では、ひとつ‥‥‥<$0C>ふたつ‥‥‥‥<$0C>みっつ‥‥‥‥。<$05><$04><$31>
-  Then, one...<$0C> two...<$0C> three...<$05><$04><$31>
+  One...<$0C> two...<$0C> three...<$05><$04><$31>
 //waku
 waku
 //1010
@@ -48,16 +48,18 @@ xenon_12
 [Kouji]:Er? Yeah. I just remembered the dream I had today...
 //［涼子］：夢？　ここのところ、毎日見るという、例の‥‥？
 [Ryouko]:A dream? You mean the one you've had every day lately?
+#Dream? You mean the same dream you've been having every night lately?
 //［宏治］：そうなんですよ、うなされています。
 [Kouji]:Yeah, that same nightmare.
 //そうだった‥‥僕は、ここのところ毎日あの夢を見る‥‥あの言い様のない、緊張の不安をあおり立てる、恐い恐い夢だった。
-That was right... Lately, I've been having the same dream every day. An indescribable truly scary dream that was really shaking me up.
+That was right... Lately, I've been having the same dream every day. An indescribable truly scary dream that was really shaking me up
+#That was true... Lately, I'd been having the same dream every night. It was a nightmare that awoke in me a terrible dread that I couldn't put into words.
 //目の前の女性‥‥涼子は、短い髪を後ろにかき上げると、いくぶん厳しい顔を僕に向けた。
 The woman before me, Ryouko, brushed back her short hair and turned a somewhat stern gaze at me.
 //［涼子］：とりあえず催眠治療は、このくらいにしておきましょう。
-[Ryouko]:Anyway, let's stop here for the hypnotherapy.
+[Ryouko]:Anyway, let's stop the hypnotheraphy here for today. 
 //［宏治］：えっ‥‥？　もう終わりですか。
-[Kouji]:What? Is it already finished?
+[Kouji]:What? Is it over already?
 //［涼子］：終わりではないわ。今日は、その夢のことも聞かせて頂戴。
 [Ryouko]:No, not yet. Today, I'd like you to tell me about your dream too.
 //［宏治］：ゆ、夢のことも‥‥ですか？
@@ -93,7 +95,7 @@ I'm feeling quite dizzy.
 //まるで、頭の中を誰かにいじられていたようだ‥‥。
 It's as if someone's been messing with my head.
 //妙な夢をみたが‥‥‥‥。
-I've had a strange dream.
+I had such a strange dream.
 //夢か‥‥‥‥。
 A dream...?
 //0010
@@ -101,12 +103,14 @@ A dream...?
 //そうか‥‥‥。
 (I see...)
 #I don't really know I should translate that "そうか"...
+#Oh yeah, that's right. . . 
 //どうやら病室に、私はいるらしい‥‥。
 It seemed I was in a hospital room.
 //しかし、どうも意識がはっきりとしない‥‥。
 But my awareness was somewhat dimmed.
+#But somehow I just couldn't think straight
 //いや、意識というか‥‥‥‥。
-Was it my awareness? No...
+No wait, that wasn't it. It was more like. . .
 //どうも覚えがないな‥‥。
 I couldn't remember anything...
 //なぜ私は、ここに居なくてはならないんだろうか‥‥？
@@ -115,36 +119,45 @@ Why should I be here in the first place?
 It seemed I was on top of a bed, inside a hospital room.
 //ここにいるということは、私は何か病気か、あるいは怪我でもしたのだろうか‥‥。
 I probably fell off to some illness or injury. That must have been why I was here...
+#Maybe I was just sick, or I got injured somehow. Yes, maybe that was why I was here.
 //あたりはシンと静まっている‥‥。
 The surroundings were deadly quiet.
+#Everything was deadly quiet.
 //私の下で、ベッドが微かにきしむ音を伝えてくるだけだ‥‥。
 The only thing I could hear was the creaking of the bed under me.
 //ベッドから身を起こそうとして、私は気が付いた。
 As I tried to get up, I noticed.
+#It was only when I tried to get up that I noticed.
 //何だ、これは‥‥。
 What is this?
+#What the. . . 
 //私の身体のあちこちに、白く丸い吸盤のような物体が付着していた。額、胸、腹、脚と各部に数個ずつ。
-Round white things resembling suckers were covering my body all over. Several on each of my body parts including forehead, chest, belly and legs.
+Round white things resembling suckers were covered my body. There were several on each of my limbs, including forehead, chest, stomach and legs.
 //その白い吸盤のような物体からは、細い導線のようなものが伸びていて、ベッド傍らの不可解な箱へと繋がっていた。
-Thin wires were coming out of these white sucker-like things and were connected to a mysterious box lying on the bedside.
+The thin wires connected to these white sucker-like things were in turn connected to a mysterious box at the bedside.
 //これではまるで、モルモットみたいじゃないか‥‥。
 I really looked like a guinea pig.
+#Am I some kind of guinea pig?
 //私は１つ１つ、丸い吸盤を身体から引き剥がしていった。白いノリのような跡は、手でこすって消す。
-I started removing one by one the round suckers. I wiped off from my skin the white marks left by the suckers.
+I started pulling off the suckers one by one and used my hands to rub away the white marks they left on my skin.
 //ようやく全部の吸盤を引き剥がすと、ベッドから身を起し、次に行動すべきことを思案してみた。
 After I finally finished removing all the suckers, I rose up and started thinking about what I should do next.
 //　◆ ここにいても時間の無駄だ。部屋を出てみよう。
 ◆ Being here is a waste of time. I'm getting out of here.
+#Sticking around here is pointless. I'm getting out of here.
 //　◆ ナースを呼ぶことは出来ないだろうか‥‥。
 ◆ Maybe I can call a nurse...
 //　◆ まずは部屋の中を色々と調べてからだ。
 ◆ First, I should investigate the inside of the room.
 //ここにいても時間の無駄だ。部屋を出てみよう。
 Remaining here is a waste of time. I'm getting out of this room.
+#Sticking around here is pointless. Maybe I should try to leave the room.
 //そう自分に言い聞かせると、私はベッドから立ち上がった。
-While persuading me it was the right thing, I stood up from the bed.
+As soon as I'd convinced myself that this was the best course of action, I got out bed.
 //ヒンヤリとした感触が、足の裏から伝わってくる。私は軽く身震いをしてしまった。
 I could feel the cold floor from the base of my feet. I shivered slightly.
+#ひんやりhas he implied meaning that the cold feels good so consider the alternative of
+#The floor felt pleasantly cool under the soles of my feet.I shivered slightly.
 //‥‥‥‥！？
 ‥‥‥‥！？
 //（服は‥‥‥‥。）
