@@ -23,11 +23,11 @@ Whatsoever you see or hear there, everything is reality.<$04><$30><$05>
 //　　　　さぁ、これからあなたは現実にもどります。<$04><$30><$05>
 　　　　　You shall now return to reality.<$04><$30><$05>
 //これから３つ数えると、あなたは目を覚まします。いいですね？<$04><$30><$05>
-When I count to three, you will wake up. Okay?<$04><$30><$05>
+When I count up to three, you will wake up. Okay?<$04><$30><$05>
 //　では、ひとつ‥‥‥<$05><$04><$30>
-  Then, one...<$05><$04><$30>
+  One...<$05><$04><$30>
 //　では、ひとつ‥‥‥<$0C>ふたつ‥‥‥‥<$0C>みっつ‥‥‥‥。<$05><$04><$31>
-  Then, one...<$0C> two...<$0C> three...<$05><$04><$31>
+  One...<$0C> two...<$0C> three...<$05><$04><$31>
 //waku
 waku
 //1010
@@ -45,17 +45,17 @@ xenon_12
 //［宏治］：えっ？　えぇ‥‥何だか、今日見た夢を思い出していまして‥‥。
 [Kouji]:Er? Yeah. I just remembered the dream I had today...
 //［涼子］：夢？　ここのところ、毎日見るという、例の‥‥？
-[Ryouko]:A dream? You mean the one you've had every day lately?
+[Ryouko]:A dream? You mean the one you've had every night lately?
 //［宏治］：そうなんですよ、うなされています。
 [Kouji]:Yeah, that same nightmare.
 //そうだった‥‥僕は、ここのところ毎日あの夢を見る‥‥あの言い様のない、緊張の不安をあおり立てる、恐い恐い夢だった。
-That was right... Lately, I've been having the same dream every day. An indescribable truly scary dream that was really shaking me up.
+That was right... Lately, I'd been having the same dream every night. It was a nightmare that awoke in me a terrible dread that I couldn't put into words.
 //目の前の女性‥‥涼子は、短い髪を後ろにかき上げると、いくぶん厳しい顔を僕に向けた。
 The woman before me, Ryouko, brushed back her short hair and turned a somewhat stern gaze at me.
 //［涼子］：とりあえず催眠治療は、このくらいにしておきましょう。
-[Ryouko]:Anyway, let's stop here for the hypnotherapy.
+[Ryouko]:Anyway, let's stop the hypnotherapy here.
 //［宏治］：えっ‥‥？　もう終わりですか。
-[Kouji]:What? Is it already finished?
+[Kouji]:What? Is it over already?
 //［涼子］：終わりではないわ。今日は、その夢のことも聞かせて頂戴。
 [Ryouko]:No, not yet. Today, I'd like you to tell me about your dream too.
 //［宏治］：ゆ、夢のことも‥‥ですか？
@@ -2204,53 +2204,53 @@ Sole...<$0C> survivor...?
 ‥‥‥‥Me‥‥‥‥‥‥‥‥？
 #Title screen, 3rd save point
 //そこは、ヒンヤリとした部屋だった‥‥。
-
+The room was nice and cool.
 //ファルは黙って、私をこの部屋へ案内した。ここは、私が最初に目覚めた部屋だったか‥‥‥‥。
-
+Fal silently led me towards this room. Was this the place where I first woke up?
 //ここで待っていなさい、そう言い残すと、ファルは足早に部屋を退出していった。
-
+Ordering me to wait here, Fal left the room at a fast pace. 
 //看護の者をよこすという事だったが‥‥‥‥。
-
+Was it to dispatch a nurse for me?
 //［コウジ］：看護、か‥‥‥‥。
-
+[Kohji]:A nurse...?
 //あらためて、自分の姿を確認してみる。
-
+Once again, I took a look at my appearance.
 //薄手のシャツ１枚に、丈の比較的短いズボン、それに胸についたネームプレート‥‥それが、私の身につけているモノの、全てだった。
-
+A thin short, a relatively short pair of trousers, and this nameplate stuck on my chest. I just listed everything I was wearing.
 //身体に異状はなさそうだった。そこらへんを、少し歩いてみる。
-
+Nothing seemed wrong with my body. I tried walking, remaining inside the area dictated by Fal. 
 //コッ‥‥コッ‥‥コッ‥‥‥‥。<$04><$30><$05>
-
+*tap* *tap* *tap*<$04><$30><$05>
 //意味もなく部屋を歩き回ると、硬い音が部屋に響きわたる。
-
+I was walking aimlessly in circle inside the room. The hard sound of my footsteps kept resounding.
 //今は、ブーツのような靴を借りて、かろうじて素足という事態だけは免れていた。
-
+I've been lent footwear resembling a pair of boots. At least I was able to escape from being barefoot.
 //どうやら、自分の名前もわかった。ここが、どこなのかも判明した‥‥。
-
+Finally, I had learnt my name. I knew where I was.
 //しかし‥‥‥‥。
-
+Yet...
 //逆に言えば、分かっているのは、それだけとも言える。
-
+You could as well say this was the only thing I knew.
 //［コウジ］：まぁ、いいさ‥‥。
-
+[Kohji]:Well, whatever.
 //改めて部屋を見回してみる。意外に綺麗に片づいた部屋だった。
-
+I looked around the room one more time. It was unexpectedly clean.
 //右側には、ついたてのようなモノが置いてある。しかし、誰かと相部屋、という訳でもなさそうだ。
-
+On my right, there was something resembling a partitioning screen. Yet it didn't seem like a was sharing the room with someone else.
 //左側に視線を移すと、何かの端末のような機械が目に入ってきた。しかしディスプレイ上には、何も表示されていない。
-
+On my left, there was a device resembling a computer terminal. Yet nothing was displayed on it.
 //質素、という言葉が相応しい部屋だった‥‥。
-
+That was a room that could adequately be called plain.
 //［コウジ］：これで、ドアにカギが掛かっていたら、ほとんど監禁だな‥‥。
-
+[Kohji]:If I've been locked in there, you could practically call this confinement...
 //言ってみて、改めて気付いた。そうか、その可能性もあるな‥‥。
-
+Thinking about it twice, being locked in there was among the domain of the possible.
 //　◆ ドアを開けてみよう。
-
+　◆ Let's try to open the door.
 //　◆ ここで待つように言われたのだから、じっと待ってよう。
-
+　◆ I've been told to remain here, so let's wait patiently.
 //ドアを開けてみよう。
-
+Let's try to open the door.
 //確認するのは、決して無為ではないように思えた。
 
 //あの、ファルという女性が、私をどのように扱うかによって、私の、ここでの立場が見えてくるような気がする。
