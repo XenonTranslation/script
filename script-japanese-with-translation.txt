@@ -99,16 +99,15 @@ A dream...?
 //0010
 0010
 //そうか‥‥‥。
-(I see...)
+/*(I see...)
 #I don't really know I should translate that "そうか"...
 #Oh yeah, that's right. . . 
 //どうやら病室に、私はいるらしい‥‥。
 It seemed I was in a hospital room.
 //しかし、どうも意識がはっきりとしない‥‥。
-But my awareness was somewhat dimmed.
-#But somehow I just couldn't think straight
+But somehow I just couldn't think straight.
 //いや、意識というか‥‥‥‥。
-No wait, that wasn't it. It was more like. . .
+No wait, that wasn't it. It was more like...
 //どうも覚えがないな‥‥。
 I couldn't remember anything...
 //なぜ私は、ここに居なくてはならないんだろうか‥‥？
@@ -116,26 +115,22 @@ Why should I be here in the first place?
 //ここはどうやら、ベッドの上だ。しかも病室らしい‥‥。
 It seemed I was on top of a bed, inside a hospital room.
 //ここにいるということは、私は何か病気か、あるいは怪我でもしたのだろうか‥‥。
-I probably fell off to some illness or injury. That must have been why I was here...
-#Maybe I was just sick, or I got injured somehow. Yes, maybe that was why I was here.
+Maybe I was just sick, or I got injured somehow. Yes, maybe that was why I was here.
 //あたりはシンと静まっている‥‥。
 The surroundings were deadly quiet.
 #Everything was deadly quiet.
 //私の下で、ベッドが微かにきしむ音を伝えてくるだけだ‥‥。
 The only thing I could hear was the creaking of the bed under me.
 //ベッドから身を起こそうとして、私は気が付いた。
-As I tried to get up, I noticed.
-#It was only when I tried to get up that I noticed.
+It was only when I tried to get up that I noticed.
 //何だ、これは‥‥。
-What is this?
-#What the. . . 
+What the... 
 //私の身体のあちこちに、白く丸い吸盤のような物体が付着していた。額、胸、腹、脚と各部に数個ずつ。
 Round white things resembling suckers were covered my body. There were several on each of my limbs, including forehead, chest, stomach and legs.
 //その白い吸盤のような物体からは、細い導線のようなものが伸びていて、ベッド傍らの不可解な箱へと繋がっていた。
 The thin wires connected to these white sucker-like things were in turn connected to a mysterious box at the bedside.
 //これではまるで、モルモットみたいじゃないか‥‥。
-I really looked like a guinea pig.
-#Am I some kind of guinea pig?
+Am I some kind of guinea pig?
 //私は１つ１つ、丸い吸盤を身体から引き剥がしていった。白いノリのような跡は、手でこすって消す。
 I started pulling off the suckers one by one and used my hands to rub away the white marks they left on my skin.
 //ようやく全部の吸盤を引き剥がすと、ベッドから身を起し、次に行動すべきことを思案してみた。
@@ -143,19 +138,19 @@ After I finally finished removing all the suckers, I rose up and started thinkin
 //　◆ ここにいても時間の無駄だ。部屋を出てみよう。
 ◆ Being here is a waste of time. I'm getting out of here.
 #Sticking around here is pointless. I'm getting out of here.
+#Too bad, a choice is supposed to be less or equal than 60 characters long. Else, the game gets glitchy. I remerber I had a hard time cutting it down to 60 characters.
 //　◆ ナースを呼ぶことは出来ないだろうか‥‥。
 ◆ Maybe I can call a nurse...
 //　◆ まずは部屋の中を色々と調べてからだ。
 ◆ First, I should investigate the inside of the room.
 //ここにいても時間の無駄だ。部屋を出てみよう。
-Remaining here is a waste of time. I'm getting out of this room.
+/*Remaining here is a waste of time. I'm getting out of this room.
 #Sticking around here is pointless. Maybe I should try to leave the room.
 //そう自分に言い聞かせると、私はベッドから立ち上がった。
 As soon as I'd convinced myself that this was the best course of action, I got out bed.
 //ヒンヤリとした感触が、足の裏から伝わってくる。私は軽く身震いをしてしまった。
-I could feel the cold floor from the base of my feet. I shivered slightly.
+The floor felt pleasantly cool under the soles of my feet. I shivered slightly.
 #ひんやりhas he implied meaning that the cold feels good so consider the alternative of
-#The floor felt pleasantly cool under the soles of my feet.I shivered slightly.
 //‥‥‥‥！？
 ‥‥‥‥！？
 //（服は‥‥‥‥。）
@@ -2265,13 +2260,13 @@ Thinking about it twice, being locked in there was among the domain of the possi
 //ドアを開けてみよう。
 Let's try to open the door.
 //確認するのは、決して無為ではないように思えた。
-
+Remaining idle won't ever bring us answers.
 //あの、ファルという女性が、私をどのように扱うかによって、私の、ここでの立場が見えてくるような気がする。
-
+/*I had some ideas concerning how that woman, Fal, would treat me.
 //そう考えると、私はドアのスイッチを押そうとした。その時‥‥‥‥。
-
+Thinking this, I tried to push the switch. This moment...
 //ウィーン‥‥‥‥。
-
+*slide*
 //［女の声］：きゃっ！
 
 //甲高い声をあげて、女性がドアの前に尻餅をついていた。どうやら、私とほぼ同時にドアを開けようとしたらしい。
