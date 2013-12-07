@@ -1881,7 +1881,7 @@ But my body felt really cool on one side.
 //そのギャップが、不快感をより増大させているようだった‥‥。
 /*This gap was only increasing my discomfort.
 //それに、この‥‥‥‥。
-Besides, that...
+Besides...
 //何だろう、この音は。
 What's that sound?
 //重々しいサウンドが、耳に響いてくる‥‥‥‥。
@@ -2143,7 +2143,7 @@ Sighing deeply, Fal shrugged.
 //少し、切なげな表情を私に向けると、ゆっくりと口を開き始めた。
 Turning a somewhat pained face towards me, she slowly opened her mouth.
 //［ファル］：ここはね‥‥‥‥。
-[Fal]:You know, we are inside..
+[Fal]:You know, we are inside...
 //ピーピッ、ピーピッ‥‥。
 *beep* *beep*
 //壁に埋め込まれているコンソールパネルが鳴り出した。硬い電子音が、あたりの空気をピリピリと振動させる。
@@ -2268,21 +2268,21 @@ Thinking this, I tried to push the switch. This moment...
 //ウィーン‥‥‥‥。
 *slide*
 //［女の声］：きゃっ！
-
+[Woman's voice]:Yikes!
 //甲高い声をあげて、女性がドアの前に尻餅をついていた。どうやら、私とほぼ同時にドアを開けようとしたらしい。
-
+Letting out a high-pitched shriek, the woman fell on her butt. It seemed we tried to open the door roughly at the same time.
 //ここで待つように言われたのだから、じっと待ってよう。
-
+I've been told to remain here, so let's wait patiently.
 //ここはスペースシップの中、しかも場所は恒星の真上ときている。
-
+We were inside a spaceship, and right above a far away star!
 //この部屋から出ることができたとしても、ただそれだけということだ。
-
+Even if I left this room, there was nothing more I could do.
 //［コウジ］：生殺与奪は、完全に向こうが握っているということか。
-
+[Kohji]:I was completely at the mercy of those people...
 //私は、わざと声に出して言ってみた。これは、考えすぎというものだろうか‥‥。
-
+I said this phrase aloud on purpose. Maybe I was over-thinking it...
 //幸い、ベッドは柔らかく寝心地は良さそうだった。
-
+Hopefully, the bed was soft and looked comfortable.
 //私は、ヒンヤリとしたシーツの上へ仰向けに倒れ込むと、手を頭の後ろで組んで天井を見つめた。
 
 //［コウジ］：（ま、慌てる必要は無いさ‥‥‥‥。）
